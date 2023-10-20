@@ -30,24 +30,7 @@ Klicke einfach, wie auf den Bildern zu sehen, auf die entsprechenden Schaltfläc
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/b388b0d7-f1f4-4f16-a3bb-fdc3fcc7c669)<br/><br/>
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/26f94fe0-cb35-479b-b0dc-6b35310506db)<br/><br/>
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/5dce530b-54a0-4795-92a6-bcd7fe7ad197)<br/><br/>
-
-**Am besten alle E-Mails deaktivieren die von Plex kommen:**
-1. Auf "Verwalte Emails" klicken.<br/>
-2. Alle Schaltflächen deaktivieren.<br/>
-3. "Update Preference" anklicken.<br/>
-
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/87a216c8-4208-4bf3-abe3-e003d7844d54)<br/><br/>
-  
-**Es sollte nun so aussehen:**  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/01299e7e-8202-4bb8-a3d8-3c718cafb313)<br/><br/>
-  
-**Jetzt wieder zurück und die "Experimentelle Funktionen" einschalten:**  
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/b9c0edaf-451c-4e67-87a2-720d00a05492)<br/><br/>
-  
-**Auf die "Datenschutzeinstellungen" Schaltfläche klicken:**  
-1. Folgendes ausschalten.<br/>
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/74cb1e14-0e30-45a5-bb25-a107e60a5046)<br/><br/>
   
 ---  
   
