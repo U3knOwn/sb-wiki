@@ -7,6 +7,7 @@ description: Wiki für alles, was mit Plex zu tun hat und mehr!
 # Startseite
   
 **Willkommen in unserem Wiki für alles rund um Plex!**
+<br/>
 **Dieses Wiki soll dir helfen, deine Fragen und Anliegen rund um Plex und die dazugehörige Hardware bestmöglich zu beantworten.**
 
 
