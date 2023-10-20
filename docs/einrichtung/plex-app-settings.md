@@ -4,7 +4,7 @@ order: -5
 description: Lerne, wie man die Plex App einstellt
 ---
 
-# Einstellungen der Plex App
+# 5. Einstellungen der Plex App
 
 ## Android:
 
