@@ -7,7 +7,7 @@ description: Lerne, wie man Einstellungen in Plex vornimmt.
 # Einstellungen auf Plex
 
 !!!danger Achtung
-Es wird dringend empfohlen, diese Anleitung genau zu befolgen, da Abweichungen zu Fehlfunktionen führen können.
+Es wird dringend empfohlen, diese Anleitung genau zu befolgen. Abweichungen können zu Fehlfunktionen führen.
 !!!
 
 1. Rufe https://www.plex.tv/ über deinen Webbrowser auf<br/>
@@ -20,8 +20,8 @@ Es wird dringend empfohlen, diese Anleitung genau zu befolgen, da Abweichungen z
 ---  
   
 !!!info Info  
-Auf der linken Seite sehen wir jetzt einige Schaltflächen die man anklicken kann.
-Einfach wie auf den Bildern zu sehen die jeweiligen Schaltflächen anklicken und folgende Einstellungen vornehmen:
+Auf der linken Seite sehen wir nun einige Schaltflächen, die angeklickt werden können.
+Klicke einfach, wie auf den Bildern zu sehen, auf die entsprechenden Schaltflächen und nehme folgende Einstellungen vor:
 !!!  
 
 ---
@@ -41,11 +41,11 @@ Einfach wie auf den Bildern zu sehen die jeweiligen Schaltflächen anklicken und
 **Es sollte nun so aussehen:**  
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/01299e7e-8202-4bb8-a3d8-3c718cafb313)<br/><br/>
   
-**Jetzt wieder zurück auf plex.tv und die "Experimentelle Funktionen" einschalten:**  
+**Jetzt wieder zurück und die "Experimentelle Funktionen" einschalten:**  
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/b9c0edaf-451c-4e67-87a2-720d00a05492)<br/><br/>
   
 **Auf die "Datenschutzeinstellungen" Schaltfläche klicken:**  
-1. Folgendes abschalten.<br/>
+1. Folgendes ausschalten.<br/>
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/74cb1e14-0e30-45a5-bb25-a107e60a5046)<br/><br/>
   
@@ -63,8 +63,8 @@ Einfach wie auf den Bildern zu sehen die jeweiligen Schaltflächen anklicken und
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/5fc14e34-3c21-4aa1-9756-a5e2e7a2fc57)<br/><br/>
   
-**Nun deaktivieren wir alle Checkboxen und klicken dann auf "Änderungen speichern":**  
-1. Am besten ist es, alle Streaming-Dienste zu deaktivieren, da wir nun einen Dienst haben.<br/>
+**Nun deaktivieren wir alle Kontrollkästchen und klicken auf "Änderungen speichern":**
+1. Es ist besser, alle Streaming-Dienste zu deaktivieren, da wir jetzt einen Dienst haben.<br/>
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/3b170793-b9ba-4a70-991b-c3947e5e4f85)<br/><br/>
   
@@ -72,16 +72,16 @@ Einfach wie auf den Bildern zu sehen die jeweiligen Schaltflächen anklicken und
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/9435e00b-2ba9-4814-94cb-bff74ebec60b)<br/><br/>
   
-Die erweiterte Einstellungen sollte aktiviert werden:<br/>
+Die erweiterte Einstellungen sollten aktiviert sein:<br/>
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/2c7d2442-6fa6-4e63-8e46-652375535b42)<br/><br/>
   
-Jetzt folgende Einstellungen vornehmen und dann auf "Änderungen Speichern" klicken:<br/>
+Nun folgende Einstellungen vornehmen und anschließend auf "Änderungen Speichern" klicken:<br/>
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/6fac64cf-0bd3-4e4a-ad7e-52aca8aabbb5)<br/><br/>
   
-Die Option "Synchronisieren" sollte eingeschaltet werden:<br/>
-1. Es sieht dann so aus wenn es aktiviert ist.<br/>
+Die Option "Synchronisieren" muss aktiviert sein:<br/>
+1. So sieht es aus, wenn es aktiviert ist.<br/>
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/fec4e685-8530-43c9-a221-87fcdc0adefc)<br/><br/>
 
@@ -106,7 +106,8 @@ Die Option "Synchronisieren" sollte eingeschaltet werden:<br/>
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/770a7839-10a9-4316-bca9-94450449fda4)<br/><br/>
 
 !!!info Info
-Den "Anzeigename" am besten in "Medien" umbenennen, dieser wird auch Später so in Plex angezeigt anstatt z.B "594f39d4f45d", was deutlich besser aussieht.
+Den "Anzeigename" sollte man umbenennen wie man will, er wird später auch so in Plex angezeigt anstatt z.B. "594f39d4f45d", was viel besser aussieht.
+Meine Empfehlung ist ihn in "Medien" umzubenennen.
 !!!
 
 ---
@@ -126,8 +127,8 @@ Den "Anzeigename" am besten in "Medien" umbenennen, dieser wird auch Später so 
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/6bd7f889-4ac0-4cca-bac0-b7c406508089)<br/><br/>
 
 !!!info Info
-Wird "Alle Mediatheken während der Wartungsmaßnahmen aktualisieren" aktiviert, dann wird täglich ein Mediatheken-Scan ausgeführt.
-Dies ist sehr wichtig da sonst keine neuen Inhalte bei euch angezeigt werden.
+Wenn "Alle Mediatheken während der Wartung aktualisieren" aktiviert ist, wird täglich ein Scan der Mediatheken durchgeführt.
+Dies ist sehr wichtig, da sonst keine neuen Inhalte mehr erscheinen.
 !!!
 
 ---
@@ -141,29 +142,29 @@ Dies ist sehr wichtig da sonst keine neuen Inhalte bei euch angezeigt werden.
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/7ab53813-5f17-4ff3-9bf0-0c659500365b)<br/><br/>
 
 
-- Jetzt werden die Mediathek eingelesen, dies ist sehr wichtig da sonst einige Medien nicht wiedergegeben werden können.<br/>
-- Es kann auch sein das was ihr sucht nicht gefunden werden kann.<br/>
-- Es können auch Fehlermeldungen sein wenn man was abspielen möchte.<br/>
-- Dies muss nur einmal gemacht werden in der Regel, da ja täglich die Mediathek automatisch eingelesen wird.<br/>
+- Jetzt wird die Mediathek eingelesen, das ist sehr wichtig, da sonst einige Medien nicht abgespielt werden können.<br/>
+- Es kann auch sein, dass das, was man sucht, nicht gefunden wird.<br/>
+- Es kann auch sein das ihr Fehlermeldungen bekommt wenn ihr etwas abspielen wollt.<br/>
+- Das muss in der Regel nur einmal gemacht werden, da die Mediathek jeden Tag automatisch eingelesen wird.<br/>
 <br/>
 
 **Folgendes Ausführen um den Mediatheken-Scan zu starten:**
 
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/2fcbd5a1-3d8c-4dd5-908e-2b45ae382278)<br/><br/>
 
-**Sobald man es ausgeführt hat, startet oben rechts der drehende Kreis.**
+**Wenn man das gemacht hat, fängt oben rechts der rotierende Kreis an zu drehen.**
 <br/>
-**Wenn man jetzt drauf drückt, sieht man was er gerade Scant.**
+**Wenn man jetzt auf ihn drückt, sieht man, was er gerade scannt.**
 
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/772c735d-e7da-4551-87ed-05b0af740f9c)<br/><br/>
 
-**Der erste Scan dauert etwas länger, da die Datenbank sehr groß ist.**
+**Der erste Scan dauert etwas länger, da die Mediathek sehr groß ist.**
 <br/>
-**Sobald der Scan abgeschlossen wurde, verschwindet dieser drehende Kreis wieder.**
+**Sobald der Scan abgeschlossen wurde, verschwindet dieser rotierende Kreis wieder.**
 
 ---
 
-**Jetzt öffnen wir nochmal die Webseite wo ihr eure AppBox geclaimt habt und macht einen Restart des Servers.**
+**Jetzt öffnen wir noch einmal die Webseite, auf der ihr eure AppBox geclaimt habt und starten den Server einmal neu.**
 
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/466af5bd-65dd-41ba-9d04-23e25cdbb4cb)<br/><br/>
 
