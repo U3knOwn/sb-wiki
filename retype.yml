@@ -1,0 +1,12 @@
+url: sb-wiki.de
+
+input: ./docs
+
+branding:
+  title: SB Wiki
+
+edit:
+  repo: "https://github.com/U3knOwn/sb-wiki/edit"
+  base: /docs/
+  branch: "main"
+  label: "Edit this page"
