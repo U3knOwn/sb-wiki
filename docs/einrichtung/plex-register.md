@@ -1,5 +1,5 @@
 ---
-label: 1. Bei Plex registrieren
+label: Bei Plex registrieren
 order: -1
 description: Lerne, wie man sich bei Plex registriert
 ---
