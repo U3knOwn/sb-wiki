@@ -1,10 +1,10 @@
 ---
-label: Bei Plex registrieren
+label: 1. Bei Plex registrieren
 order: -1
 description: Lerne, wie man sich bei Plex registriert
 ---
 
-# Bei Plex registrieren
+# 1. Bei Plex registrieren
 
 1. Rufe über deinen Webbrowser https://www.plex.tv/sign-up auf.
 2. Gib deine E-Mail-Adresse ein und wähle ein sicheres Passwort.
