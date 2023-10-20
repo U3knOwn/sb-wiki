@@ -5,10 +5,7 @@ input: ./docs
 locale: de
 
 branding:
-  title: SB
   label: Wiki
-  logo: /static/book.svg
-  logoDark: /static/book.svg
 
 edit:
   repo: "https://github.com/U3knOwn/sb-wiki/edit"
