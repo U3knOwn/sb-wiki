@@ -32,6 +32,8 @@ Es ist nicht zwingend notwendig dies zu deaktivieren, empfehle es aber jeden der
 
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/74cb1e14-0e30-45a5-bb25-a107e60a5046)<br/><br/>
 
+---
+
 ## E-Mails von Plex deaktivieren
 
 **Es ist euch überlassen ob ihr E-Mails von Plex erhalten wollt.**
