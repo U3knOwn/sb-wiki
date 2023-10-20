@@ -24,7 +24,7 @@ Hier haben wir die am häufigsten gestellten Fragen gesammelt und ausführlich b
 Das ist oft der schnellste Weg, um Antworten auf deine Fragen zu finden.
   
   
-#### **📺 Hardware**
+#### **⚙️ Hardware**
 Die Wahl der richtigen Hardware ist entscheidend, um Plex optimal nutzen zu können.  
 In der Hardware-Bereich findest du Empfehlungen für die Auswahl der richtigen Hardware zum Abspielen der Inhalte.  
 Unser Ziel ist es, dir zu helfen, das beste Setup für deinen Bedarf zu finden.
