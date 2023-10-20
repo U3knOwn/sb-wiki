@@ -2,6 +2,8 @@ url: sb-wiki.de
 
 input: ./docs
 
+locale: de
+
 branding:
   title: SB Wiki
 
