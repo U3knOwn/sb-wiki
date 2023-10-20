@@ -13,9 +13,3 @@ edit:
   base: /docs/
   branch: "main"
   label: "Diese Seite bearbeiten"
-
-  
-footer:
-  copyright: "Made with ❤️ by U3knOwn"
-  links:
-    - text: Made with ❤️ by U3knOwn
