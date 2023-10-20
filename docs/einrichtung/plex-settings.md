@@ -1,7 +1,7 @@
 ---
 label: Allgemeine Einstellungen von Plex
 order: -4
-description: Lerne, wie man Einstellungen in Plex vornimmt.
+icon: light-bulb
 ---
 
 # 4. Allgemeine Einstellungen von Plex
