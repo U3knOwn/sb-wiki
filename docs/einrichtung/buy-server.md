@@ -1,7 +1,7 @@
 ---
 label: AppBox bestellen
 order: -2
-description: Lerne, wie man eine AppBox holt
+icon: credit-card
 ---
 
 # 2. AppBox bestellen
