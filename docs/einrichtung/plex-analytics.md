@@ -1,7 +1,7 @@
 ---
 label: (Optional) Analytics und E-Mails deaktivieren
 order: -6
-description: Lerne, wie man die Analytics in Plex deaktiviert
+icon: tools
 ---
 
 # 6. Optional: Analytics und E-Mails von Plex deaktivieren
