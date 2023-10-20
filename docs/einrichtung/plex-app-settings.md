@@ -1,7 +1,7 @@
 ---
 label: Einstellungen der Plex App
 order: -5
-description: Lerne, wie man die Plex App einstellt
+icon: devices
 ---
 
 # 5. Einstellungen der Plex App
