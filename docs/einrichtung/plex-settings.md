@@ -20,8 +20,8 @@ Es wird dringend empfohlen, diese Anleitung genau zu befolgen, da Abweichungen z
 ---  
   
 !!!info Info  
-Auf der linken Seite sehen wir jetzt einige Schaltflächen die man anklicken kann.<br/>
-Einfach wie auf den Bildern zu sehen die jeweiligen Schaltflächen anklicken und folgende Einstellungen vornehmen:<br/>
+Auf der linken Seite sehen wir jetzt einige Schaltflächen die man anklicken kann.
+Einfach wie auf den Bildern zu sehen die jeweiligen Schaltflächen anklicken und folgende Einstellungen vornehmen:
 !!!  
 
 ---
@@ -83,8 +83,87 @@ Jetzt folgende Einstellungen vornehmen und dann auf "Änderungen Speichern" klic
 Die Option "Synchronisieren" sollte eingeschaltet werden:<br/>
 1. Es sieht dann so aus wenn es aktiviert ist.<br/>
   
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/fec4e685-8530-43c9-a221-87fcdc0adefc)  
-  
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/fec4e685-8530-43c9-a221-87fcdc0adefc)<br/><br/>
+
+--- 
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/260b1f03-1976-47e7-9082-492d11c03a0f)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/1de852a3-b5ad-4dd6-8bec-5a453f36ba1d)<br/><br/>
+
+--- 
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/deed08ef-570e-46d0-a06e-2fea45f08998)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/cd34d40c-3840-42d5-bc60-4431606eaff1)<br/><br/>
+
+--- 
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/aeb6c581-66f5-4e50-bba2-46eccd42bfa9)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/5ad2a484-823a-457a-a2e1-4b813800cf65)<br/><br/>
+
+---
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/90cd7ffc-a872-444f-b740-671a86a3774b)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/770a7839-10a9-4316-bca9-94450449fda4)<br/><br/>
+
+!!!info Info
+Den "Anzeigename" am besten in "Medien" umbenennen, dieser wird auch Später so in Plex angezeigt anstatt z.B "594f39d4f45d", was deutlich besser aussieht.
+!!!
+
+---
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/3ff9ea23-d0f7-427f-9c4c-09045b309f44)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/dfebc972-1f68-4578-a195-9f90ee52264c)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/19d5e887-0b54-49fa-ab69-790259e97edd)<br/><br/>
+
+---
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/1bc02b42-5081-4a0e-a04b-ebaa5baa9b2f)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/47d763bc-8073-4fc9-b53b-6012c91b1f3f)<br/><br/>
+
+---
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/21abc4de-f5da-43e2-8b94-c1d6ea37fff3)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/6bd7f889-4ac0-4cca-bac0-b7c406508089)<br/><br/>
+
+!!!info Info
+Wird "Alle Mediatheken während der Wartungsmaßnahmen aktualisieren" aktiviert, dann wird täglich ein Mediatheken-Scan ausgeführt.
+Dies ist sehr wichtig da sonst keine neuen Inhalte bei euch angezeigt werden.
+!!!
+
+---
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/949f9d62-64f3-432d-968b-3955dd67ee96)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/a4804744-5a58-4b57-8256-1cc5e58ba70d)<br/><br/>
+
+---
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/10a11ccc-c9a9-4c52-952a-cb94f0ee90ab)<br/><br/>
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/7ab53813-5f17-4ff3-9bf0-0c659500365b)<br/><br/>
 
 
+- Jetzt werden die Mediathek eingelesen, dies ist sehr wichtig da sonst einige Medien nicht wiedergegeben werden können.<br/>
+- Es kann auch sein das was ihr sucht nicht gefunden werden kann.<br/>
+- Es können auch Fehlermeldungen sein wenn man was abspielen möchte.<br/>
+- Dies muss nur einmal gemacht werden in der Regel, da ja täglich die Mediathek automatisch eingelesen wird.<br/>
+<br/>
+**Folgendes Ausführen um den Mediatheken-Scan zu starten:**
 
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/2fcbd5a1-3d8c-4dd5-908e-2b45ae382278)<br/><br/>
+
+**Sobald man es ausgeführt hat, startet oben rechts der drehende Kreis.**
+<br/>
+**Wenn man jetzt drauf drückt, sieht man was er gerade Scant.**
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/772c735d-e7da-4551-87ed-05b0af740f9c)<br/><br/>
+
+**Der erste Scan dauert etwas länger, da die Datenbank sehr groß ist.**
+**Sobald der Scan abgeschlossen wurde, verschwindet dieser drehende Kreis wieder.**
+
+---
+
+**Jetzt öffnen wir nochmal die Webseite wo ihr eure AppBox geclaimt habt und macht einen Restart des Servers.**
+
+![](https://github.com/U3knOwn/sb-wiki/assets/148533561/466af5bd-65dd-41ba-9d04-23e25cdbb4cb)<br/><br/>
+
+**Nach ca. 2 Minuten sollte der Server wieder hochgefahren sein.**
+**Jetzt sollte alles eingestellt sein und man kann mit dem Streamen anfangen.**
