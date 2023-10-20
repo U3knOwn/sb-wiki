@@ -13,9 +13,7 @@ Es wird dringend empfohlen, diese Anleitung genau zu befolgen. Abweichungen kön
 1. Rufe https://www.plex.tv/ über deinen Webbrowser auf<br/>
 2. Drückt oben in der Leiste auf "Sign In"<br/>
 3. Gibt eure Plex E-Mail-Adresse und Passwort ein und drückt dann auf Anmelden.<br/>
-4. Jetzt den Reiter ganz oben rechts anklicken und auf "Account Settings" klicken.<br/>
-
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/b3e765ed-7879-427d-85af-9bf97d5a2aaa)<br/><br/>
+4. Öffne zunächst die [Plex Einstellungen](https://app.plex.tv/desktop/#!/settings/web/general "Plex Einstellungen") über das Schraubenschlüssel Symbol. <br/>
 
 ---  
   
@@ -26,11 +24,19 @@ Klicke einfach, wie auf den Bildern zu sehen, auf die entsprechenden Schaltfläc
 
 ---
 
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/d3d05d5c-2760-461f-90a6-a56f45fe7391)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/b388b0d7-f1f4-4f16-a3bb-fdc3fcc7c669)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/26f94fe0-cb35-479b-b0dc-6b35310506db)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/5dce530b-54a0-4795-92a6-bcd7fe7ad197)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/b9c0edaf-451c-4e67-87a2-720d00a05492)<br/><br/>
+### Konto
+Hier kannst du die Spracheinstellungen nach deinen Wünschen anpassen. Wir empfehlen allerdings Deutsch, da wird großteils Deutschen Content bieten!
+1. Sprache: Deutsch
+2. Unter Ton & Untertitel Einstellungen:
+- Ton- & Untertitelspuren automatisch auswählen: AN
+- Bevorzugte Ton-Sprache: Deutsch
+- Bevorzugte Sprache der Untertitel: Deutsch
+- Modus zur automatischen Auswahl der Untertitel: bei fremdsprachigem Ton
+- Untertitel für Gehörlose (SDH) suchen: Bevorzuge Nicht Gehörlosen-Untertitel
+- Suche nach "Erzwungenen" Untertiteln: Bevorzuge nicht "erzwungene" Untertitel
+3. Aktiviere folgende Option um deinen Gespielt Status zu speichern und zu synchronisieren:
+Synchronisiere meinen "Gespielt"-Status und Bewertungen
+
   
 ---  
   
