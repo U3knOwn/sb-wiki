@@ -6,6 +6,7 @@ locale: de
 
 branding:
   title: SB Wiki
+  label: Docs
 
 edit:
   repo: "https://github.com/U3knOwn/sb-wiki/edit"
