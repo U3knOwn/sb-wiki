@@ -1,7 +1,7 @@
 ---
 label: Verknüpfung der AppBox mit Plex
 order: -3
-description: Lerne, wie man die AppBox mit Plex verbindet
+icon: link
 ---
 
 # 3. Verknüpfung der AppBox mit Plex
