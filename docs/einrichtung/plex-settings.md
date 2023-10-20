@@ -6,7 +6,7 @@ description: Lerne, wie man Einstellungen in Plex vornimmt.
 
 # Einstellungen auf Plex
 
-!!!info Info
+!!!danger Achtung
 Es wird dringend empfohlen, diese Anleitung genau zu befolgen, da Abweichungen zu Fehlfunktionen führen können.
 !!!
 
@@ -146,6 +146,7 @@ Dies ist sehr wichtig da sonst keine neuen Inhalte bei euch angezeigt werden.
 - Es können auch Fehlermeldungen sein wenn man was abspielen möchte.<br/>
 - Dies muss nur einmal gemacht werden in der Regel, da ja täglich die Mediathek automatisch eingelesen wird.<br/>
 <br/>
+
 **Folgendes Ausführen um den Mediatheken-Scan zu starten:**
 
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/2fcbd5a1-3d8c-4dd5-908e-2b45ae382278)<br/><br/>
@@ -157,6 +158,7 @@ Dies ist sehr wichtig da sonst keine neuen Inhalte bei euch angezeigt werden.
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/772c735d-e7da-4551-87ed-05b0af740f9c)<br/><br/>
 
 **Der erste Scan dauert etwas länger, da die Datenbank sehr groß ist.**
+<br/>
 **Sobald der Scan abgeschlossen wurde, verschwindet dieser drehende Kreis wieder.**
 
 ---
@@ -166,4 +168,5 @@ Dies ist sehr wichtig da sonst keine neuen Inhalte bei euch angezeigt werden.
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/466af5bd-65dd-41ba-9d04-23e25cdbb4cb)<br/><br/>
 
 **Nach ca. 2 Minuten sollte der Server wieder hochgefahren sein.**
+<br/>
 **Jetzt sollte alles eingestellt sein und man kann mit dem Streamen anfangen.**
