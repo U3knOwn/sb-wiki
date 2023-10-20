@@ -4,7 +4,7 @@ order: -2
 description: Lerne, wie man eine AppBox holt
 ---
 
-# AppBox bestellen
+# 2. AppBox bestellen
 
 1. Rufe die Website mit deinem Webbrowser auf.
 2. Klicke nun oben auf "Shop".
