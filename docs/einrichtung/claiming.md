@@ -4,7 +4,7 @@ order: -3
 description: Lerne, wie man die AppBox mit Plex verbindet
 ---
 
-# Verknüpfung der AppBox mit Plex
+# 3. Verknüpfung der AppBox mit Plex
 
 1. Logge dich mit den per Email erhaltenen Daten ein
 2. Klicke nun den bestellten Server, zum Beispiel Server #1245
