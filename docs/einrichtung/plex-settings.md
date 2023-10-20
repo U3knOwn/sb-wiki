@@ -1,10 +1,10 @@
 ---
-label: Einstellungen auf Plex
+label: Plex.tv Webeinstellungen
 order: -4
 description: Lerne, wie man Einstellungen in Plex vornimmt.
 ---
 
-# Einstellungen auf Plex
+# Plex.tv Webeinstellungen
 
 !!!danger Achtung
 Es wird dringend empfohlen, diese Anleitung genau zu befolgen. Abweichungen können zu Fehlfunktionen führen.
