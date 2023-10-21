@@ -23,9 +23,9 @@ Wird eine Uhrzeit ausgewählt wird, dann kann kein Automatischer Mediatheken-Sca
 9. Auf ***Check this server*** klicken.
 10. Jetzt folgendes umsetzen:
 
+-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/556bd405-7419-46b4-8407-539409c60847)
+
 !!!info Info
 Alles was hier eingestellt ist, wird auch auf dem eurem Server später gescannt.<br/>
 Bitte wundert euch nicht, wenn hier nicht alles angezeigt wird, da ich einige Mediatheken bei mir entfernt habe.<br/>
 !!!
-
--![](https://github.com/U3knOwn/sb-wiki/assets/148533561/556bd405-7419-46b4-8407-539409c60847)
