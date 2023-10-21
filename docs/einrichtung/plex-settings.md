@@ -26,7 +26,7 @@ Wir empfehlen jedoch ***Deutsch***, da die meisten Inhalte auf Deutsch angeboten
 !!!
 
 1. [Kontoeinstellungen](https://app.plex.tv/desktop/#!/settings/account) öffnen.
-2. Folgendes umsetzen:
+2. Folgendes umsetzen und speichern:
 
 **Sprache:**
 - ***Deutsch***
@@ -49,8 +49,13 @@ Wir empfehlen jedoch ***Deutsch***, da die meisten Inhalte auf Deutsch angeboten
 
 ## Online Medienquellen
 
-1. [Online Medienquellen](https://app.plex.tv/desktop/#!/settings/account) öffnen.
-2. Folgendes umsetzen:
+1. [Online Medienquellen](https://app.plex.tv/desktop/#!/settings/online-media-sources) öffnen.
+2. Folgendes umsetzen und speichern:
+
+!!!info Info 
+Discover zeigt dir die aktuell beliebtesten Filme & Serien und was am häufigsten gemerkt wurde.<br/>
+Ändere einfach ***Deaktiviert für verwaltete Benutzer*** auf ***Deaktiviert***, wenn du das nicht möchtest.<br/>
+!!!
 
 - Live TV: ***Deaktiviert***
 - Movies & TV: ***Deaktiviert***
@@ -58,11 +63,6 @@ Wir empfehlen jedoch ***Deutsch***, da die meisten Inhalte auf Deutsch angeboten
 - Discover Medienquelle: ***Deaktiviert für verwaltete Nutzer***
 - Zeige auch „Anderswo anschauen“ Suchergebnisse: ***Deaktiviert***
 - Zeige Verfügbarkeit auf anderen Streamingdiensten auf Detailseiten: ***Deaktiviert***
-
-!!!info Info 
-Discover zeigt dir die aktuell beliebtesten Filme & Serien und was am häufigsten gemerkt wurde.<br/>
-Ändere einfach ***Deaktiviert für verwaltete Benutzer*** auf ***Deaktiviert***, wenn du das nicht möchtest.<br/>
-!!!
 
 ---  
 
@@ -78,22 +78,23 @@ Wenn du keine Empfehlungen von anderen Streaming-Diensten erhalten möchtest, da
 2. Streaming-Dienste nach wahl aktivieren oder deaktivieren.
 3. "Änderungen speichern" anklicken.
   
----  
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/9435e00b-2ba9-4814-94cb-bff74ebec60b)<br/><br/>
-  
-Die erweiterte Einstellungen sollten aktiviert sein:<br/>
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/2c7d2442-6fa6-4e63-8e46-652375535b42)<br/><br/>
-  
-Nun folgende Einstellungen vornehmen und anschließend auf "Änderungen Speichern" klicken:<br/>
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/6fac64cf-0bd3-4e4a-ad7e-52aca8aabbb5)<br/><br/>
-  
-Die Option "Synchronisieren" muss aktiviert sein:<br/>
-1. So sieht es aus, wenn es aktiviert ist.<br/>
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/fec4e685-8530-43c9-a221-87fcdc0adefc)<br/><br/>
+---
+
+## Plex Web -> Allgemein
+
+1. [Allgemein](https://app.plex.tv/desktop/#!/settings/web/general) öffnen.
+2. Folgendes umsetzen und speichern:
+
+!!!info Info 
+Die Option ***Erweiterte Optionen*** sollte aktiviert werden, da sonst nicht alle Optionen angezeigt werden.<br/>
+!!!
+
+- Sprache: ***Deutsch***
+- Automatisch anmelden: ***Aus***
+- Reiter merken: ***Ein***
+- Titelmusik spielen: ***Ein***
+- Zeitdarstellung: ***24-Stunden***
+- Einstellungen Synchronisieren: ***Ein***
 
 --- 
 
