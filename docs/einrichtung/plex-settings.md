@@ -144,7 +144,7 @@ Ist die AppBox nicht mit Plex verbunden, dann erhaltet ihr diese Schritte nicht.
 
 ## Einstellungen -> Allgemein
 
-1. Allgemein öffnen.
+1. ***Allgemein*** öffnen.
 2. Folgendes umsetzen und speichern:
 
 !!!info Info
@@ -159,7 +159,7 @@ Meine Empfehlung ist ihn in "Medien" umzubenennen.<br/>
 
 ## Mediathek
 
-1. Mediathek öffnen.
+1. ***Mediathek*** öffnen.
 2. Folgendes umsetzen und speichern:
 
 - Zu berücksichtigende Wochen für „Fortsetzen“: ***99999***
@@ -171,56 +171,61 @@ Dies verhindert, dass Filme & Serien, die fortgesetzt werden sollen, von der Sta
 
 ---
 
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/1bc02b42-5081-4a0e-a04b-ebaa5baa9b2f)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/47d763bc-8073-4fc9-b53b-6012c91b1f3f)<br/><br/>
+## Sprachen
+
+1. ***Sprachen*** öffnen.
+2. Folgendes umsetzen und speichern:
+
+- Ton- & Untertitelspuren automatisch auswählen: ***Ein***
+- Bevorzugte Tonsprache: ***Deutsch***
+- Untertitel-Modus: ***bei fremdsprachigem Ton***
+- Bevorzugte Sprache für Untertitel: ***Deutsch***
 
 ---
 
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/21abc4de-f5da-43e2-8b94-c1d6ea37fff3)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/6bd7f889-4ac0-4cca-bac0-b7c406508089)<br/><br/>
+## Geplante Aufgaben
+
+1. ***Geplante Aufgaben*** öffnen.
+2. Folgendes umsetzen und speichern:
 
 !!!info Info
-Wenn "Alle Mediatheken während der Wartung aktualisieren" aktiviert ist, wird täglich ein Scan der Mediatheken durchgeführt.
-Dies ist sehr wichtig, da sonst keine neuen Inhalte mehr erscheinen.
+Wenn "Alle Mediatheken während der Wartung aktualisieren" aktiviert ist, wird täglich ein Scan der Mediatheken durchgeführt.<br/>
+Dies ist sehr wichtig, da sonst keine neuen Inhalte mehr erscheinen.<br/>
+!!!
+
+- Alle Mediatheken während der Wartungsmaßnahmen aktualisieren: ***Ein***
+
+---
+
+## Extras
+
+1. ***Extras*** öffnen.
+2. Folgendes umsetzen und speichern:
+
+- Filmtrailer wählen für: ***Alle Filme***
+- Filmtrailer von Filmen in meiner Mediathek miteinbeziehen: ***Ein***
+- Trailer von neuen und angekündigten Kinofilmen miteinbeziehen: ***Ein***
+- Trailer von neuen und angekündigten Blu-ray-Filmen miteinbeziehen: ***Ein***
+
+---
+
+## Verwalten -> Mediatheken
+
+1. ***Mediatheken*** öffnen.
+
+!!!info Info
+Jetzt wird die Mediathek eingelesen, was sehr wichtig ist, da sonst einige Medien nicht abgespielt werden können.<br/>
+Es kann sein, dass man nicht findet, was man sucht, oder dass man Fehlermeldungen bekommt, wenn man etwas abspielen will.<br/>
+Normalerweise müsst ihr das nur einmal machen, da die Mediathek jeden Tag automatisch eingelesen wird.<br/>
+!!!
+
+2. ***Mediathek-Dateien einlesen*** anklicken.
+
+!!!info Info
+Wenn man das gemacht hat, fängt der rotierende Kreis oben rechts neben dem Schraubenschlüssel an, sich zu drehen.<br/>
+Wenn man jetzt darauf drückt, sieht man, was er gerade scannt.<br/>
+Der erste Scan kann etwas länger dauern, da die Mediathek sehr groß ist.<br/>
+Sobald der Scan abgeschlossen ist, verschwindet der Kreis wieder.<br/>
 !!!
 
 ---
-
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/949f9d62-64f3-432d-968b-3955dd67ee96)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/a4804744-5a58-4b57-8256-1cc5e58ba70d)<br/><br/>
-
----
-
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/10a11ccc-c9a9-4c52-952a-cb94f0ee90ab)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/7ab53813-5f17-4ff3-9bf0-0c659500365b)<br/><br/>
-
-
-- Jetzt wird die Mediathek eingelesen, das ist sehr wichtig, da sonst einige Medien nicht abgespielt werden können.<br/>
-- Es kann auch sein, dass das, was man sucht, nicht gefunden wird.<br/>
-- Es kann auch sein das ihr Fehlermeldungen bekommt wenn ihr etwas abspielen wollt.<br/>
-- Das muss in der Regel nur einmal gemacht werden, da die Mediathek jeden Tag automatisch eingelesen wird.<br/>
-<br/>
-
-**Folgendes Ausführen um den Mediatheken-Scan zu starten:**
-
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/2fcbd5a1-3d8c-4dd5-908e-2b45ae382278)<br/><br/>
-
-**Wenn man das gemacht hat, fängt oben rechts der rotierende Kreis an zu drehen.**
-<br/>
-**Wenn man jetzt auf ihn drückt, sieht man, was er gerade scannt.**
-
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/772c735d-e7da-4551-87ed-05b0af740f9c)<br/><br/>
-
-**Der erste Scan dauert etwas länger, da die Mediathek sehr groß ist.**
-<br/>
-**Sobald der Scan abgeschlossen wurde, verschwindet dieser rotierende Kreis wieder.**
-
----
-
-**Jetzt öffnen wir noch einmal die Webseite, auf der ihr eure AppBox geclaimt habt und starten den Server einmal neu.**
-
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/466af5bd-65dd-41ba-9d04-23e25cdbb4cb)<br/><br/>
-
-**Nach ca. 2 Minuten sollte der Server wieder hochgefahren sein.**
-<br/>
-**Jetzt sollte alles eingestellt sein und man kann mit dem Streamen anfangen.**
