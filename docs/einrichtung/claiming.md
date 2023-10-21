@@ -24,3 +24,5 @@ icon: link
 -![](https://github.com/U3knOwn/sb-wiki/assets/148533561/556bd405-7419-46b4-8407-539409c60847)<br/>
 - Alles, was hier eingestellt ist, wird auch auf dem jeweiligen (eurem) Server gescannt.
 - Nicht wundern das bei hier nicht alles angezeigt wird, liegt daran das ich einige Mediatheken entfernt habe.
+
+---

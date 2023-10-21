@@ -17,9 +17,9 @@ Es ist nicht zwingend notwendig dies zu deaktivieren, empfohlen wird es dennoch.
 3. [Datenschutzeinstellungen](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd) öffnen.
 5. Schalte nun folgene Schaltflächen aus:
 
-- Send playback data to Plex
+- ***Send playback data to Plex***
 und
-- Advertising Consent
+- ***Advertising Consent***
 
 ---
 
@@ -29,4 +29,6 @@ und
 2. Meldet euch in Plex mit eurer E-Mail-Adresse und Passwort ein.
 3. [E-Mail-Einstellungen](https://www.plex.tv/email-preferences) öffnen.
 4. Schalte alle Schaltflächen aus.
-5. "Update Preference" anklicken.
+5. ***Update Preference*** anklicken.
+
+---

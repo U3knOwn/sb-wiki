@@ -12,13 +12,13 @@ icon: devices
 2. Nehme dort folgende Einstellungen vor:
 
 **Qualität:**
-- Qualität automatisch anpassen: Aus
-- Mobilfunk-Qualität begrenzen: Aus
-- Stream-Qualität über Internet: Maximum
-- Kleinere Videos in Original-Qualität: Ein
-- Heimnetzwerk-Streaming: Ein
-- Streaming-Qualität über Internet: Original
-- Benutze niedrigere Qualität bei mobiler Datenverbindung: Aus
+- Qualität automatisch anpassen: ***Aus***
+- Mobilfunk-Qualität begrenzen: ***Aus***
+- Stream-Qualität über Internet: ***Maximum***
+- Kleinere Videos in Original-Qualität: ***Ein***
+- Heimnetzwerk-Streaming: ***Ein***
+- Streaming-Qualität über Internet: ***Original***
+- Benutze niedrigere Qualität bei mobiler Datenverbindung: ***Aus***
 
 ---
 
@@ -27,10 +27,10 @@ icon: devices
 1. Gehe in Plex unter Einstellungen.
 2. Nehme dort folgende Einstellungen vor:
 
-- Qualität für entfernte Geräte: Maximum/Original
-- Online Qualität: Original
-- Direkte Wiedergabe erlauben: Ein
-- Direktes Streaming erlauben: Ein
+- Qualität für entfernte Geräte: ***Maximum/Original***
+- Online Qualität: ***Original***
+- Direkte Wiedergabe erlauben: ***Ein***
+- Direktes Streaming erlauben: ***Ein***
 
 ---
 
@@ -40,20 +40,22 @@ icon: devices
 2. Nehme dort folgende Einstellungen vor:
 
 **Fernbedienung:**
-- Als Player ausgeben: Ein
+- Als Player ausgeben: ***Ein***
 
 **Erweitert:**
-- Direktes Abspielen erlauben: Ein
-- Offline Inhalte bevorzugen: Ein
+- Direktes Abspielen erlauben: ***Ein***
+- Offline Inhalte bevorzugen: ***Ein***
 
 **Heimnetzwer-Streaming:**
-- Qualität auf: Maximal
-- Empfohlene Einstellungen verwenden: Aus
+- Qualität auf: ***Maximal***
+- Empfohlene Einstellungen verwenden: ***Aus***
 
 **Qualität**
-- Automatische Qualität: Aus
-- Mobilfunk-Qualität begrenzen: Aus
-- Remote-Streaming: Maximum
-- Heimnetzwerk-Streaming: Maximum
-- Remote-Streaming: Maximum
-- Benutze niedrigere Qualität bei mobiler Datenverbindung: Aus
+- Automatische Qualität: ***Aus***
+- Mobilfunk-Qualität begrenzen: ***Aus***
+- Remote-Streaming: ***Maximum***
+- Heimnetzwerk-Streaming: ***Maximum***
+- Remote-Streaming: ***Maximum***
+- Benutze niedrigere Qualität bei mobiler Datenverbindung: ***Aus***
+
+---
