@@ -99,34 +99,75 @@ Die Option ***Erweiterte Optionen*** sollte aktiviert werden, da sonst nicht all
 
 --- 
 
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/260b1f03-1976-47e7-9082-492d11c03a0f)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/1de852a3-b5ad-4dd6-8bec-5a453f36ba1d)<br/><br/>
+## Qualität
+
+1. [Qualität](https://app.plex.tv/desktop/#!/settings/web/quality) öffnen.
+2. Folgendes umsetzen und speichern:
+
+- Qualität automatisch anpassen(beta): ***Aus***
+- Video-Qualität: ***Maximum***
+- Kleinere Videos in Original-Qualität wiedergeben: ***Ein***
+- Empfohlene Einstellungen verwenden: ***Ein***
 
 --- 
 
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/deed08ef-570e-46d0-a06e-2fea45f08998)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/cd34d40c-3840-42d5-bc60-4431606eaff1)<br/><br/>
+## Fehlersuche
+
+1. [Fehlersuche](https://app.plex.tv/desktop/#!/settings/web/debug) öffnen.
+2. Folgendes umsetzen und speichern:
+
+- Debug-Level: ***Deaktiviert***
+- Direct Play: ***Ein***
+- Direct Stream: ***Ein***
+- Alternatives Streaming-Protokoll für Videowiedergabe benutzen: ***Aus***
 
 --- 
 
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/aeb6c581-66f5-4e50-bba2-46eccd42bfa9)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/5ad2a484-823a-457a-a2e1-4b813800cf65)<br/><br/>
+## Wiedergabegerät
+
+1. [Wiedergabegerät](https://app.plex.tv/desktop/#!/settings/web/player) öffnen.
+2. Folgendes umsetzen und speichern:
+
+- Mehrkanal-Ton Downmix normalisieren: ***Aus***
+- Untertitel einbrennen: ***Automatisch***
+- Kinotrailer, die vor dem Film abgespielt werden: ***Keine***
+- Mehrkanal-Audiounterstützung erzwingen : ***Aus***
 
 ---
 
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/90cd7ffc-a872-444f-b740-671a86a3774b)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/770a7839-10a9-4316-bca9-94450449fda4)<br/><br/>
-
 !!!info Info
-Den "Anzeigename" sollte man umbenennen wie man will, er wird später auch so in Plex angezeigt anstatt z.B. "594f39d4f45d", was viel besser aussieht.
-Meine Empfehlung ist ihn in "Medien" umzubenennen.
+Wenn ihr die AppBox erfolgreich mit Plex verbunden habt, dann erhaltet ihr weitere Kategorien.<br/>
+Ist die AppBox nicht mit Plex verbunden, dann erhaltet ihr diese Schritte nicht.<br/>
 !!!
 
 ---
 
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/3ff9ea23-d0f7-427f-9c4c-09045b309f44)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/dfebc972-1f68-4578-a195-9f90ee52264c)<br/><br/>
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/19d5e887-0b54-49fa-ab69-790259e97edd)<br/><br/>
+## Einstellungen -> Allgemein
+
+1. Allgemein öffnen.
+2. Folgendes umsetzen und speichern:
+
+!!!info Info
+Den "Anzeigename" sollte man umbenennen wie man will, er wird später auch so in Plex angezeigt anstatt z.B. "594f39d4f45d", was viel besser aussieht.<br/>
+Meine Empfehlung ist ihn in "Medien" umzubenennen.<br/>
+!!!
+
+- Anzeigename: ***Nach eurer Wahl***
+- Absturzberichte an Plex senden: ***Aus***
+
+---
+
+## Mediathek
+
+1. Mediathek öffnen.
+2. Folgendes umsetzen und speichern:
+
+- Zu berücksichtigende Wochen für „Fortsetzen“: ***99999***
+- Maximale Anzahl an Elementen im „Fortsetzen“ Hub auf der Startseite: ***99999***
+
+!!!info Info
+Dies verhindert, dass Filme & Serien, die fortgesetzt werden sollen, von der Startseite verschwinden.<br/>
+!!!
 
 ---
 
