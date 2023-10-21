@@ -6,8 +6,18 @@ icon: devices
 
 # 5. Einstellungen der Plex App
 
-==- ## Android:
-This is a collapsed Panel. :+1:
+==- Android:
+1. Gehe in Plex unter Einstellungen und nimm folgendes vor:
+
+**Einstellungen -> Qualität**
+- Qualität automatisch anpassen: ***Aus***
+- Mobilfunk-Qualität begrenzen: ***Aus***
+- Stream-Qualität über Internet:
+  - Qualität: ***Maximum***
+  - Kleinere Videos in Original-Qualität: ***Ein***
+- Heimnetzwerk-Streaming: ***Ein***
+- Streaming-Qualität über Internet: ***Original***
+- Benutze niedrigere Qualität bei mobiler Datenverbindung: ***Aus***
 ===
 
 ## Android:
