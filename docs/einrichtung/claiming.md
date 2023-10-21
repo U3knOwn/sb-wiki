@@ -29,3 +29,5 @@ Wird eine Uhrzeit ausgewählt wird, dann kann kein Automatischer Mediatheken-Sca
 Alles was hier eingestellt ist, wird auch auf dem eurem Server später gescannt.<br/>
 Bitte wundert euch nicht, wenn hier nicht alles angezeigt wird, da ich einige Mediatheken bei mir entfernt habe.<br/>
 !!!
+
+---
