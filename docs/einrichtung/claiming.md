@@ -22,5 +22,3 @@ Bitte wundert euch nicht, wenn hier nicht alles angezeigt wird, da ich einige Me
 !!!
 
 -![](https://github.com/U3knOwn/sb-wiki/assets/148533561/556bd405-7419-46b4-8407-539409c60847)
-
----
