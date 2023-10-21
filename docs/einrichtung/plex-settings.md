@@ -22,7 +22,7 @@ Es wird dringend empfohlen, diese Anleitung genau zu befolgen. Abweichungen kön
 
 !!!info Info
 Hier kannst du die Spracheinstellungen nach deinen Wünschen anpassen.<br/>
-Wir empfehlen jedoch Deutsch, da die meisten Inhalte auf Deutsch angeboten werden!<br/>
+Wir empfehlen jedoch ***Deutsch***, da die meisten Inhalte auf Deutsch angeboten werden!<br/>
 !!!
 
 1. [Kontoeinstellungen](https://app.plex.tv/desktop/#!/settings/account) öffnen.
@@ -65,13 +65,18 @@ Discover zeigt dir die aktuell beliebtesten Filme & Serien und was am häufigste
 !!!
 
 ---  
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/5fc14e34-3c21-4aa1-9756-a5e2e7a2fc57)<br/><br/>
-  
-**Nun deaktivieren wir alle Kontrollkästchen und klicken auf "Änderungen speichern":**
-1. Es ist besser, alle Streaming-Dienste zu deaktivieren, da wir jetzt einen Dienst haben.<br/>
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/3b170793-b9ba-4a70-991b-c3947e5e4f85)<br/><br/>
+
+## Streaming-Dienste
+
+!!!info Info 
+Bei der Auswahl von Streaming-Diensten werden diese unter ***Discover*** (falls aktiviert) angezeigt.<br/>
+Es werden die aktuell beliebtesten Filme & Serien angezeigt, die auf der jeweiligen Plattform verfügbar sind.<br/>
+Bei Bedarf einfach die gewünschten Schaltflächen aktivieren.<br/>
+!!!
+
+1. [Streaming-Dienste](https://app.plex.tv/desktop/#!/settings/streaming-services) öffnen.
+2. Streaming-Dienste nach wahl aktivieren oder deaktivieren.
+3. "Änderungen speichern" anklicken.
   
 ---  
   
