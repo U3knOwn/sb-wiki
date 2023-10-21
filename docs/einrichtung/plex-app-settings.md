@@ -40,10 +40,11 @@ icon: devices
 - Automatische Qualität: ***Aus***
 - Mobilfunk-Qualität begrenzen: ***Aus***
 - Remote-Streaming:
+  - Qualität: **Maximum**
   - Kleinere Videos in Originalqualität abspielen: **Ein**
 - Heimnetzwerk-Streaming:
-  - Qualität: **Maximum**
   - Empfohlene Einstellungen verwenden: ***Aus***
+  - Qualität: **Maximum**
 - Benutze niedrigere Qualität bei mobiler Datenverbindung: ***Aus***
 
 **Einstellungen -> Erweitert:**
