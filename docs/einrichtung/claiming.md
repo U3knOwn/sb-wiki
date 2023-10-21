@@ -14,7 +14,7 @@ icon: link
 6. Sind die Daten korrekt erscheint eine Erfolgsmeldung.
 7. ***Wichtig:*** Ganz unten ***Restart @ /day*** auf ***Do not restart*** einstellen.
 8. Jetzt nach ***Plex Tools*** -> ***Library Scan*** -> ***Check this server***.
-9. Jetzt folgendes umsetzen:
+9. Die leeren Felder ausfüllen:
   - Filme: ***Filme***
   - Filme 3D: ***Leer***
   - Filme 4K: ***Filme 4K***
