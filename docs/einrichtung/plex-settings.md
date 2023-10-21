@@ -10,33 +10,39 @@ icon: light-bulb
 Es wird dringend empfohlen, diese Anleitung genau zu befolgen. Abweichungen können zu Fehlfunktionen führen.
 !!!
 
-1. Rufe https://www.plex.tv/ über deinen Webbrowser auf<br/>
-2. Drückt oben in der Leiste auf "Sign In"<br/>
-3. Gibt eure Plex E-Mail-Adresse und Passwort ein und drückt dann auf Anmelden.<br/>
-4. Öffne zunächst die [Plex Einstellungen](https://app.plex.tv/desktop/#!/settings/web/general "Plex Einstellungen") über das Schraubenschlüssel Symbol. <br/>
+---
 
----  
-  
-!!!info Info  
-Auf der linken Seite sehen wir nun einige Schaltflächen, die angeklickt werden können.
-Klicke einfach, wie auf den Bildern zu sehen, auf die entsprechenden Schaltflächen und nehme folgende Einstellungen vor:
-!!!  
+## In Plex einloggen
+1. [Plex Login](https://app.plex.tv/desktop/#!/login) öffnen.
+2. Meldet euch in Plex mit eurer E-Mail-Adresse und Passwort ein.
 
 ---
 
-### Konto
-Hier kannst du die Spracheinstellungen nach deinen Wünschen anpassen. Wir empfehlen allerdings Deutsch, da wird großteils Deutschen Content bieten!
-1. Sprache: Deutsch
-2. Unter Ton & Untertitel Einstellungen:
-- Ton- & Untertitelspuren automatisch auswählen: AN
+## Konto
+
+!!!info Info
+Hier kannst du die Spracheinstellungen nach deinen Wünschen anpassen.<br/>
+Wir empfehlen jedoch Deutsch, da die meisten Inhalte auf Deutsch angeboten werden!<br/>
+!!!
+
+1. [Kontoeinstellungen](https://app.plex.tv/desktop/#!/settings/account) öffnen.
+2. Folgendes umsetzen:
+
+**Sprache:**
+- Deutsch
+
+  
+**Unter Ton & Untertitel Einstellungen:**
+- Ton- & Untertitelspuren automatisch auswählen: Ein
 - Bevorzugte Ton-Sprache: Deutsch
 - Bevorzugte Sprache der Untertitel: Deutsch
 - Modus zur automatischen Auswahl der Untertitel: bei fremdsprachigem Ton
 - Untertitel für Gehörlose (SDH) suchen: Bevorzuge Nicht Gehörlosen-Untertitel
 - Suche nach "Erzwungenen" Untertiteln: Bevorzuge nicht "erzwungene" Untertitel
-3. Aktiviere folgende Option um deinen Gespielt Status zu speichern und zu synchronisieren:
-Synchronisiere meinen "Gespielt"-Status und Bewertungen
 
+
+**Synchronisiere meinen "Gespielt"-Status und Bewertungen:**
+- Einstellungen aktualsieren: Einschalten
   
 ---  
   
