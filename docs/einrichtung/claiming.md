@@ -16,18 +16,25 @@ icon: link
 
 !!!warning Achtung
 ***Restart @ /day*** muss umbedingt auf ***Do not restart*** einstellt werden.<br/>
-Wird eine Uhrzeit ausgewählt wird, dann kann kein Automatischer Mediatheken-Scan gemacht werden.<br/>
+Wenn man eine Uhrzeit auswählt, dann wird kein Automatischer Mediatheken-Scan mehr gemacht.<br/>
 !!!
 
-8. Nun gehen wir zu ***Plex Tools*** auf ***Library Scan***.
-9. Auf ***Check this server*** klicken.
-10. Jetzt folgendes umsetzen:
-
--![](https://github.com/U3knOwn/sb-wiki/assets/148533561/556bd405-7419-46b4-8407-539409c60847)<br/><br/>
+8. Jetzt nach ***Plex Tools*** -> ***Library Scan*** -> ***Check this server***.
+9. Jetzt folgendes umsetzen:
+- Filme: ***Filme***
+- Filme 3D: ***Leer***
+- Filme 4K: ***Filme 4K***
+- Filme-O-Ton: ***Movies***
+- Konzerte/Musik: ***Leer***
+- Serien: ***Serien***
+- Serien 4K: ***Serien 4K***
+- Serien Anime: ***TVShows Anime***
+- Serien Doku/Reality: ***Serien Doku/Reality***
+- Serien-O-Ton: ***TVShows***
 
 !!!info Info
 Alles was hier eingestellt ist, wird auch auf dem eurem Server später gescannt.<br/>
-Bitte wundert euch nicht, wenn hier nicht alles angezeigt wird, da ich einige Mediatheken bei mir entfernt habe.<br/>
+Felder die ***Leer*** sind können nicht belegt werden.<br/>
 !!!
 
 ---
