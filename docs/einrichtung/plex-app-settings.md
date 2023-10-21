@@ -8,8 +8,7 @@ icon: devices
 
 ## Android:
 
-1. Gehe in Plex unter Einstellungen.
-2. Nehme dort folgende Einstellungen vor:
+1. Gehe in Plex unter Einstellungen und nimm folgendes vor:
 
 **Qualität:**
 - Qualität automatisch anpassen: ***Aus***
@@ -24,8 +23,7 @@ icon: devices
 
 ## Android TV:
 
-1. Gehe in Plex unter Einstellungen.
-2. Nehme dort folgende Einstellungen vor:
+1. Gehe in Plex unter Einstellungen und nimm folgendes vor:
 
 - Qualität für entfernte Geräte: ***Maximum/Original***
 - Online Qualität: ***Original***
@@ -36,26 +34,23 @@ icon: devices
 
 ## Apple:
 
-1. Gehe in Plex unter Einstellungen.
-2. Nehme dort folgende Einstellungen vor:
+1. Gehe in Plex unter Einstellungen und nimm folgendes vor:
 
-**Fernbedienung:**
-- Als Player ausgeben: ***Ein***
-
-**Erweitert:**
-- Direktes Abspielen erlauben: ***Ein***
-- Offline Inhalte bevorzugen: ***Ein***
-
-**Heimnetzwer-Streaming:**
-- Qualität auf: ***Maximal***
-- Empfohlene Einstellungen verwenden: ***Aus***
-
-**Qualität**
+**Einstellungen -> Qualität**
 - Automatische Qualität: ***Aus***
 - Mobilfunk-Qualität begrenzen: ***Aus***
-- Remote-Streaming: ***Maximum***
-- Heimnetzwerk-Streaming: ***Maximum***
-- Remote-Streaming: ***Maximum***
+- Remote-Streaming:
+  - Kleinere Videos in Originalqualität abspielen: **Ein**
+- Heimnetzwerk-Streaming:
+  - Qualität: **Maximum**
+  - Empfohlene Einstellungen verwenden: ***Aus***
 - Benutze niedrigere Qualität bei mobiler Datenverbindung: ***Aus***
 
+**Einstellungen -> Erweitert:**
+- Direktes Abspielen erlauben: ***Ein***
+- Heruntergeladene Inhalte bevorzugen: ***Ein***
+
+**Einstellungen -> Fernbedienung:**
+- Als Player ausgeben: ***Ein***
+  
 ---
