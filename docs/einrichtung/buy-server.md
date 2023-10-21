@@ -4,7 +4,7 @@ order: -2
 icon: credit-card
 ---
 
-# 2. AppBox bestellen
+# AppBox bestellen
 
 1. Rufe die ***Website*** mit deinem Webbrowser auf.
 2. Klicke nun oben auf ***Shop***.
