@@ -4,7 +4,7 @@ order: -2
 icon: devices
 ---
 
-# 2. Einstellungen der Plex App
+# Einstellungen der Plex App
 
 ==- Android:
 1. Gehe in Plex unter Einstellungen und nimm folgendes vor:
