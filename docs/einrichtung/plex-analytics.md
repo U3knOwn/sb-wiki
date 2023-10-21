@@ -15,10 +15,9 @@ Es ist nicht zwingend notwendig dies zu deaktivieren, empfohlen wird es dennoch.
 1. [Plex Login](https://app.plex.tv/desktop/#!/login) öffnen.
 2. Meldet euch in Plex mit eurer E-Mail-Adresse und Passwort ein.
 3. [Datenschutzeinstellungen](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd) öffnen.
-5. Schalte nun folgene Schaltflächen aus:
+5. Schalte beide Schaltflächen aus:
 
 - ***Send playback data to Plex***
-und
 - ***Advertising Consent***
 
 ---
