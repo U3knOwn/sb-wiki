@@ -10,7 +10,7 @@ icon: devices
 
 1. Gehe in Plex unter Einstellungen und nimm folgendes vor:
 
-**Qualität:**
+**Einstellungen -> Qualität**
 - Qualität automatisch anpassen: ***Aus***
 - Mobilfunk-Qualität begrenzen: ***Aus***
 - Stream-Qualität über Internet:
@@ -26,10 +26,22 @@ icon: devices
 
 1. Gehe in Plex unter Einstellungen und nimm folgendes vor:
 
-- Qualität für entfernte Geräte: ***Maximum/Original***
-- Online Qualität: ***Original***
-- Direkte Wiedergabe erlauben: ***Ein***
-- Direktes Streaming erlauben: ***Ein***
+**Einstellungen -> Oberflächendesign**
+- Application Theme: ***Dunkel***
+  - Bei Plex-Pass: ***Moonlight*** oder ***Bubblegum***
+- Darstellungsmodus: ***Modern***
+- App-Hintergrund: ***Posterfarben***
+- Hintergrund Detailseite: ***Posterfarben***
+
+**Einstellungen -> Videoqualität**
+- Automatisch anpassen: ***Aus***
+- Heimnetzwerk-Streaming: ***Maximum***
+- Vorschläge zur Qualitätseinstellung: ***Aus***
+- Stream-Qualität über Internet: ***Maximum***
+- Kleinere Videos in Original-Qualität wiedergeben: ***Ein***
+  
+**Einstellungen -> Ton**
+- Streaming-Qualität über Internet: ***Original***
 
 ---
 
