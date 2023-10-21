@@ -21,20 +21,21 @@ Wenn man eine Uhrzeit auswählt, dann wird kein Automatischer Mediatheken-Scan m
 
 8. Jetzt nach ***Plex Tools*** -> ***Library Scan*** -> ***Check this server***.
 9. Jetzt folgendes umsetzen:
-- Filme: ***Filme***
-- Filme 3D: ***Leer***
-- Filme 4K: ***Filme 4K***
-- Filme-O-Ton: ***Movies***
-- Konzerte/Musik: ***Leer***
-- Serien: ***Serien***
-- Serien 4K: ***Serien 4K***
-- Serien Anime: ***TVShows Anime***
-- Serien Doku/Reality: ***Serien Doku/Reality***
-- Serien-O-Ton: ***TVShows***
+  - Filme: ***Filme***
+  - Filme 3D: ***Leer***
+  - Filme 4K: ***Filme 4K***
+  - Filme-O-Ton: ***Movies***
+  - Konzerte/Musik: ***Leer***
+  - Serien: ***Serien***
+  - Serien 4K: ***Serien 4K***
+  - Serien Anime: ***TVShows Anime***
+  - Serien Doku/Reality: ***Serien Doku/Reality***
+  - Serien-O-Ton: ***TVShows***
 
 !!!info Info
-Alles was hier eingestellt ist, wird auch auf dem eurem Server später gescannt.<br/>
-Felder die ***Leer*** sind können nicht belegt werden.<br/>
+Alles was in der ***Library*** eingetragen wird, wird später auch auf dem Server gescannt.<br/>
+Felder, die ***leer*** sind, können nicht ausgefüllt werden, da diese nicht täglich gescannt werden sollen.<br/>
+Das ist vom Anbieter so gewollt.<br/>
 !!!
 
 ---
