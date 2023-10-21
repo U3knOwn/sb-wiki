@@ -6,6 +6,10 @@ icon: devices
 
 # 5. Einstellungen der Plex App
 
+==- ## Android:
+This is a collapsed Panel. :+1:
+===
+
 ## Android:
 
 1. Gehe in Plex unter Einstellungen und nimm folgendes vor:
