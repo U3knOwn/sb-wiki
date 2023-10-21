@@ -16,8 +16,9 @@ Es wird empfohlen, diese Schritte durchzuführen, auch wenn das Thema als option
 3. [Datenschutzeinstellungen](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd) öffnen.
 5. Schalte beide Schaltflächen aus:
 
-- `Send playback data to Plex`
-- `Advertising Consent`
+[!badge Send playback data to Plex]<br>
+[!badge Advertising Consent]<br>
+
 ===
 
 ==- E-Mails von Plex deaktivieren:
