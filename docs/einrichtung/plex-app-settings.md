@@ -13,8 +13,9 @@ icon: devices
 **Qualität:**
 - Qualität automatisch anpassen: ***Aus***
 - Mobilfunk-Qualität begrenzen: ***Aus***
-- Stream-Qualität über Internet: ***Maximum***
-- Kleinere Videos in Original-Qualität: ***Ein***
+- Stream-Qualität über Internet:
+  - Qualität: ***Maximum***
+  - Kleinere Videos in Original-Qualität: ***Ein***
 - Heimnetzwerk-Streaming: ***Ein***
 - Streaming-Qualität über Internet: ***Original***
 - Benutze niedrigere Qualität bei mobiler Datenverbindung: ***Aus***
@@ -40,11 +41,11 @@ icon: devices
 - Automatische Qualität: ***Aus***
 - Mobilfunk-Qualität begrenzen: ***Aus***
 - Remote-Streaming:
-  - Qualität: **Maximum**
-  - Kleinere Videos in Originalqualität abspielen: **Ein**
+  - Qualität: ***Maximum***
+  - Kleinere Videos in Originalqualität abspielen: ***Ein***
 - Heimnetzwerk-Streaming:
   - Empfohlene Einstellungen verwenden: ***Aus***
-  - Qualität: **Maximum**
+  - Qualität: ***Maximum***
 - Benutze niedrigere Qualität bei mobiler Datenverbindung: ***Aus***
 
 **Einstellungen -> Erweitert:**
