@@ -4,7 +4,7 @@ order: -3
 icon: tools
 ---
 
-## (Optional) Analytics und E-Mails deaktivieren
+# (Optional) Analytics und E-Mails deaktivieren
 
 !!!danger Achtung
 Es wird empfohlen, diese Schritte durchzuführen, auch wenn das Thema als optional deklariert wurde.<br>
