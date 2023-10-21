@@ -4,7 +4,7 @@ order: -3
 icon: link
 ---
 
-# 3. Verknüpfung der AppBox mit Plex
+# Verknüpfung der AppBox mit Plex
 
 1. Logge dich mit den per ***Email erhaltenen Daten*** ein.
 2. Klicke nun den bestellten Server, als Beispiel: ***Server #1245***
