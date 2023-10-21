@@ -29,21 +29,22 @@ Wir empfehlen jedoch Deutsch, da die meisten Inhalte auf Deutsch angeboten werde
 2. Folgendes umsetzen:
 
 **Sprache:**
-- Deutsch
+- ***Deutsch***
 
-  
 **Unter Ton & Untertitel Einstellungen:**
-- Ton- & Untertitelspuren automatisch auswählen: Ein
-- Bevorzugte Ton-Sprache: Deutsch
-- Bevorzugte Sprache der Untertitel: Deutsch
-- Modus zur automatischen Auswahl der Untertitel: bei fremdsprachigem Ton
-- Untertitel für Gehörlose (SDH) suchen: Bevorzuge Nicht Gehörlosen-Untertitel
-- Suche nach "Erzwungenen" Untertiteln: Bevorzuge nicht "erzwungene" Untertitel
-
+- Ton- & Untertitelspuren automatisch auswählen: ***Ein***
+- Bevorzugte Ton-Sprache: ***Deutsch***
+- Bevorzugte Sprache der Untertitel: ***Deutsch***
+- Modus zur automatischen Auswahl der Untertitel: ***bei fremdsprachigem Ton***
+- Untertitel für Gehörlose (SDH) suchen: ***Bevorzuge Nicht Gehörlosen-Untertitel***
+- Suche nach "Erzwungenen" Untertiteln: ***Bevorzuge nicht "erzwungene" Untertitel***
 
 **Synchronisiere meinen "Gespielt"-Status und Bewertungen:**
-- Einstellungen aktualsieren: Einschalten
-  
+- Einstellungen aktualisieren: ***Einschalten***
+
+**Experimentelle Funktionen:**
+- Aktiviere experimentelle, in Entwicklung befindliche Funktionalitäten: ***Ein***
+
 ---  
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/c82406c4-b9b9-4f6c-b8e8-ff40cc2d361f)<br/><br/>
