@@ -1,10 +1,10 @@
 ---
-label: Allgemeine Einstellungen von Plex
+label: Allgemeine Einstellungen von Plex AppBox
 order: -4
 icon: light-bulb
 ---
 
-# 4. Allgemeine Einstellungen von Plex
+# 4. Allgemeine Einstellungen von Plex AppBox
 
 !!!danger Achtung
 Es wird dringend empfohlen, diese Anleitung genau zu befolgen.<br/>
