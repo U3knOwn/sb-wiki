@@ -12,13 +12,7 @@ icon: link
 4. Den Token herauskopieren und in das Feld ***plex.tv Claim Token*** einfügen.
 5. Klicke auf ***Claim Plex Server***.
 6. Sind die Daten korrekt erscheint eine Erfolgsmeldung.
-7. Ganz unten ***Restart @ /day*** auf ***Do not restart*** einstellen.
-
-!!!warning Achtung
-***Restart @ /day*** muss umbedingt auf ***Do not restart*** einstellt werden.<br/>
-Wenn man eine Uhrzeit auswählt, dann wird kein Automatischer Mediatheken-Scan mehr gemacht.<br/>
-!!!
-
+7. ***Wichtig:*** Ganz unten ***Restart @ /day*** auf ***Do not restart*** einstellen.
 8. Jetzt nach ***Plex Tools*** -> ***Library Scan*** -> ***Check this server***.
 9. Jetzt folgendes umsetzen:
   - Filme: ***Filme***
