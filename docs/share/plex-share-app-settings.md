@@ -4,7 +4,7 @@ order: -2
 icon: devices
 ---
 
-# 5. Einstellungen der Plex App
+# 2. Einstellungen der Plex App
 
 ## Android:
 

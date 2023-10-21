@@ -4,7 +4,7 @@ order: -3
 icon: tools
 ---
 
-# 6. Optional: Analytics und E-Mails von Plex deaktivieren
+# 3. Optional: Analytics und E-Mails von Plex deaktivieren
 
 !!!danger Achtung
 Es ist nicht zwingend notwendig dies zu deaktivieren, empfohlen wird es dennoch.
