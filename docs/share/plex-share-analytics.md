@@ -5,7 +5,7 @@ icon: tools
 ---
 
 !!!danger Achtung
-Es ist nicht zwingend notwendig dies zu deaktivieren, empfohlen wird es dennoch.
+Es wird empfohlen, diese Schritte durchzuführen, auch wenn das Thema als optional deklariert wurde.<br>
 !!!
 
 ==- Analytics deaktivieren:
