@@ -76,7 +76,7 @@ Wenn du keine Empfehlungen von anderen Streaming-Diensten erhalten möchtest, da
 !!!
 
 1. [Streaming-Dienste](https://app.plex.tv/desktop/#!/settings/streaming-services) öffnen.
-2. Streaming-Dienste nach wahl aktivieren oder deaktivieren.
+2. Streaming-Dienste nach wahl `aktivieren` oder `deaktivieren`.
 3. Änderungen speichern anklicken.
   
 ---
