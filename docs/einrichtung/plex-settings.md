@@ -69,9 +69,9 @@ Discover zeigt dir die aktuell beliebtesten Filme & Serien und was am häufigste
 ## Streaming-Dienste
 
 !!!info Info 
-Bei der Auswahl von Streaming-Diensten werden diese unter ***Discover*** (falls aktiviert) angezeigt.<br/>
-Es werden die aktuell beliebtesten Filme & Serien angezeigt, die auf der jeweiligen Plattform verfügbar sind.<br/>
-Bei Bedarf einfach die gewünschten Schaltflächen aktivieren.<br/>
+Wähle Streaming-Dienste die du nutzt.<br/>
+Inhalte deiner gewählten Streaming Dienste erscheinen bevorzugt in ***Anderswo anschauen***  und in ***Discover*** (falls aktiviert).<br/>
+Wenn du keine Empfehlungen von anderen Streaming-Diensten erhalten möchtest, dann sollte alles deaktiviert werden.<br/>
 !!!
 
 1. [Streaming-Dienste](https://app.plex.tv/desktop/#!/settings/streaming-services) öffnen.
