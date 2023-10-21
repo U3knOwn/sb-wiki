@@ -7,7 +7,8 @@ icon: light-bulb
 # 4. Allgemeine Einstellungen von Plex
 
 !!!danger Achtung
-Es wird dringend empfohlen, diese Anleitung genau zu befolgen. Abweichungen können zu Fehlfunktionen führen.
+Es wird dringend empfohlen, diese Anleitung genau zu befolgen.<br/>
+Abweichungen können zu Fehlfunktionen führen.<br/>
 !!!
 
 ---
