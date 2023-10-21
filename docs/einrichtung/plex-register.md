@@ -4,7 +4,7 @@ order: -1
 icon: sign-in
 ---
 
-# 1. Bei Plex registrieren
+# Bei Plex registrieren
 
 1. [Registieren](https://www.plex.tv/sign-up/?forward=web)
 2. Gib deine E-Mail-Adresse ein und wähle ein sicheres Passwort.
