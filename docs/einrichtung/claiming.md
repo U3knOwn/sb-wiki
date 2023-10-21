@@ -12,7 +12,7 @@ icon: link
 4. Den Token herauskopieren und in das Feld ***plex.tv Claim Token*** einfügen.
 5. Klicke auf ***Claim Plex Server***.
 6. Sind die Daten korrekt erscheint eine Erfolgsmeldung.
-7. ***Wichtig:*** Ganz unten ***Restart @ /day*** auf ***Do not restart*** einstellen.
+7. [!badge variant="warning" text="Wichtig"] Ganz unten ***Restart @ /day*** auf ***Do not restart*** einstellen.
 8. Jetzt nach ***Plex Tools*** -> ***Library Scan*** -> ***Check this server***.
 9. Die leeren Felder ausfüllen:
 
