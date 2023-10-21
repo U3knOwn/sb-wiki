@@ -46,15 +46,22 @@ Wir empfehlen jedoch Deutsch, da die meisten Inhalte auf Deutsch angeboten werde
 - Aktiviere experimentelle, in Entwicklung befindliche Funktionalitäten: ***Ein***
 
 ---  
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/c82406c4-b9b9-4f6c-b8e8-ff40cc2d361f)<br/><br/>
-  
-**Optional:**  
-1. Es wird empfohlen, alle "Online Medienquellen" zu deaktivieren, da wir diese nicht benötigen.<br/>
-2. Dies kann jedoch je nach Geschmack variieren.<br/>
-  
-![](https://github.com/U3knOwn/sb-wiki/assets/148533561/792a1f4b-af4b-4c44-bdc5-22a355d9d427)<br/><br/>
-  
+
+1. [Online Medienquellen](https://app.plex.tv/desktop/#!/settings/account) öffnen.
+2. Folgendes umsetzen:
+
+- Live TV: ***Deaktiviert***
+- Movies & TV: ***Deaktiviert***
+- Music: ***Deaktiviert***
+- Discover Medienquelle: ***Deaktiviert für verwaltete Nutzer***
+- Zeige auch „Anderswo anschauen“ Suchergebnisse: ***Deaktiviert***
+- Zeige Verfügbarkeit auf anderen Streamingdiensten auf Detailseiten: ***Deaktiviert***
+
+!!!info Info 
+Discover zeigt dir die aktuell beliebtesten Filme & Serien und was am häufigsten gemerkt wurde.<br/>
+Ändere einfach ***Deaktiviert für verwaltete Benutzer*** auf ***Deaktiviert***, wenn du das nicht möchtest.<br/>
+!!!
+
 ---  
   
 ![](https://github.com/U3knOwn/sb-wiki/assets/148533561/5fc14e34-3c21-4aa1-9756-a5e2e7a2fc57)<br/><br/>
