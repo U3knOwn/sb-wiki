@@ -6,7 +6,7 @@ icon: devices
 
 # Einstellungen der Plex App
 
-==- Android:
+==- Android
 1. Gehe in Plex unter `Einstellungen` und nimm folgendes vor:
 
 **Einstellungen -> Qualität**
@@ -20,7 +20,7 @@ icon: devices
 - Benutze niedrigere Qualität bei mobiler Datenverbindung: `Aus`
 ===
 
-==- Android TV:
+==- Android TV
 1. Gehe in Plex unter `Einstellungen` und nimm folgendes vor:
 
 **Einstellungen -> Oberflächendesign**
@@ -41,7 +41,7 @@ icon: devices
 - Streaming-Qualität über Internet: `Original`
 ===
 
-==- Apple:
+==- Apple
 1. Gehe in Plex unter `Einstellungen` und nimm folgendes vor:
 
 **Einstellungen -> Qualität**
