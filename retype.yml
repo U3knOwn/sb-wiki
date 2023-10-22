@@ -13,3 +13,7 @@ edit:
   base: /docs/
   branch: "main"
   label: "Diese Seite bearbeiten"
+
+branding:
+  logo: static/logo.png
+  logoDark: static/logo.png
