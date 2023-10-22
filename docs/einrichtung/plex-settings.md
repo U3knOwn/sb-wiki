@@ -171,6 +171,17 @@ Dies verhindert, dass Filme & Serien, die fortgesetzt werden sollen, von der Sta
 
 ---
 
+## Netzwerk
+
+1. `Netzwerk` öffnen.
+2. Folgendes umsetzen und speichern:
+
+- Nur für Plex Pass:
+  - Max. Wiedergaben per Fernzugriff pro Benutzer: `2`
+  - Pausierte Wiedergabe-Sitzungen abbrechen nach: `30`
+
+---
+
 ## Sprachen
 
 1. `Sprachen` öffnen.
