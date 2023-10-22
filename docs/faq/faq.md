@@ -6,6 +6,10 @@ icon: comment-discussion
 
 # Häufig gestellte Fragen
 
+## Was findest Du in dieser FAQ?
+**In dieser FAQ findest Du Antworten auf häufig gestellte Fragen.**  
+**Wir haben die am häufigsten gestellten Fragen sorgfältig gesammelt und in klaren, leicht verständlichen Antworten zusammengefasst.**
+
 ==- Meine gespeicherten Inhalte sind nach einem Serverwechsel verschwunden?
 
 Sie werden nur gelöscht, wenn man die Inhalte in der Wiedergabeliste speichert, da diese servergebunden sind.  
