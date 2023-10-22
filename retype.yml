@@ -4,12 +4,13 @@ input: ./docs
 
 locale: de
 
+favicon: static/favicon.ico
+
 branding:
   title: Streamboy
   label: Wiki
   logo: static/logo.png
   logoDark: static/logo.png
-  favicon: static/favicon.ico
 
 edit:
   repo: "https://github.com/U3knOwn/sb-wiki/edit"
