@@ -1,9 +1,4 @@
----
-label: Häufig gestellte Fragen
+label: FAQ
+expanded: false
 order: -3
-icon: comment-discussion
----
-
-# Häufig gestellte Fragen
-
-- Im Aufbau!
+icon: question
