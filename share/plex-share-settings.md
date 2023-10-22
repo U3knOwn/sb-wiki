@@ -135,6 +135,6 @@ Die Option `Erweiterte Optionen` sollte aktiviert werden, da sonst nicht alle Op
 
 ---
 
-## ***Fertig!*** 🥳
+<h2>Fertig! 🥳</h2>
 
 ---
