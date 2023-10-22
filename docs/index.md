@@ -11,7 +11,7 @@ description: Wiki für alles, was mit Plex zu tun hat und mehr!
 **Dieses Wiki soll dir helfen, deine Fragen und Anliegen rund um Plex und die dazugehörige Hardware bestmöglich zu beantworten.**
 
 
-### **Dieses Wiki ist in mehrere Kategorien aufgeteilt:**
+<h2>Dieses Wiki ist in mehrere Kategorien aufgeteilt:</h2>
 
 #### **🚀 Einrichtung der Plex AppBox/Share**
 Die Einrichtung der Plex AppBox/Share kann am Anfang kompliziert erscheinen, aber keine Sorge, wir haben Schritt-für-Schritt-Anleitungen und nützliche Tipps vorbereitet.  
