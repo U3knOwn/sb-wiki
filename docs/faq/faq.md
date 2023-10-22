@@ -6,4 +6,16 @@ icon: comment-discussion
 
 # Häufig gestellte Fragen
 
-- Im Aufbau!
+==- Meine gespeicherten Inhalte sind nach einem Serverwechsel verschwunden?
+
+Ja, sie werden nur gelöscht, wenn man die Inhalte in der Wiedergabeliste speichert, da diese servergebunden sind.
+Wenn man sie in die Merkliste verschiebt, werden sie nicht gelöscht, da diese an deinem Konto gebunden sind.
+
+Voraussetzung ist, dass `Einstellungen Synchronisieren` aktiviert ist.  
+Wenn diese Einstellung nicht aktiviert ist, werden die Merklisten nicht gespeichert.<br/>
+[Plex AppBox](https://u3known.github.io/sb-wiki/einrichtung/plex-settings/#plex-web---allgemein)<br/>
+[Plex Share](https://u3known.github.io/sb-wiki/share/plex-share-settings/#plex-web---allgemein)<br/>
+
+===
+
+---
