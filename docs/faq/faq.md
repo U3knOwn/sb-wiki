@@ -1,7 +1,7 @@
 ---
 label: Häufig gestellte Fragen
 order: -1
-description: Hier sind Häufig gestellte Fragen
+icon: comment-discussion
 ---
 
 # Häufig gestellte Fragen
