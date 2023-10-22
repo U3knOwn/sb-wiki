@@ -96,4 +96,23 @@ Wenn zu viel transcodiert wird, sollte man sich nach einem neuen TV Stick/Box um
 
 ===
 
+==- Auf welcher Platform kann Plex installiert werden?
+
+Plex kann auf einer Vielzahl von Plattformen installiert werden, darunter:
+- Windows
+- macOS
+- Linux
+- Android
+- iOS
+- Roku
+- Android TV
+- Apple TV
+- Amazon Fire TV
+- Xbox
+- PlayStation
+- Smart TVs (bestimmte Modelle)
+- Kodi / CoreELEC
+
+===
+
 ---
