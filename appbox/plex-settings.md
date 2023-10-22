@@ -241,6 +241,6 @@ Sobald der Scan abgeschlossen ist, verschwindet der Kreis wieder.<br/>
 
 ---
 
-## ***Fertig!*** 🥳
+<h2>Fertig! 🥳</h2>
 
 ---
