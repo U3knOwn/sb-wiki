@@ -21,7 +21,7 @@ Der Nutzer erhält von dem Betreiber einen virtuellen Plex Media Server, der ihn
 Dadurch kann der Benutzer seinen eigenen Server verwalten und hat `Administratorrechte`.  
 
 Obwohl der Betreiber nur eine begrenzte Anzahl gleichzeitiger Streams erlaubt, kann der Nutzer seine Freunde oder Bekannte auf seinen Server einladen, unabhängig davon, wo man sich befindet.  
-Der Nutzer kann für diese eingeladenen Personen eigene Accounts einzurichten und festzulegen, und was für welche Inhalte sie sehen dürfen.  
+Der Nutzer kann für diese eingeladenen Personen eigene Profile einrichten und festzulegen was für welche Inhalte sie sehen dürfen.  
 
 Der Nutzer kann sogar die AppBox selbst `neu starten` oder `neu aufbauen` wenn mal Probleme auftreten.  
 Auf der Plex-Plattform kann der Nutzer auch über das `Dashboard` sehen, wer gerade was anschaut.  
