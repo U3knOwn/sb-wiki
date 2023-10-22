@@ -118,9 +118,8 @@ Plex kann auf einer Vielzahl von Plattformen installiert werden, darunter:
 ==- Kann ich Plex auch von unterwegs verwenden?
 
 Das ist weltweit ohne Probleme möglich!
-Einfach aus dem Google Play Store oder aus dem App Store die App "Plex" installieren.
 
-===
+Einfach aus dem Google Play Store oder aus dem App Store die App "Plex" installieren.
 
 ===
 
@@ -128,10 +127,10 @@ Einfach aus dem Google Play Store oder aus dem App Store die App "Plex" installi
 
 Grundsätzlich nein.
 
-Es gibt eine einmalige Gebühr für mobile Geräte.
+Es gibt eine einmalige Gebühr für mobile Geräte.  
 Wenn man einen Plex Pass besitzen, muss man diese Gebühr nicht bezahlen für mobile Geräte.
 
-Für Fernseher oder Tablets muss man keine Gebühr zahlen, egal ob man einen Plex Pass besitzt oder nicht.
+Für Fernseher oder Tablets muss man keine Gebühr zahlen, egal ob man einen Plex Pass besitzt oder nicht.  
 Das ist kostenlos.
 
 ===
