@@ -32,10 +32,10 @@ Das bedeutet, dass sich auf diesem Server mehrere separate Plex Media Server bef
 Der Nutzer erhält von dem Betreiber einen virtuellen Plex Media Server, der ihn zum `Besitzer einer AppBox` macht.  
 Dadurch kann der Benutzer seinen eigenen Server verwalten und hat `Administratorrechte`.  
 
-Obwohl der Betreiber nur eine begrenzte Anzahl gleichzeitiger Streams erlaubt, kann der Nutzer seine Freunde und Nachbarn auf seinen Server einladen, unabhängig davon, wo man sich befindet.  
+Obwohl der Betreiber nur eine begrenzte Anzahl gleichzeitiger Streams erlaubt, kann der Nutzer seine Freunde oder Bekannte auf seinen Server einladen, unabhängig davon, wo man sich befindet.  
 Der Nutzer kann für diese eingeladenen Personen eigene Accounts einzurichten und festzulegen, und was für welche Inhalte sie sehen dürfen.  
 
-Der Nutzer kann sogar die AppBox selbst `neu starten`, `neu aufbauen` wenn mal Probleme auftreten.  
+Der Nutzer kann sogar die AppBox selbst `neu starten` oder `neu aufbauen` wenn mal Probleme auftreten.  
 Auf der Plex-Plattform kann der Nutzer auch über das `Dashboard` sehen, wer gerade was anschaut.  
 
 Zusammengefasst:  
@@ -43,7 +43,23 @@ Man kann den Server `ausschalten`, `einschalten`, `neustarten` oder `neu aufbaue
 Man kann `Profile` erstellen, z.B. für `Familie oder Bekannte`.  
 Man kann `andere Plex-Benutzer` per `E-Mail` einladen.  
 Man kann sehen, wer gerade was `anschaut`.  
-Man kann `Mediatheken` verwalten und vieles mehr...  
+Man kann die `Mediatheken` verwalten und vieles mehr...  
+
+===
+
+==- Was ist denn ein Share?
+Der Betreiber teilt seine Inhalte mit dir.  
+Der Benutzer ist `nicht Besitzer des Servers` oder hat `Administratorrechte`.  
+Man kann keine Freunde oder Bekannte auf seinen Share einladen.  
+Bei Problemen kann der Nutzer den Server hinter dem Share nicht `neu starten` oder `neu aufbauen`, denn das kann nur der Betreiber.  
+Man ist also völlig vom Betreiber abhängig.  
+
+Zusammengefasst:  
+Man kann den Server nicht selbstständig `ausschalten`, `einschalten`, `neustarten` oder `neu aufbauen`.  
+Man kann keine `Profile` erstellen, z.B. für `Familie oder Bekannte`.  
+Man kann keine `andere Plex-Benutzer` per `E-Mail` einladen.  
+Man kann nicht sehen, wer gerade was `anschaut`.  
+Man kann die `Mediatheken` nicht verwalten und vieles mehr...  
 
 ===
 
