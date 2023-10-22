@@ -75,4 +75,25 @@ Wenn diese Einstellung nicht aktiviert ist, werden die Merklisten nicht gespeich
 
 ===
 
+==- Fehler: Dieser Server ist nicht leistungsfähig genug, um Videos konvertieren zu können
+
+Es wird versucht, den ausgewählten Inhalt zu transcodieren, da eine Inkompatibilität mit der Hardware festgestellt wurde.
+
+Derzeit können nur 1080p-Inhalte transcodiert werden.
+
+Bei 4K Inhalten ist dies nicht möglich, da der Betreiber dies deaktiviert hat.  
+Der Grund dafür ist, dass der Server dafür sehr viel Performance benötigt.
+
+Optimal wäre es, wenn gar nicht transcodiert wird.
+
+Wenn zu viel transcodiert wird, sollte man sich nach einem neuen TV Stick/Box umsehen.
+
+===
+
+==- Kann ich 4K-Inhalte im Browser abspielen?
+
+4K-Inhalte können leider nicht im Browser abgespielt werden!
+
+===
+
 ---
