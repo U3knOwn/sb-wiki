@@ -155,4 +155,17 @@ Dies ist auch mit dem dafür notwendigen Plex Pass nicht möglich.
 
 ===
 
+==- Kann ich Filme oder Serien anfragen?
+
+Ja das ist möglich!
+Im Streamboy Discord in den Bereich:
+- #film-wünsche
+  - Befehl: `/wunsch film titel:John Wick`
+  - Alternativ Befehl: `/wunsch movie-tmdb id:tt2911666`
+
+- #serien-wünsche
+  - Befehl: `/wunsch new-category titel:Prison Break`
+
+===
+
 ---
