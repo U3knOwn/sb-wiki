@@ -173,7 +173,7 @@ Dies verhindert, dass Filme & Serien, die fortgesetzt werden sollen, von der Sta
 
 ## Netzwerk
 
-[!badge icon="info" text="Plex Pass:"]
+[!badge icon="info" text="Nur für Plex Pass"]
 
 1. `Netzwerk` öffnen.
 2. Folgendes umsetzen und speichern:
