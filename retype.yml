@@ -4,8 +4,6 @@ input: ./docs
 
 locale: de
 
-favicon: static/favicon.ico
-
 branding:
   title: Streamboy
   label: Wiki
