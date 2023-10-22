@@ -15,11 +15,11 @@ icon: comment-discussion
 
 ==- Ich habe ein Problem mit "XY"
 
-Zuerst schauen wir, ob wir im Streamboy Discord etwas dazu finden.
+Zuerst schauen wir, ob wir im `Streamboy Discord` etwas dazu finden.
 
-Bitte schaut zuerst in den #Neuigkeiten Kanal.
+Bitte schaut zuerst in den `#Neuigkeiten` Kanal.
 
-Wenn ihr dort nichts findet, dann benutzt bitte den #allgemein Kanal und beschreibt dort euer Problem.
+Wenn ihr dort nichts findet, dann benutzt bitte den `#allgemein` Kanal und beschreibt dort euer Problem.
 
 ===
 
@@ -87,12 +87,12 @@ Wenn diese Einstellung nicht aktiviert ist, werden die Merklisten nicht gespeich
 
 ==- Fehler: Dieser Server ist nicht leistungsfähig genug, um Videos konvertieren zu können
 
-Es wird versucht, den ausgewählten Inhalt zu transcodieren, da eine Inkompatibilität mit der Hardware festgestellt wurde.
+Es wird versucht, den ausgewählten Inhalt zu transcodieren, da eine `Inkompatibilität` mit der `Hardware` festgestellt wurde.
 
-Derzeit können nur 1080p-Inhalte transcodiert werden.
+Derzeit können nur `1080p-Inhalte` transcodiert werden.
 
-Bei 4K Inhalten ist dies nicht möglich, da der Betreiber dies deaktiviert hat.  
-Der Grund dafür ist, dass der Server dafür sehr viel Performance benötigt.
+Bei `4K Inhalten` ist dies `nicht möglich`, da der Betreiber dies deaktiviert hat.  
+Der Grund dafür ist, dass der Server dafür sehr viel `Performance` benötigt.
 
 Optimal wäre es, wenn gar nicht transcodiert wird.
 
@@ -102,13 +102,13 @@ Wenn zu viel transcodiert wird, sollte man sich nach einem neuen TV Stick/Box um
 
 ==- Kann ich 4K-Inhalte im Browser abspielen?
 
-4K-Inhalte können leider nicht im Browser abgespielt werden!
+`4K-Inhalte` können leider `nicht` im Browser abgespielt werden!
 
 ===
 
 ==- Auf welcher Platform kann Plex installiert werden?
 
-Plex kann auf einer Vielzahl von Plattformen installiert werden, darunter:
+Plex kann auf einer Vielzahl von `Plattformen` installiert werden, darunter:
 - Windows
 - macOS
 - Linux
@@ -129,7 +129,7 @@ Plex kann auf einer Vielzahl von Plattformen installiert werden, darunter:
 
 Das ist weltweit ohne Probleme möglich!
 
-Einfach aus dem Google Play Store oder aus dem App Store die App "Plex" installieren.
+Einfach aus dem `Google Play Store` oder aus dem `Apple App Store` die App `Plex` installieren.
 
 ===
 
@@ -137,10 +137,10 @@ Einfach aus dem Google Play Store oder aus dem App Store die App "Plex" installi
 
 Grundsätzlich nein.
 
-Es gibt eine einmalige Gebühr für mobile Geräte.  
-Wenn man einen Plex Pass besitzen, muss man diese Gebühr nicht bezahlen für mobile Geräte.
+Es gibt eine `einmalige Gebühr` für `mobile Geräte`.  
+Wenn man einen `Plex Pass` besitzen, muss man diese Gebühr nicht bezahlen für mobile Geräte.
 
-Für Fernseher oder Tablets muss man keine Gebühr zahlen, egal ob man einen Plex Pass besitzt oder nicht.  
+Für `Fernseher` oder `Tablets` muss man `keine Gebühr zahlen`, egal ob man einen `Plex Pass` besitzt oder nicht.  
 Das ist kostenlos.
 
 ===
@@ -149,11 +149,11 @@ Das ist kostenlos.
 
 Nein.
 
-Der Plex Pass bietet nur sehr wenige Vorteile bei der Nutzung von Streamboy.
+Der `Plex Pass` bietet nur sehr wenige Vorteile bei der Nutzung von Streamboy.
 
 Welche Vorteile habe ich bei der Nutzung von Streamboy in Kombination mit dem Plex Pass?
-- Mehr Designs stehen zur Auswahl.
-- Du kannst Trailer sehen.
+- `Mehr Designs` stehen zur Auswahl.
+- Du kannst `Trailer` sehen.
 
 ===
 
@@ -161,20 +161,20 @@ Welche Vorteile habe ich bei der Nutzung von Streamboy in Kombination mit dem Pl
 
 Nein, das geht nicht.
 
-Dies ist auch mit dem dafür notwendigen Plex Pass nicht möglich.
+Dies ist auch mit dem dafür notwendigen `Plex Pass` nicht möglich.
 
 ===
 
 ==- Kann ich Filme oder Serien anfragen?
 
 Ja, das ist möglich!  
-Im Streamboy Discord unter:  
+Im `Streamboy Discord` unter:  
 
-- #film-wünsche
+- ***#film-wünsche***
   - Befehl: `/wunsch film titel:John Wick`
   - Alternativ Befehl: `/wunsch movie-tmdb id:tt2911666`<br/><br/>
   
-- #serien-wünsche
+- ***#serien-wünsche***
   - Befehl: `/wunsch new-category titel:Prison Break`
 
 ===
