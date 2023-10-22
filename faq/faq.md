@@ -13,6 +13,16 @@ icon: comment-discussion
 
 ---
 
+==- Ich habe ein Problem mit "XY"
+
+Zuerst schauen wir, ob wir im Streamboy Discord etwas dazu finden.
+
+Bitte schaut zuerst in den #Neuigkeiten Kanal.
+
+Wenn ihr dort nichts findet, dann benutzt bitte den #allgemein Kanal und beschreibt dort euer Problem.
+
+===
+
 ==- Was ist denn eine AppBox?
 Der Betreiber verwendet einen `leistungsstarken Server`, auf dem nicht nur ein Plex Media Server, sondern mehrere Plex Media Server `virtualisiert` installiert sind.  
 Das bedeutet, dass sich auf diesem Server mehrere separate Plex Media Server befinden.  
