@@ -13,30 +13,6 @@ icon: comment-discussion
 
 ---
 
-==- Meine gespeicherten Inhalte sind nach einem Serverwechsel verschwunden?
-
-Sie werden nur gelöscht, wenn man die Inhalte in der Wiedergabeliste speichert, da diese servergebunden sind.  
-Wenn man sie in die Merkliste verschiebt, werden sie nicht gelöscht, da diese an deinem Konto gebunden sind.
-
-Voraussetzung ist, dass `Einstellungen Synchronisieren` aktiviert ist.  
-Wenn diese Einstellung nicht aktiviert ist, werden die Merklisten nicht gespeichert.<br/>
-[Plex AppBox](https://u3known.github.io/sb-wiki/appbox/plex-settings/#plex-web---allgemein)<br/>
-[Plex Share](https://u3known.github.io/sb-wiki/share/plex-share-settings/#plex-web---allgemein)<br/>
-
-===
-
-==- Warum bekomme ich täglich keine neuen Inhalte?
-Es ist wichtig, diese Schritte zu befolgen, damit täglich neue Medien auf der Startseite erscheinen.  
-
-[Claiming -> ab Punkt 7](https://u3known.github.io/sb-wiki/appbox/claiming/#verkn%C3%BCpfung-der-appbox-mit-plex)<br/>
-[Einstellungen -> Geplante Aufgaben](https://u3known.github.io/sb-wiki/appbox/plex-settings/#geplante-aufgaben)<br/>
-[Verwalten -> Mediatheken](https://u3known.github.io/sb-wiki/appbox/plex-settings/#verwalten---mediatheken)<br/>
-
-Nach diesen Schritten ist nur noch ein Neustart des Servers erforderlich.  
-Nach dem Neustart wird die Mediathek automatisch alle 24 Stunden gescannt.  
-
-===
-
 ==- Was ist denn eine AppBox?
 Der Betreiber verwendet einen `leistungsstarken Server`, auf dem nicht nur ein Plex Media Server, sondern mehrere Plex Media Server `virtualisiert` installiert sind.  
 Das bedeutet, dass sich auf diesem Server mehrere separate Plex Media Server befinden.  
@@ -72,6 +48,30 @@ Man kann keine `Profile` erstellen, z.B. für `Familie oder Bekannte`.
 Man kann keine `andere Plex-Benutzer` per `E-Mail` einladen.  
 Man kann nicht sehen, wer gerade was `anschaut`.  
 Man kann die `Mediatheken` nicht verwalten und vieles mehr...  
+
+===
+
+==- Warum bekomme ich täglich keine neuen Inhalte?
+Es ist wichtig, diese Schritte zu befolgen, damit täglich neue Medien auf der Startseite erscheinen.  
+
+[Claiming -> ab Punkt 7](https://u3known.github.io/sb-wiki/appbox/claiming/#verkn%C3%BCpfung-der-appbox-mit-plex)<br/>
+[Einstellungen -> Geplante Aufgaben](https://u3known.github.io/sb-wiki/appbox/plex-settings/#geplante-aufgaben)<br/>
+[Verwalten -> Mediatheken](https://u3known.github.io/sb-wiki/appbox/plex-settings/#verwalten---mediatheken)<br/>
+
+Nach diesen Schritten ist nur noch ein Neustart des Servers erforderlich.  
+Nach dem Neustart wird die Mediathek automatisch alle 24 Stunden gescannt.  
+
+===
+
+==- Meine gespeicherten Inhalte sind nach einem Serverwechsel verschwunden?
+
+Sie werden nur gelöscht, wenn man die Inhalte in der Wiedergabeliste speichert, da diese servergebunden sind.  
+Wenn man sie in die Merkliste verschiebt, werden sie nicht gelöscht, da diese an deinem Konto gebunden sind.
+
+Voraussetzung ist, dass `Einstellungen Synchronisieren` aktiviert ist.  
+Wenn diese Einstellung nicht aktiviert ist, werden die Merklisten nicht gespeichert.<br/>
+[Plex AppBox](https://u3known.github.io/sb-wiki/appbox/plex-settings/#plex-web---allgemein)<br/>
+[Plex Share](https://u3known.github.io/sb-wiki/share/plex-share-settings/#plex-web---allgemein)<br/>
 
 ===
 
