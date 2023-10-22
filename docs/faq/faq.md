@@ -8,7 +8,7 @@ icon: comment-discussion
 
 ==- Meine gespeicherten Inhalte sind nach einem Serverwechsel verschwunden?
 
-Ja, sie werden nur gelöscht, wenn man die Inhalte in der Wiedergabeliste speichert, da diese servergebunden sind.
+Sie werden nur gelöscht, wenn man die Inhalte in der Wiedergabeliste speichert, da diese servergebunden sind.  
 Wenn man sie in die Merkliste verschiebt, werden sie nicht gelöscht, da diese an deinem Konto gebunden sind.
 
 Voraussetzung ist, dass `Einstellungen Synchronisieren` aktiviert ist.  
