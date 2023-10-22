@@ -115,4 +115,45 @@ Plex kann auf einer Vielzahl von Plattformen installiert werden, darunter:
 
 ===
 
+==- Kann ich Plex auch von unterwegs verwenden?
+
+Das ist weltweit ohne Probleme möglich!
+Einfach aus dem Google Play Store oder aus dem App Store die App "Plex" installieren.
+
+===
+
+===
+
+==- Kostet die Nutzung von Plex etwas?
+
+Grundsätzlich nein.
+
+Es gibt eine einmalige Gebühr für mobile Geräte.
+Wenn man einen Plex Pass besitzen, muss man diese Gebühr nicht bezahlen für mobile Geräte.
+
+Für Fernseher oder Tablets muss man keine Gebühr zahlen, egal ob man einen Plex Pass besitzt oder nicht.
+Das ist kostenlos.
+
+===
+
+==- Braucht man einen Plex Pass?
+
+Nein.
+
+Der Plex Pass bietet nur sehr wenige Vorteile bei der Nutzung von Streamboy.
+
+Welche Vorteile habe ich bei der Nutzung von Streamboy in Kombination mit dem Plex Pass?
+- Mehr Designs stehen zur Auswahl.
+- Du kannst Trailer sehen.
+
+===
+
+==- Kann ich bei Serien das Intro überspringen?
+
+Nein, das geht nicht.
+
+Dies ist auch mit dem dafür notwendigen Plex Pass nicht möglich.
+
+===
+
 ---
