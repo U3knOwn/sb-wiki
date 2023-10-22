@@ -7,7 +7,8 @@ icon: comment-discussion
 # Häufig gestellte Fragen
 
 <h2>Was findest Du in dieser FAQ?</h2>
-**In dieser FAQ findest Du Antworten auf häufig gestellte Fragen.**<br/>
+
+**In dieser FAQ findest Du Antworten auf häufig gestellte Fragen.**  
 **Wir haben die am häufigsten gestellten Fragen sorgfältig gesammelt und in klaren, leicht verständlichen Antworten zusammengefasst.**
 
 ---
