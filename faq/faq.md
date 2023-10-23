@@ -17,9 +17,9 @@ icon: comment-discussion
 
 Zuerst schauen wir, ob wir im `Streamboy Discord` etwas dazu finden.
 
-Bitte schaut zuerst in den `#Neuigkeiten` Kanal.
+Bitte schaut zuerst in den `#neuigkeiten` Kanal.
 
-Wenn ihr dort nichts findet, dann benutzt bitte den `#allgemein` Kanal und beschreibt dort euer Problem.
+Wenn ihr dort nichts findet, dann benutzt bitte den `#Allgemein` Kanal und beschreibt dort euer Problem.
 
 ===
 
