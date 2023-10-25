@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/sb-wiki">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.751566320096">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.751566568742">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.751566320096" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.751566568742" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.751566320096" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.751566568742" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.751566320096" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.751566568742" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -241,6 +241,59 @@
 <p><strong>Einstellungen -&gt; Fernbedienung:</strong></p>
 <ul>
 <li>Als Player ausgeben: <code v-pre>Ein</code></li>
+</ul>
+</doc-panel>
+<doc-panel id="kodi-coreelec" collapsed>
+    <template #title>Kodi / CoreELEC</template>
+<ol>
+<li>Gehe im Addon <code v-pre>PlexMod</code> unter <code v-pre>Einstellungen</code> und nimm folgendes vor:</li>
+</ol>
+<p><strong>Einstellungen -&gt; Allgemein</strong></p>
+<ul>
+<li>Automatisch anmelden: <code v-pre>Ein</code></li>
+<li>Alternative Aktualisierung der Hubs: <code v-pre>Ein</code></li>
+</ul>
+<p><strong>Einstellungen -&gt; Video:</strong></p>
+<ul>
+<li>Qualität für lokale Geräte: <code v-pre>Original</code></li>
+<li>Qualität für entfernte Geräte: <code v-pre>Original</code></li>
+<li>Online Qualität: <code v-pre>Original</code></li>
+<li>Direkte Wiedergabe erlauben: <code v-pre>Ein</code></li>
+<li>Direktes Streamen erlauben: <code v-pre>Ein</code></li>
+<li>4K erlauben <code v-pre>Ein</code></li>
+<li>HEVC erlauben (H265): <code v-pre>Ein</code></li>
+<li>AV1 zulassen: <code v-pre>Ein</code></li>
+</ul>
+<p><strong>Einstellungen -&gt; Ton:</strong></p>
+<ul>
+<li>Niemals den ursprünglichen Audio-Codec überschreiten: <code v-pre>Ein</code></li>
+<li>Kodi-Audiokanäle verwenden <code v-pre>Aus</code></li>
+<li>Erzwingen der Transcodierung von Audio: <code v-pre>Aus</code></li>
+<li>DTS wie AC3 behandeln: <code v-pre>Aus</code></li>
+</ul>
+<p><strong>Einstellungen -&gt; Wiedergabe:</strong></p>
+<ul>
+<li>Automatisch nächsten Titel abspielen: <code v-pre>Ein</code></li>
+<li>TV Bridge-Viewing-Modus: <code v-pre>Ein</code></li>
+<li>Video-Kapitel: <code v-pre>Ein</code></li>
+<li>Virtuelle Kapitel verwenden: <code v-pre>Ein</code></li>
+</ul>
+<p><strong>Einstellungen -&gt; Untertitel:</strong></p>
+<ul>
+<li>Untertitel einbrennen: <code v-pre>Automatisch</code></li>
+<li>Untertitel download aktivieren: <code v-pre>Aus</code></li>
+</ul>
+<doc-anchor-target id="kodi-addon-einstellungen-für-plexmod">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#kodi-addon-einstellungen-für-plexmod">#</doc-anchor-trigger>
+        <span>Kodi-Addon Einstellungen für <code v-pre>PlexMod</code></span>
+    </h3>
+</doc-anchor-target>
+<p><strong>Benutzeroberfläche:</strong></p>
+<ul>
+<li>Dynamische Hintergrundbilder aktivieren: <code v-pre>Ein</code></li>
+<li>Unschärfe der Hintergrundbilder: <code v-pre>70</code></li>
+<li>Deckkraft der Hintergrundbilder: <code v-pre>30</code></li>
 </ul>
 </doc-panel>
 <hr>
