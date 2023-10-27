@@ -41,6 +41,7 @@ Man kann den Server `ausschalten`, `einschalten`, `neustarten` oder `neu aufbaue
 Man kann `Profile` erstellen, z.B. für `Familie oder Bekannte`.  
 Man kann `andere Plex-Benutzer` per `E-Mail` einladen.  
 Man kann sehen, wer gerade was `anschaut`.  
+`Downloads` sind möglich.  
 Man kann die `Mediatheken` verwalten und vieles mehr...  
 
 ===
@@ -57,6 +58,7 @@ Man kann den Server nicht selbstständig `ausschalten`, `einschalten`, `neustart
 Man kann keine `Profile` erstellen, z.B. für `Familie oder Bekannte`.  
 Man kann keine `andere Plex-Benutzer` per `E-Mail` einladen.  
 Man kann nicht sehen, wer gerade was `anschaut`.  
+`Downloads` sind `nicht` möglich.  
 Man kann die `Mediatheken` nicht verwalten und vieles mehr...  
 
 ===
