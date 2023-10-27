@@ -184,8 +184,9 @@ Im `Streamboy Discord` unter:
 Ja, das ist möglich!
 
 **Vorraussetzung:**  
-Ihr habt eine Plex `AppBox`.  
-Bei Plex `Share` geht es nicht, da es vom Betreiber gesperrt ist.
+Ihr habt eine `AppBox`.  
+
+Bei `Share` geht es nicht, da es vom Betreiber gesperrt wurde.
 
 ===
 
