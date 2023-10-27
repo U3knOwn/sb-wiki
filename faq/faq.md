@@ -179,4 +179,14 @@ Im `Streamboy Discord` unter:
 
 ===
 
+==- Kann ich Filme oder Serien für den Urlaub herunterladen?
+
+Ja, das ist möglich!
+
+**Vorraussetzung:**
+Ihr habt eine Plex `AppBox`.
+Bei Plex `Share` geht es nicht, da es vom Betreiber gesperrt ist.
+
+===
+
 ---
