@@ -1,7 +1,7 @@
 ---
 label: Empfohlene Hardware
 order: -1
-description: Hier sind Empfohlene Hardware aufgelistet
+description: Hier werden Empfohlene Hardware aufgelistet
 ---
 
 # Empfohlene Hardware
@@ -14,7 +14,90 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 <h3>Spezifikationen:</h3>
 
-`Prozessor:` Amlogic S905X4-K
+**Prozessor:**  
+- Amlogic S905X4-K
+- 4x 2.0GHz  
+
+**GPU:**  
+- Mali-G31 MP2
+- 850 MHz
+
+**RAM:**  
+- 4 GB  
+
+**Speicher:**  
+- 32 GB  
+
+**Betriebssystem:**  
+- Android TV 11.0  
+
+**Konnektivität:**
+- HDMI 2.1 mit HDCP 2.2
+- Gigabit-Ethernet
+- Dual-Band Wi-Fi 6 (802.11a/b/g/n/ac/ax)
+- Bluetooth 5.0 + LE
+- CEC
+- 1x USB 3.0-Anschluss (Typ A)
+- 1x USB 2.0-Anschluss (Typ A)
+
+---
+
+<h3>Video-Codecs:</h3>
+
+| Codecs       | Unterstützung |
+| ------------ | ------------- |
+| H.264 (x264) | ✅            |
+| H.265 (x265) | ✅            |
+| MPEG-1/2     | ✅            |
+| MPEG-4       | ✅            |
+| VP8          | ✅            |
+| VP9          | ✅            |
+| VP9.2        | ✅            |
+| AV1          | ✅            |
+
+<h3>HDR-Codecs:</h3>
+
+| Codecs          | Unterstützung                                         |
+| --------------- | ----------------------------------------------------- |
+| HDR10           | ✅                                                    |
+| HDR10+          | ✅                                                    |
+| HLG             | ✅                                                    |
+| Dolby Vision P5 | ✅                                                    |
+| Dolby Vision P7 | ✅ (Dune HD Mediacenter, CoreELEC oder Kodi 21 Beta1+ |
+| Dolby Vision P8 | ✅                                                    |
+
+<h3>Audio-Codecs:</h3> 
+
+| Codecs                      | Unterstützung                                          |
+| --------------------------- | --------------------------------------------------- |
+| Dolby Digital (AC3)         | ✅                                                  |
+| Dolby Digital Plus (EAC3)   | ✅                                                  |
+| Dolby TrueHD & TrueHD Atmos | ✅                                                  |
+| Dolby Atmos                 | ✅                                                  |
+| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)                                |
+| DTS                         | ✅                                                  |
+| DTS-X                       | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
+| DTS-HD                      | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |                   |
+| Multi-PCM 7.1               | ✅                                                     |
+
+---
+
+**Empfehlung für Plex Streaming?:**  
+
+**Ja 🥳**  
+
+Die Dune HD Homatics Box R 4K Plus ist eine hervorragende Wahl für das Streaming mit Plex.  
+Sie eignet sich auch bestens für herkömmliche Streaminganbieter, CoreELEC und Kodi.  
+Unter Android ist zu beachten, dass DTS HD und DTS X in PCM 7.1 ausgegeben werden, was natürlich verlustfrei ist.  
+Einziger Nachteil bei DTS X ist, dass die Höheninformationen verloren gehen, was die Objektqualität nur minimal beeinflusst.  
+
+Möchtest du das volle Potenzial der Dune HD Homatics Box R 4K Plus ausschöpfen, empfehle ich dir dringend, CoreELEC in Betracht zu ziehen.  
+CoreELEC ist ein Linux-basiertes Betriebssystem, auf dem Kodi läuft und über einen USB-Stick gestartet werden kann.  
+Der Vorteil von CoreELEC liegt darin, dass Kodi speziell für dieses Gerät angepasst wurde und somit reibungslos läuft.  
+
+Unter CoreELEC kann die Dune HD Homatics Box R 4K Plus ihr volles Potenzial entfalten, da sie mit allen Codecs, sei es Video- oder Audio-Codecs, umgehen kann.  
+Alles wird hier im Passthrough-Modus ausgegeben.  
+Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wert.
 
 ===
 
@@ -49,7 +132,7 @@ description: Hier sind Empfohlene Hardware aufgelistet
 - Dual-Band Wi-Fi 5 (802.11a/b/g/n/ac)
 - Bluetooth 5.0 + LE
 - CEC
-- Zwei USB 3.0-Anschlüsse (Typ A)
+- 2x USB 3.0-Anschluss (Typ A)
 
 ---
 
@@ -68,14 +151,14 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 <h3>HDR-Codecs:</h3>
 
-| Codecs          | Unterstützung                      |
-| --------------- | ---------------------------------- |
-| HDR10           | ✅                                 |
-| HDR10+          | 🚫                                 |
-| HLG             | 🚫                                 |
-| Dolby Vision P5 | ✅                                 |
-| Dolby Vision P7 | ⚠️ (Nur mit speziellem Kodi-Build) |
-| Dolby Vision P8 | ✅                                 |
+| Codecs          | Unterstützung       |
+| --------------- | ------------------- |
+| HDR10           | ✅                  |
+| HDR10+          | 🚫                  |
+| HLG             | 🚫                  |
+| Dolby Vision P5 | ✅                  |
+| Dolby Vision P7 | ✅ (Kodi 21 Beta1+) |
+| Dolby Vision P8 | ✅                  |
 
 <h3>Audio-Codecs:</h3> 
 
@@ -132,7 +215,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 - Fire OS 8
 
 **Konnektivität:**
-- HDMI 2.1 mit HDCP 2.3
+- HDMI 2.1 mit HDCP 2.2
 - Ethernet 10/100 Mbit/s (mit Externen Dongle)
 - Tri-Band Wi-Fi 6E (802.11a/b/g/n/ac/ax)
 - Bluetooth 5.2 + BLE
@@ -155,14 +238,15 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 <h3>HDR-Codecs:</h3>
 
-| Codecs          | Unterstützung                      |
-| --------------- | ---------------------------------- |
-| HDR10           | ✅                                 |
-| HDR10+          | ✅                                 |
-| HLG             | ✅                                 |
-| Dolby Vision P5 | ✅                                 |
-| Dolby Vision P7 | ⚠️ (Nur mit speziellem Kodi-Build) |
-| Dolby Vision P8 | ✅                                 |
+| Codecs          | Unterstützung       |
+| --------------- | ------------------- |
+| HDR10           | ✅                  |
+| HDR10+          | ✅                  |
+| HLG             | ✅                  |
+| Dolby Vision P5 | ✅                  |
+| Dolby Vision P7 | ✅ (Kodi 21 Beta1+) |
+| Dolby Vision P8 | ✅                  |
+
 
 <h3>Audio-Codecs:</h3> 
 
