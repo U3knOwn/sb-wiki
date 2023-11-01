@@ -32,7 +32,7 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 <h3>Konnektivität:</h3>
 
-- HDMI 2.0b with HDCP 2.2 (4Kp60, HDR) 
+- HDMI 2.0b mit HDCP 2.2 (4Kp60, HDR) 
 - Gigabit-Ethernet.
 - Dual-Band Wi-Fi (802.11a/b/g/n/ac).
 - Bluetooth 4.1/BLE.
