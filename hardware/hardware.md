@@ -63,18 +63,18 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                  | Unterstützung                      |
-| ----------------------- | ---------------------------------- |
-| Dolby Digital           | ✅                                 |
-| Dolby Digital Plus      | ✅                                 |
-| Dolby TrueHD            | ✅                                 |
-| Dolby TrueHD (Atmos)    | ✅                                 |
-| Dolby Atmos             | ✅                                 |
-| Dolby Atmos (Streaming) | ✅                                 |
-| DTS                     | ✅                                 |
-| DTS-X                   | ✅                                 |
-| DTS-HD                  | ✅                                 |
-| Multi-PCM 7.1           | ✅                                 |
+| Codecs                  | Unterstützung |
+| ----------------------- | ------------- |
+| Dolby Digital           | ✅            |
+| Dolby Digital Plus      | ✅            |
+| Dolby TrueHD            | ✅            |
+| Dolby TrueHD (Atmos)    | ✅            |
+| Dolby Atmos             | ✅            |
+| Dolby Atmos (Streaming) | ✅            |
+| DTS                     | ✅            |
+| DTS-X                   | ✅            |
+| DTS-HD                  | ✅            |
+| Multi-PCM 7.1           | ✅            |
 
 **Empfohlen für Plex?:**  
 Ja, Nvidia Shield eignet sich sehr gut zum Streamen für Plex.  
