@@ -1,10 +1,10 @@
 ---
-label: Empfohlene Hardware
+label: Hardware
 order: -1
 description: Hier werden Empfohlene Hardware aufgelistet
 ---
 
-# Empfohlene Hardware
+# Hardware
 
 <h3>Alle Angaben sind ohne Gewähr!</h3>
 
