@@ -76,10 +76,11 @@ description: Hier sind Empfohlene Hardware aufgelistet
 | DTS-HD                  | ✅            |
 | Multi-PCM 7.1           | ✅            |
 
-**Empfohlen für Plex?:**  
-Ja, Nvidia Shield eignet sich sehr gut zum Streamen für Plex.
-
-Bei einigen Videocodecs muss man Abstriche machen, was aber für Plex weniger relevant ist, da diese Videocodecs kaum bis gar nicht genutzt werden.  
+**Empfehlung für Plex Streaming?:**  
+Ja!  
+Die Nvidia Shield Pro eignet sich sehr gut zum Streamen für Plex.  
+Auch für normale Streaminganbieter oder für Kodi ist die Nvidia Shield bestens geeignet.  
+Bei einigen Videocodecs muss man aber Abstriche machen, was aber für Plex weniger relevant ist, da diese Videocodecs kaum bis gar nicht genutzt werden.  
 Beim Sound glänzt die Nvidia Shield.  
 Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
