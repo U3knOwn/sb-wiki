@@ -195,13 +195,16 @@ Bei `Share` geht es nicht, da es vom Betreiber gesperrt wurde.
 ==- Warum werden Cover und Beschreibungen nicht richtig angezeigt?
 
 Dazu muss die AppBox einmal neu gestartet und die Metadaten neu eingelesen werden.  
-[!badge icon="warning" text="Wichtig:"]Nicht die Mediathek, sondern die Metadaten müssen neu eingelesen werden!
 
-## In Plex einloggen
+[!badge icon="warning" text="Wichtig:"]  
+Nicht die Mediathek, sondern die Metadaten müssen neu eingelesen werden!
+
+<h3>In Plex einloggen</h3>
+
 1. [Plex Login](https://app.plex.tv/desktop/#!/login) öffnen.
 2. Meldet euch in Plex mit eurer `E-Mail-Adresse` und `Passwort` ein.
 
-## Verwalten -> Mediatheken
+<h3>Verwalten -> Mediatheken</h3>
 
 1. `Mediatheken` öffnen.
 2. In den Mediatheken auf die `3 Punkte` klicken.
