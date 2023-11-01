@@ -18,7 +18,7 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 ===
 
-==- SHIELD TV Pro (2019)
+==- Nvidia Shield TV Pro (2019)
 
 <img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/4daa5941-d722-4708-a41b-a3e662b879d6' width='500'>
 
@@ -77,7 +77,9 @@ description: Hier sind Empfohlene Hardware aufgelistet
 | Multi-PCM 7.1           | ✅            |
 
 **Empfehlung für Plex Streaming?:**  
-Ja!  
+
+**Ja 🥳**  
+
 Die Nvidia Shield Pro eignet sich sehr gut zum Streamen für Plex.  
 Auch für normale Streaminganbieter oder für Kodi ist die Nvidia Shield bestens geeignet.  
 Bei einigen Videocodecs muss man aber Abstriche machen, was aber für Plex weniger relevant ist, da diese Videocodecs kaum bis gar nicht genutzt werden.  
