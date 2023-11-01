@@ -68,7 +68,7 @@ description: Hier werden Empfohlene Hardware aufgelistet
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                      | Unterstützung                                          |
+| Codecs                      | Unterstützung                                       |
 | --------------------------- | --------------------------------------------------- |
 | Dolby Digital (AC3)         | ✅                                                  |
 | Dolby Digital Plus (EAC3)   | ✅                                                  |
@@ -77,8 +77,8 @@ description: Hier werden Empfohlene Hardware aufgelistet
 | Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)                                |
 | DTS                         | ✅                                                  |
 | DTS-X                       | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
-| DTS-HD                      | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |                   |
-| Multi-PCM 7.1               | ✅                                                     |
+| DTS-HD                      | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
+| Multi-PCM 7.1               | ✅                                                  |
 
 ---
 
