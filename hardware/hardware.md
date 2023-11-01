@@ -188,7 +188,7 @@ Der brandneue Amazon Fire TV Stick 4K Max eignet sich hervorragend für das Stre
 Für herkömmliche Streamingdienste und Kodi ist der Amazon Fire TV Stick 4K Max ebenfalls bestens geeignet.  
 Er meistert die gängigsten Videocodecs und Audiocodecs mit nur minimalen Einschränkungen mühelos.  
 Wenn du nach einem Gerät suchst, bei dem das Preis-Leistungs-Verhältnis im Vordergrund steht, kannst du bedenkenlos zugreifen.  
-Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, da der Stick zu reduzierten Preisen erhältlich sein können.
+Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, da der Stick zu reduzierten Preisen erhältlich sein könnte.
 
 ===
 
