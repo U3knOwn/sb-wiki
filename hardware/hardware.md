@@ -193,7 +193,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 ===
 
-==- Fire TV Stick 4K Max (2. Gen)
+==- Amazon Fire TV Stick 4K Max (2. Gen)
 
 <img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/3e5edb88-666e-4a7b-b428-28b1e854196d' width='500'>
 
@@ -278,6 +278,12 @@ Für herkömmliche Streamingdienste und Kodi ist der Amazon Fire TV Stick 4K Max
 Er meistert die gängigsten Videocodecs und Audiocodecs mit nur minimalen Einschränkungen mühelos.  
 Wenn du nach einem Gerät suchst, bei dem das Preis-Leistungs-Verhältnis im Vordergrund steht, kannst du bedenkenlos zugreifen.  
 Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, da der Stick zu reduzierten Preisen erhältlich sein könnte.
+
+===
+
+==- Amazon Fire TV Cube (3. Gen)
+
+***Folgt...***
 
 ===
 
