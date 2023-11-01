@@ -35,10 +35,10 @@ description: Hier sind Empfohlene Hardware aufgelistet
 - 1267 MHz
 
 **RAM:**  
-- 3 GB RAM  
+- 3 GB  
 
 **Speicher:**  
-- 16 GB interner Speicher  
+- 16 GB  
 
 **Betriebssystem:**  
 - Android TV 11.0  
@@ -72,24 +72,24 @@ description: Hier sind Empfohlene Hardware aufgelistet
 | --------------- | ---------------------------------- |
 | HDR10           | ✅                                 |
 | HDR10+          | 🚫                                 |
+| HLG             | 🚫                                 |
 | Dolby Vision P5 | ✅                                 |
 | Dolby Vision P7 | ⚠️ (Nur mit speziellem Kodi-Build) |
 | Dolby Vision P8 | ✅                                 |
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                  | Unterstützung |
-| ----------------------- | ------------- |
-| Dolby Digital           | ✅            |
-| Dolby Digital Plus      | ✅            |
-| Dolby TrueHD            | ✅            |
-| Dolby TrueHD (Atmos)    | ✅            |
-| Dolby Atmos             | ✅            |
-| Dolby Atmos (Streaming) | ✅            |
-| DTS                     | ✅            |
-| DTS-X                   | ✅            |
-| DTS-HD                  | ✅            |
-| Multi-PCM 7.1           | ✅            |
+| Codecs                      | Unterstützung        |
+| --------------------------- | -------------------- |
+| Dolby Digital (AC3)         | ✅                   |
+| Dolby Digital Plus (EAC3)   | ✅                   |
+| Dolby TrueHD & TrueHD Atmos | ✅                   |
+| Dolby Atmos                 | ✅                   |
+| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos) |
+| DTS                         | ✅                   |
+| DTS-X                       | ✅                   |
+| DTS-HD                      | ✅                   |
+| Multi-PCM 7.1               | ✅                   |
 
 ---
 
@@ -113,7 +113,82 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 <h3>Spezifikationen:</h3>
 
-`Prozessor:` Mediatek MT8696T
+**Prozessor:**  
+- Mediatek MT8696T
+- 4x 2.0GHz  
+
+**GPU:**  
+- GE9215
+- 850 MHz  
+
+**RAM:**  
+- 2 GB  
+
+**Speicher:**  
+- 16 GB  
+
+**Betriebssystem:**  
+- Android 11.0  
+- Fire OS 8
+
+**Konnektivität:**
+- HDMI 2.1 mit HDCP 2.3
+- Ethernet 10/100 Mbit/s (mit Externen Dongle)
+- Tri-Band Wi-Fi 6E (802.11a/b/g/n/ac/ax)
+- Bluetooth 5.2 + BLE
+- CEC
+
+---
+
+<h3>Video-Codecs:</h3>
+
+| Codecs       | Unterstützung           |
+| ------------ | ----------------------- |
+| H.264 (x264) | ✅                      |
+| H.265 (x265) | ✅                      |
+| MPEG-1/2     | ✅                      |
+| MPEG-4       | ✅                      |
+| VP8          | ✅                      |
+| VP9          | ✅                      |
+| VP9.2        | ✅                      |
+| AV1          | ✅                      |
+
+<h3>HDR-Codecs:</h3>
+
+| Codecs          | Unterstützung                      |
+| --------------- | ---------------------------------- |
+| HDR10           | ✅                                 |
+| HDR10+          | ✅                                 |
+| HLG             | ✅                                 |
+| Dolby Vision P5 | ✅                                 |
+| Dolby Vision P7 | ⚠️ (Nur mit speziellem Kodi-Build) |
+| Dolby Vision P8 | ✅                                 |
+
+<h3>Audio-Codecs:</h3> 
+
+| Codecs                      | Unterstützung         |
+| --------------------------- | --------------------- |
+| Dolby Digital (AC3)         | ✅                    |
+| Dolby Digital Plus (EAC3)   | ✅                    |
+| Dolby TrueHD & TrueHD Atmos | ✅                    |
+| Dolby Atmos                 | ✅                    |
+| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)  |
+| DTS                         | ✅                    |
+| DTS-X                       | ⚠️ (Nur als DTS Core) |
+| DTS-HD                      | ⚠️ (Nur als DTS Core) |
+| Multi-PCM 7.1               | ✅                    |
+
+---
+
+**Empfehlung für Plex Streaming?:**  
+
+**Ja 🥳**  
+
+Der brandneue Amazon Fire TV Stick 4K Max eignet sich hervorragend für das Streamen mit Plex.  
+Für herkömmliche Streamingdienste und Kodi ist der Amazon Fire TV Stick 4K Max ebenfalls bestens geeignet.  
+Er meistert die gängigsten Videocodecs und Audiocodecs mit nur minimalen Einschränkungen mühelos.  
+Wenn du nach einem Gerät suchst, bei dem das Preis-Leistungs-Verhältnis im Vordergrund steht, kannst du bedenkenlos zugreifen.  
+Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, da der Stick zu reduzierten Preisen erhältlich sein können.
 
 ===
 
