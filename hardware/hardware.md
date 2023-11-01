@@ -371,8 +371,10 @@ Es ist ratsam, die App "Infuse" anstelle der originalen "Plex" App zu verwenden.
 Der Apple TV 4K unterstützt viele wichtige Video-Codecs, jedoch fehlt die Unterstützung für AV1.  
 Das sollte für die meisten Inhalte kein großes Problem darstellen, da AV1 nicht weit verbreitet ist und in Plex keine Verwendung findet.  
 
-Ein weiterer wichtiger Punkt betrifft die Tonausgabe. Der Apple TV 4K gibt den Ton in der Regel als Multi-PCM aus.  
-PCM ist verlustfrei und bietet eine hervorragende Audioqualität. Allerdings fehlt hier ein Passthrough-Modus, der es ermöglichen würde, das ursprüngliche Audioformat des Inhalts beizubehalten.  
+Ein weiterer wichtiger Punkt betrifft die Tonausgabe.  
+Der Apple TV 4K gibt den Ton in der Regel als Multi-PCM aus.  
+PCM ist verlustfrei und bietet eine hervorragende Audioqualität.  
+Allerdings fehlt hier ein Passthrough-Modus, der es ermöglichen würde, das ursprüngliche Audioformat des Inhalts beizubehalten.  
 Dies kann problematisch sein, wenn du hochwertige Audioformate wie Dolby Atmos oder DTS:X nutzen möchtest, da diese in PCM umgewandelt werden.  
 Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verloren gehen.  
 
