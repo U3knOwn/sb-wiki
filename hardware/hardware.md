@@ -310,7 +310,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 - Fire OS
 
 **Konnektivität:**
-- HDMI 2.1 mit HDCP 2.3
+- 1x HDMI 2.1 Eingang mit HDCP 2.3
+- 1x HDMI Ausgang
 - Ethernet 10/100 Mbit/s
 - Tri-Band Wi-Fi 6E (802.11a/b/g/n/ac/ax)
 - Bluetooth 5.0 + BLE
@@ -318,6 +319,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 - 11W Lautsprecher integriert
 - Alexa
 - LED am Gehäuse
+- 1x USB 2.0-Anschluss (Typ A)
+- IR Extender Port
 
 ---
 
