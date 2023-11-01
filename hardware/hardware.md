@@ -316,6 +316,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 - Bluetooth 5.0 + BLE
 - CEC
 - 11W Lautsprecher integriert
+- Alexa
 - LED am Gehäuse
 
 ---
@@ -368,6 +369,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 Der Amazon Fire TV Cube eignet sich hervorragend für das Streamen mit Plex.  
 Für herkömmliche Streamingdienste und Kodi ist der Amazon Fire TV Cube ebenfalls bestens geeignet.  
 Er meistert die gängigsten Videocodecs und Audiocodecs mit nur minimalen Einschränkungen mühelos.  
+Es sollte auf Wi-Fi ausgewichen werden, da dies wesentlich schneller ist, da der Ethernet-Port nur maximal 100 Mbit/s unterstützt.  
 Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, da der Stick zu reduzierten Preisen erhältlich sein könnte.
 
 ===
