@@ -358,9 +358,11 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 👍 
 
+***Vorrab:***  
 Aufgrund einiger Einschränkungen kann ich den Apple TV 4K für diejenigen, die audiophile Anforderungen haben, nur bedingt empfehlen.  
 Für diejenigen, die keinen besonderen Wert darauf legen oder ein normales Audio-Setup besitzen, ist er jedoch definitiv eine Option!  
 
+***Doch nun zum eigentlichen Thema...***  
 Wenn du Plex auf dem Apple TV 4K nutzen möchtest, gibt es einige Aspekte zu beachten.  
 Es ist ratsam, die App "Infuse" anstelle der originalen "Plex" App zu verwenden.  
 
