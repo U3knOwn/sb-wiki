@@ -377,3 +377,5 @@ Dies kann problematisch sein, wenn du hochwertige Audioformate wie Dolby Atmos o
 Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verloren gehen.  
 
 ===
+
+---
