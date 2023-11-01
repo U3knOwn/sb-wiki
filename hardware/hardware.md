@@ -42,6 +42,7 @@ description: Liste der empfohlenen Hardware
 - Bluetooth 5.0 + LE
 - IR-Empfänger
 - CEC
+- S/PDIF (Output)
 - LED am Gehäuse
 - 1x USB 3.0-Anschluss (Typ A)
 - 1x USB 2.0-Anschluss (Typ A)
@@ -139,10 +140,10 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 - Bluetooth 5.0 + LE
 - CEC
 - LED am Gehäuse
+- S/PDIF (Output)
 - AV-Ausgang
 - 1x USB 3.0-Anschluss (Typ A)
 - 1x USB 2.0-Anschluss (Typ A)
-- 1x USB-C
 
 ---
 
