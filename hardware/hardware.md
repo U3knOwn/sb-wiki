@@ -79,7 +79,7 @@ description: Hier werden Empfohlene Hardware aufgelistet
 | DTS                         | ✅                                                  |
 | DTS-X                       | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
 | DTS-HD                      | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
-| Multi-PCM 7.1               | ✅                                                  |
+| Multi-PCM 5.1 & 7.1         | ✅                                                  |
 
 ---
 
@@ -173,7 +173,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 | DTS                         | ✅                   |
 | DTS-X                       | ✅                   |
 | DTS-HD                      | ✅                   |
-| Multi-PCM 7.1               | ✅                   |
+| Multi-PCM 5.1 & 7.1         | ✅                   |
 
 ---
 
@@ -213,7 +213,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 **Betriebssystem:**  
 - Android 11.0  
-- Fire OS 8
+- Fire OS
 
 **Konnektivität:**
 - HDMI 2.1 mit HDCP 2.2
@@ -261,7 +261,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 | DTS                         | ✅                    |
 | DTS-X                       | ⚠️ (Nur als DTS Core) |
 | DTS-HD                      | ⚠️ (Nur als DTS Core) |
-| Multi-PCM 7.1               | ✅                    |
+| Multi-PCM 5.1 & 7.1         | ✅                    |
 
 ---
 
@@ -285,6 +285,82 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 <h3>Spezifikationen:</h3>
 
-`Prozessor:` Apple A15 Bionic-chip
+**Prozessor:**  
+- Apple A15 Bionic Chip
+- 2x 3.24GHz & 4x 2.02GHz  
+
+**GPU:**  
+- Apple A15 - 5 GPU Cores
+- 1.34 GHz  
+
+**RAM:**  
+- 4 GB  
+
+**Speicher:**  
+- 128 GB  
+
+**Betriebssystem:**  
+- tvOS    
+
+**Konnektivität:**
+- HDMI 2.1 mit HDCP 2.2
+- Dual-Band Wi-Fi 6 (802.11a/b/g/n/ac/ax)
+- Bluetooth 5.0 + BLE
+- IR-Empfänger
+- CEC
+
+---
+
+<h3>Video-Codecs:</h3>
+
+| Codecs       | Unterstützung |
+| ------------ | ------------- |
+| H.264 (x264) | ✅            |
+| H.265 (x265) | ✅            |
+| MPEG-1/2     | ✅            |
+| MPEG-4       | ✅            |
+| VP8          | ✅            |
+| VP9          | ✅            |
+| VP9.2        | ✅            |
+| AV1          | 🚫            |
+
+
+<h3>HDR-Codecs:</h3>
+
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | ✅            |
+| HLG             | ✅            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | 🚫            |
+| Dolby Vision P8 | ✅            |
+
+
+<h3>Audio-Codecs:</h3> 
+
+| Codecs                      | Unterstützung                                          |
+| --------------------------- | ------------------------------------------------------ |
+| Dolby Digital (AC3)         | ⚠️ (Multi PCM 5.1 / Kein Passthrough)                  |
+| Dolby Digital Plus (EAC3)   | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
+| Dolby TrueHD & TrueHD Atmos | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
+| Dolby Atmos                 | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
+| Dolby Atmos (DD+)           | ✅ (Streaming Atmos)                                   |
+| DTS                         | ⚠️ (Multi PCM 5.1 / Kein Passthrough)                  |
+| DTS-X                       | ⚠️ (Multi PCM 7.1 (keine 3D-Metadaten und Passthrough) |
+| DTS-HD                      | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
+| Multi-PCM 5.1 & 7.1         | ✅                                                     |
+
+---
+
+**Empfehlung für Plex Streaming?:**  
+
+**Ja 🥳**  
+
+Der brandneue Amazon Fire TV Stick 4K Max eignet sich hervorragend für das Streamen mit Plex.  
+Für herkömmliche Streamingdienste und Kodi ist der Amazon Fire TV Stick 4K Max ebenfalls bestens geeignet.  
+Er meistert die gängigsten Videocodecs und Audiocodecs mit nur minimalen Einschränkungen mühelos.  
+Wenn du nach einem Gerät suchst, bei dem das Preis-Leistungs-Verhältnis im Vordergrund steht, kannst du bedenkenlos zugreifen.  
+Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, da der Stick zu reduzierten Preisen erhältlich sein könnte.
 
 ===
