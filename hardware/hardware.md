@@ -1,7 +1,7 @@
 ---
 label: Hardware
 order: -1
-description: Hier werden Empfohlene Hardware aufgelistet
+description: Liste der empfohlenen Hardware
 ---
 
 # Hardware
