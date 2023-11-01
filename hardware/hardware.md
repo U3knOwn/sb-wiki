@@ -26,7 +26,60 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 <h3>Spezifikationen:</h3>
 
-`Prozessor:` Nvidia Tegra X1+
+**Prozessor**: Nvidia Tegra X1+  
+**Speicher**: 3 GB RAM / 16 GB interner Speicher  
+**Betriebssystem**: Android TV 11.0  
+
+<h3>Konnektivität:</h3>
+
+- HDMI 2.0b with HDCP 2.2 (4Kp60, HDR) 
+- Gigabit-Ethernet.
+- Dual-Band Wi-Fi (802.11a/b/g/n/ac).
+- Bluetooth 4.1/BLE.
+- Zwei USB 3.0-Anschlüsse.
+
+<h3>Video-Codecs:</h3>
+
+| Codecs       | Unterstützung           |
+| ------------ | ----------------------- |
+| H.264 (x264) | ✅                      |
+| H.265 (x265) | ✅                      |
+| MPEG-1/2     | ✅                      |
+| MPEG-4       | ✅                      |
+| VP8          | ✅                      |
+| VP9          | ✅                      |
+| VP9.2        | 🚫 (Für HDR in YouTube) |
+| AV1          | ✅                      |
+
+<h3>HDR-Codecs:</h3>
+
+| Codecs          | Unterstützung                      |
+| --------------- | ---------------------------------- |
+| HDR10           | ✅                                 |
+| HDR10+          | 🚫                                 |
+| Dolby Vision P5 | ✅                                 |
+| Dolby Vision P7 | ⚠️ (Nur mit speziellem Kodi-Build) |
+| Dolby Vision P8 | ✅                                 |
+
+<h3>Audio-Codecs:</h3> 
+
+| Codecs                  | Unterstützung                      |
+| ----------------------- | ---------------------------------- |
+| Dolby Digital           | ✅                                 |
+| Dolby Digital Plus      | ✅                                 |
+| Dolby TrueHD            | ✅                                 |
+| Dolby TrueHD (Atmos)    | ✅                                 |
+| Dolby Atmos             | ✅                                 |
+| Dolby Atmos (Streaming) | ✅                                 |
+| DTS                     | ✅                                 |
+| DTS-X                   | ✅                                 |
+| DTS-HD                  | ✅                                 |
+| Multi-PCM 7.1           | ✅                                 |
+
+**Empfohlen für Plex?:**  
+Ja, Nvidia Shield eignet sich sehr gut zum Streamen für Plex.  
+Bei einigen Videocodecs muss man Abstriche machen, aber das ist für Plex weniger relevant, da diese Videocodecs kaum bis gar nicht verwendet werden.  
+In puncto Sound ist die Nvidia Shield wirklich gut aufgestellt und bringt trotz älterer Technik alle Audio-Codecs mit, die man braucht.
 
 ===
 
