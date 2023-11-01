@@ -63,14 +63,14 @@ description: Hier werden Empfohlene Hardware aufgelistet
 
 <h3>HDR-Codecs:</h3>
 
-| Codecs          | Unterstützung                                         |
-| --------------- | ----------------------------------------------------- |
-| HDR10           | ✅                                                    |
-| HDR10+          | ✅                                                    |
-| HLG             | ✅                                                    |
-| Dolby Vision P5 | ✅                                                    |
-| Dolby Vision P7 | ✅ (Dune HD Mediacenter, CoreELEC oder Kodi 21 Beta1+ |
-| Dolby Vision P8 | ✅                                                    |
+| Codecs          | Unterstützung                                          |
+| --------------- | ------------------------------------------------------ |
+| HDR10           | ✅                                                     |
+| HDR10+          | ✅                                                     |
+| HLG             | ✅                                                     |
+| Dolby Vision P5 | ✅                                                     |
+| Dolby Vision P7 | ✅ (Dune HD Mediacenter, CoreELEC oder Kodi 21 Beta1+) |
+| Dolby Vision P8 | ✅                                                     |
 
 <h3>Audio-Codecs:</h3> 
 
