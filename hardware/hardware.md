@@ -42,6 +42,7 @@ description: Hier werden Empfohlene Hardware aufgelistet
 - Bluetooth 5.0 + LE
 - IR-Empfänger
 - CEC
+- LED am Gehäuse
 - 1x USB 3.0-Anschluss (Typ A)
 - 1x USB 2.0-Anschluss (Typ A)
 
@@ -137,6 +138,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 - Dual-Band Wi-Fi 5 (802.11a/b/g/n/ac)
 - Bluetooth 5.0 + LE
 - CEC
+- LED am Gehäuse
 - 2x USB 3.0-Anschluss (Typ A)
 
 ---
@@ -225,7 +227,6 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 - Tri-Band Wi-Fi 6E (802.11a/b/g/n/ac/ax)
 - Bluetooth 5.2 + BLE
 - CEC
-- 11W Lautsprecher integriert
 
 ---
 
@@ -314,6 +315,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 - Tri-Band Wi-Fi 6E (802.11a/b/g/n/ac/ax)
 - Bluetooth 5.0 + BLE
 - CEC
+- 11W Lautsprecher integriert
+- LED am Gehäuse
 
 ---
 
