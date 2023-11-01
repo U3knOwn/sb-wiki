@@ -26,17 +26,20 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 <h3>Spezifikationen:</h3>
 
-**Prozessor**: Nvidia Tegra X1+  
-**Speicher**: 3 GB RAM / 16 GB interner Speicher  
-**Betriebssystem**: Android TV 11.0  
+**Prozessor:** Nvidia Tegra X1+ @ 4x 1.9GHz &4 x 1.3GHz  
+**GPU:** 256 CUDA Cores @ 1267 MHz  
+**RAM:** 3 GB RAM  
+**Speicher:** 16 GB interner Speicher  
+**Betriebssystem:** Android TV 11.0  
 
 <h3>Konnektivität:</h3>
 
-- HDMI 2.0b mit HDCP 2.2 (4Kp60, HDR) 
-- Gigabit-Ethernet.
-- Dual-Band Wi-Fi (802.11a/b/g/n/ac).
-- Bluetooth 4.1/BLE.
-- Zwei USB 3.0-Anschlüsse.
+- HDMI 2.0b mit HDCP 2.2
+- Gigabit-Ethernet
+- Dual-Band Wi-Fi 5 (802.11a/b/g/n/ac)
+- Bluetooth 5.0 + LE
+- CEC
+- Zwei USB 3.0-Anschlüsse (Typ A)
 
 <h3>Video-Codecs:</h3>
 
