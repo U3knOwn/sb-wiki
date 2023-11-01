@@ -6,6 +6,8 @@ description: Hier werden Empfohlene Hardware aufgelistet
 
 # Empfohlene Hardware
 
+<h2>Alle Angaben sind ohne Gewähr!</h2>
+
 ==- Dune HD Homatics Box R 4K Plus
 
 <img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/df0b7e9a-fdc8-402e-a055-e9b464a8fc61' width='500'>
