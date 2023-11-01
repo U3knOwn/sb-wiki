@@ -85,7 +85,7 @@ description: Hier werden Empfohlene Hardware aufgelistet
 
 **Empfehlung für Plex Streaming?:**  
 
-**Ja 🥳**  
+👍  
 
 Die Dune HD Homatics Box R 4K Plus ist eine hervorragende Wahl für das Streaming mit Plex.  
 Sie eignet sich auch bestens für herkömmliche Streaminganbieter, CoreELEC und Kodi.  
@@ -179,7 +179,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 **Empfehlung für Plex Streaming?:**  
 
-**Ja 🥳**  
+👍  
 
 Die Nvidia Shield Pro eignet sich sehr gut zum Streamen für Plex.  
 Auch für normale Streaminganbieter oder für Kodi ist die Nvidia Shield bestens geeignet.  
@@ -267,7 +267,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 **Empfehlung für Plex Streaming?:**  
 
-**Ja 🥳**  
+👍  
 
 Der brandneue Amazon Fire TV Stick 4K Max eignet sich hervorragend für das Streamen mit Plex.  
 Für herkömmliche Streamingdienste und Kodi ist der Amazon Fire TV Stick 4K Max ebenfalls bestens geeignet.  
@@ -355,12 +355,19 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 **Empfehlung für Plex Streaming?:**  
 
-**Ja 🥳**  
+👍👎 
 
-Der brandneue Amazon Fire TV Stick 4K Max eignet sich hervorragend für das Streamen mit Plex.  
-Für herkömmliche Streamingdienste und Kodi ist der Amazon Fire TV Stick 4K Max ebenfalls bestens geeignet.  
-Er meistert die gängigsten Videocodecs und Audiocodecs mit nur minimalen Einschränkungen mühelos.  
-Wenn du nach einem Gerät suchst, bei dem das Preis-Leistungs-Verhältnis im Vordergrund steht, kannst du bedenkenlos zugreifen.  
-Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, da der Stick zu reduzierten Preisen erhältlich sein könnte.
+Wenn du Plex auf dem Apple TV 4K nutzen möchtest, gibt es einige Aspekte zu beachten.  
+Es ist ratsam, die App "Infuse" anstelle der originalen "Plex" App zu verwenden.  
+
+Der Apple TV 4K unterstützt viele wichtige Video-Codecs, jedoch fehlt die Unterstützung für AV1.  
+Das sollte für die meisten Inhalte kein großes Problem darstellen, da AV1 nicht weit verbreitet ist.  
+
+Ein weiterer wichtiger Punkt betrifft die Tonausgabe. Der Apple TV 4K gibt den Ton in der Regel als Multi-PCM aus.  
+PCM ist verlustfrei und bietet eine hervorragende Audioqualität. Allerdings fehlt hier ein Passthrough-Modus, der es ermöglichen würde, das ursprüngliche Audioformat des Inhalts beizubehalten.  
+Dies kann problematisch sein, wenn du hochwertige Audioformate wie Dolby Atmos oder DTS:X nutzen möchtest, da diese in PCM umgewandelt werden.  
+Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verloren gehen.  
+Aufgrund dieser Einschränkungen, kann ich den Apple TV 4K nur bedingt empfehlen.  
+Für die jenigen die keinen Wert darauf legen, können auf jeden fall zugreifen!
 
 ===
