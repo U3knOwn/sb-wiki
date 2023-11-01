@@ -36,6 +36,7 @@ description: Hier werden Empfohlene Hardware aufgelistet
 - Gigabit-Ethernet
 - Dual-Band Wi-Fi 6 (802.11a/b/g/n/ac/ax)
 - Bluetooth 5.0 + LE
+- IR-Empfänger
 - CEC
 - 1x USB 3.0-Anschluss (Typ A)
 - 1x USB 2.0-Anschluss (Typ A)
