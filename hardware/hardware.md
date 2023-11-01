@@ -107,6 +107,104 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ===
 
+==- Nokia Streaming Box 8010
+
+<img src='replace' width='500'>
+
+---
+
+<h3>Spezifikationen:</h3>
+
+**Prozessor:**  
+- Amlogic S905X4-K
+- 4x 2.0GHz  
+
+**GPU:**  
+- Mali-G31 MP2
+- 850 MHz
+
+**RAM:**  
+- 4 GB  
+
+**Speicher:**  
+- 32 GB  
+
+**Betriebssystem:**  
+- Android TV 11.0  
+
+**Konnektivität:**
+- HDMI 2.1 mit HDCP 2.2
+- Gigabit-Ethernet
+- Dual-Band Wi-Fi 6 (802.11a/b/g/n/ac/ax)
+- Bluetooth 5.0 + LE
+- CEC
+- LED am Gehäuse
+- AV-Ausgang
+- 1x USB 3.0-Anschluss (Typ A)
+- 1x USB 2.0-Anschluss (Typ A)
+- 1x USB-C
+
+---
+
+<h3>Video-Codecs:</h3>
+
+| Codecs       | Unterstützung |
+| ------------ | ------------- |
+| H.264 (x264) | ✅            |
+| H.265 (x265) | ✅            |
+| MPEG-1/2     | ✅            |
+| MPEG-4       | ✅            |
+| VP8          | ✅            |
+| VP9          | ✅            |
+| VP9.2        | ✅            |
+| AV1          | ✅            |
+
+<h3>HDR-Codecs:</h3>
+
+| Codecs          | Unterstützung                                          |
+| --------------- | ------------------------------------------------------ |
+| HDR10           | ✅                                                     |
+| HDR10+          | ✅                                                     |
+| HLG             | ✅                                                     |
+| Dolby Vision P5 | ✅                                                     |
+| Dolby Vision P7 | ✅ (CoreELEC oder Kodi 21 Beta1+) |
+| Dolby Vision P8 | ✅                                                     |
+
+<h3>Audio-Codecs:</h3> 
+
+| Codecs                      | Unterstützung                                       |
+| --------------------------- | --------------------------------------------------- |
+| Dolby Digital (AC3)         | ✅                                                  |
+| Dolby Digital Plus (EAC3)   | ✅                                                  |
+| Dolby TrueHD & TrueHD Atmos | ✅                                                  |
+| Dolby Atmos                 | ✅                                                  |
+| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)                                |
+| DTS                         | ✅                                                  |
+| DTS-X                       | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
+| DTS-HD                      | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
+| Multi-PCM 5.1 & 7.1         | ✅                                                  |
+
+---
+
+**Empfehlung für Plex Streaming?:**  
+
+👍  
+
+Die Nokia Streaming Box 8010 ist eine hervorragende Wahl für das Streaming mit Plex.  
+Sie eignet sich auch bestens für herkömmliche Streaminganbieter, CoreELEC und Kodi.  
+Unter Android ist zu beachten, dass DTS HD und DTS X in PCM 7.1 ausgegeben werden, was natürlich verlustfrei ist.  
+Einziger Nachteil bei DTS X ist, dass die Höheninformationen verloren gehen, was die Objektqualität nur minimal beeinflusst.  
+
+Möchtest du das volle Potenzial der Nokia Streaming Box 8010 ausschöpfen, empfehle ich dir dringend, CoreELEC in Betracht zu ziehen.  
+CoreELEC ist ein Linux-basiertes Betriebssystem, auf dem Kodi läuft und über einen USB-Stick gestartet werden kann.  
+Der Vorteil von CoreELEC liegt darin, dass Kodi speziell für dieses Gerät angepasst wurde und somit reibungslos läuft.  
+
+Unter CoreELEC kann die Nokia Streaming Box 8010 ihr volles Potenzial entfalten, da sie mit allen Codecs, sei es Video- oder Audio-Codecs, umgehen kann.  
+Alles wird hier im Passthrough-Modus ausgegeben.  
+Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wert.
+
+===
+
 ==- Nvidia Shield TV Pro (2019)
 
 <img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/4daa5941-d722-4708-a41b-a3e662b879d6' width='500'>
