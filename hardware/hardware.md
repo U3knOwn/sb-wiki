@@ -344,7 +344,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | Dolby Digital (AC3)         | ⚠️ (Multi PCM 5.1 / Kein Passthrough)                  |
 | Dolby Digital Plus (EAC3)   | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
 | Dolby TrueHD & TrueHD Atmos | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
-| Dolby Atmos                 | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
+| Dolby Atmos                 | ⚠️ (Multi PCM 7.1 (keine 3D-Metadaten und Passthrough) |
 | Dolby Atmos (DD+)           | ✅ (Streaming Atmos)                                   |
 | DTS                         | ⚠️ (Multi PCM 5.1 / Kein Passthrough)                  |
 | DTS-X                       | ⚠️ (Multi PCM 7.1 (keine 3D-Metadaten und Passthrough) |
