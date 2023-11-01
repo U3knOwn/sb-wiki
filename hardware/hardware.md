@@ -12,7 +12,8 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 ---
 
-### Spezifikationen:
+<h3>Spezifikationen:</h3>
+
 `Prozessor:` Amlogic S905X4-K
 
 ===
@@ -23,7 +24,8 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 ---
 
-### Spezifikationen:
+<h3>Spezifikationen:</h3>
+
 `Prozessor:` Nvidia Tegra X1+
 
 ===
@@ -34,7 +36,8 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 ---
 
-### Spezifikationen:
+<h3>Spezifikationen:</h3>
+
 `Prozessor:` Mediatek MT8696T
 
 ===
@@ -45,7 +48,8 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 ---
 
-### Spezifikationen:
+<h3>Spezifikationen:</h3>
+
 `Prozessor:` Apple A15 Bionic-chip
 
 ===
