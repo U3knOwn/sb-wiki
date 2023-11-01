@@ -49,7 +49,7 @@ description: Hier sind Empfohlene Hardware aufgelistet
 | VP8          | ✅                      |
 | VP9          | ✅                      |
 | VP9.2        | 🚫 (Für HDR in YouTube) |
-| AV1          | ✅                      |
+| AV1          | 🚫                      |
 
 <h3>HDR-Codecs:</h3>
 
