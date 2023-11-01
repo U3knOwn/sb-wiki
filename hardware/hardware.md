@@ -30,7 +30,7 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 ===
 
-==- Fire TV Stick 4K Max
+==- Fire TV Stick 4K Max (2. Gen)
 
 <img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/3e5edb88-666e-4a7b-b428-28b1e854196d' width='500'>
 
@@ -42,7 +42,7 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 ===
 
-==- Apple TV 4K
+==- Apple TV 4K (3. Gen)
 
 <img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/cab37ff2-3b48-4dd2-b276-f4225a2d93ce' width='500'>
 
