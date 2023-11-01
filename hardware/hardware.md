@@ -51,6 +51,8 @@ description: Hier sind Empfohlene Hardware aufgelistet
 - CEC
 - Zwei USB 3.0-Anschlüsse (Typ A)
 
+---
+
 <h3>Video-Codecs:</h3>
 
 | Codecs       | Unterstützung           |
@@ -88,6 +90,8 @@ description: Hier sind Empfohlene Hardware aufgelistet
 | DTS-X                   | ✅            |
 | DTS-HD                  | ✅            |
 | Multi-PCM 7.1           | ✅            |
+
+---
 
 **Empfehlung für Plex Streaming?:**  
 
