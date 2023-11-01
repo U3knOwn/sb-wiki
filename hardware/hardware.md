@@ -225,6 +225,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 - Tri-Band Wi-Fi 6E (802.11a/b/g/n/ac/ax)
 - Bluetooth 5.2 + BLE
 - CEC
+- 11W Lautsprecher integriert
 
 ---
 
@@ -283,7 +284,88 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 ==- Amazon Fire TV Cube (3. Gen)
 
-***Folgt...***
+<img src='replace' width='500'>
+
+---
+
+<h3>Spezifikationen:</h3>
+
+**Prozessor:**  
+- Amlogic POP1-G
+- 4x 2.2GHz & 4x 2.0GHz  
+
+**GPU:**  
+- Mali-G52 MP8
+- 800 MHz  
+
+**RAM:**  
+- 2 GB  
+
+**Speicher:**  
+- 16 GB  
+
+**Betriebssystem:**  
+- Android 9.0  
+- Fire OS
+
+**Konnektivität:**
+- HDMI 2.1 mit HDCP 2.3
+- Ethernet 10/100 Mbit/s
+- Tri-Band Wi-Fi 6E (802.11a/b/g/n/ac/ax)
+- Bluetooth 5.0 + BLE
+- CEC
+
+---
+
+<h3>Video-Codecs:</h3>
+
+| Codecs       | Unterstützung           |
+| ------------ | ----------------------- |
+| H.264 (x264) | ✅                      |
+| H.265 (x265) | ✅                      |
+| MPEG-1/2     | ✅                      |
+| MPEG-4       | ✅                      |
+| VP8          | ✅                      |
+| VP9          | ✅                      |
+| VP9.2        | ✅                      |
+| AV1          | ✅                      |
+
+<h3>HDR-Codecs:</h3>
+
+| Codecs          | Unterstützung       |
+| --------------- | ------------------- |
+| HDR10           | ✅                  |
+| HDR10+          | ✅                  |
+| HLG             | ✅                  |
+| Dolby Vision P5 | ✅                  |
+| Dolby Vision P7 | ✅ (Kodi 21 Beta1+) |
+| Dolby Vision P8 | ✅                  |
+
+
+<h3>Audio-Codecs:</h3> 
+
+| Codecs                      | Unterstützung         |
+| --------------------------- | --------------------- |
+| Dolby Digital (AC3)         | ✅                    |
+| Dolby Digital Plus (EAC3)   | ✅                    |
+| Dolby TrueHD & TrueHD Atmos | ✅                    |
+| Dolby Atmos                 | ✅                    |
+| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)  |
+| DTS                         | ✅                    |
+| DTS-X                       | ⚠️ (Nur als DTS Core) |
+| DTS-HD                      | ⚠️ (Nur als DTS Core) |
+| Multi-PCM 5.1 & 7.1         | ✅                    |
+
+---
+
+**Empfehlung für Plex Streaming?:**  
+
+👍  
+
+Der Amazon Fire TV Cube eignet sich hervorragend für das Streamen mit Plex.  
+Für herkömmliche Streamingdienste und Kodi ist der Amazon Fire TV Cube ebenfalls bestens geeignet.  
+Er meistert die gängigsten Videocodecs und Audiocodecs mit nur minimalen Einschränkungen mühelos.  
+Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, da der Stick zu reduzierten Preisen erhältlich sein könnte.
 
 ===
 
