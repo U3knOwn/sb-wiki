@@ -26,8 +26,8 @@ description: Hier sind Empfohlene Hardware aufgelistet
 
 <h3>Spezifikationen:</h3>
 
-**Prozessor:** Nvidia Tegra X1+ @ 4x 1.9GHz &4 x 1.3GHz  
-**GPU:** 256 CUDA Cores @ 1267 MHz  
+**Prozessor:** Nvidia Tegra X1+ / 4x 1.9GHz & 4x 1.3GHz  
+**GPU:** 256 CUDA Cores / 1267 MHz  
 **RAM:** 3 GB RAM  
 **Speicher:** 16 GB interner Speicher  
 **Betriebssystem:** Android TV 11.0  
