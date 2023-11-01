@@ -304,6 +304,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 **Konnektivität:**
 - HDMI 2.1 mit HDCP 2.2
+- Gigabit-Ethernet
 - Dual-Band Wi-Fi 6 (802.11a/b/g/n/ac/ax)
 - Bluetooth 5.0 + BLE
 - IR-Empfänger
@@ -355,19 +356,20 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 **Empfehlung für Plex Streaming?:**  
 
-👍👎 
+👍 
+
+Aufgrund einiger Einschränkungen kann ich den Apple TV 4K für diejenigen, die audiophile Anforderungen haben, nur bedingt empfehlen.  
+Für diejenigen, die keinen besonderen Wert darauf legen oder ein normales Audio-Setup besitzen, ist er jedoch definitiv eine Option!  
 
 Wenn du Plex auf dem Apple TV 4K nutzen möchtest, gibt es einige Aspekte zu beachten.  
 Es ist ratsam, die App "Infuse" anstelle der originalen "Plex" App zu verwenden.  
 
 Der Apple TV 4K unterstützt viele wichtige Video-Codecs, jedoch fehlt die Unterstützung für AV1.  
-Das sollte für die meisten Inhalte kein großes Problem darstellen, da AV1 nicht weit verbreitet ist.  
+Das sollte für die meisten Inhalte kein großes Problem darstellen, da AV1 nicht weit verbreitet ist und in Plex keine Verwendung findet.  
 
 Ein weiterer wichtiger Punkt betrifft die Tonausgabe. Der Apple TV 4K gibt den Ton in der Regel als Multi-PCM aus.  
 PCM ist verlustfrei und bietet eine hervorragende Audioqualität. Allerdings fehlt hier ein Passthrough-Modus, der es ermöglichen würde, das ursprüngliche Audioformat des Inhalts beizubehalten.  
 Dies kann problematisch sein, wenn du hochwertige Audioformate wie Dolby Atmos oder DTS:X nutzen möchtest, da diese in PCM umgewandelt werden.  
 Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verloren gehen.  
-Aufgrund dieser Einschränkungen, kann ich den Apple TV 4K nur bedingt empfehlen.  
-Für die jenigen die keinen Wert darauf legen, können auf jeden fall zugreifen!
 
 ===
