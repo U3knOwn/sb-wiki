@@ -110,7 +110,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ==- Nokia Streaming Box 8010
 
-<img src='replace' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/20e9203e-66c2-4449-8569-78a98f00104d' width='500'>
 
 ---
 
