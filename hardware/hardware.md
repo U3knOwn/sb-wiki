@@ -384,7 +384,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 ==- Amazon Fire TV Cube (3. Gen)
 
-<img src='replace' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/97752924-8d5e-42bf-af11-62b859613c46' width='500'>
 
 ---
 
