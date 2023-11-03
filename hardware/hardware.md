@@ -653,14 +653,17 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 **Empfehlung für Plex Streaming?:**  
 
-👎 
+👎  
 
-Der Roku Streaming Stick 4K eignet sich nicht für Plex-Streaming, höchstens für 1080p-Inhalte.  
-Für herkömmliche Streaming-Dienste ist es jedoch geeignet, und dafür ist es sicherlich auch gedacht.  
-Leider unterstützt der Stick nicht die gängigsten Video- und Audiocodecs, die für das Streaming in 4K auf Plex notwendig sind.  
+Der Roku Streaming Stick 4K ist nicht für Plex-Streaming geeignet, höchstens für 1080p-Inhalte.  
+Er eignet sich jedoch für herkömmliche Streaming-Dienste, und dafür ist er sicherlich auch gedacht.  
+Leider unterstützt der Stick nicht die gängigsten Video- und Audiocodecs, die für 4K-Streaming auf Plex notwendig sind.  
+Auch bei den Audiocodecs schneidet der Stick sehr schlecht ab.  
 
 Mein Fazit:  
-Lieber ein paar Euro mehr in die Hand nehmen und zum Amazon Fire TV Stick 4K Max greifen.
+Das meiste wird auf Plex transcodiert, was nicht so toll ist.  
+Die Bild- und Tonqualität leidet darunter.  
+Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon Fire TV Stick 4K Max greifen.
 
 ===
 
