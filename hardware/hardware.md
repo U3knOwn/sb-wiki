@@ -660,7 +660,7 @@ Er eignet sich jedoch für herkömmliche Streaming-Dienste, und dafür ist er si
 Leider unterstützt der Stick nicht die gängigsten Video- und Audiocodecs, die für 4K-Streaming auf Plex notwendig sind.  
 Auch bei den Audiocodecs schneidet der Stick sehr schlecht ab.  
 
-Mein Fazit:  
+***Mein Fazit:***   
 Das meiste wird auf Plex transcodiert, was nicht so toll ist.  
 Die Bild- und Tonqualität leidet darunter.  
 Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon Fire TV Stick 4K Max greifen.
