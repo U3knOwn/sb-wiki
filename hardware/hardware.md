@@ -579,7 +579,7 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 ==- Roku Streaming Stick 4K
 
-<img src='replace' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/296ad9a8-5dcc-4f48-8bf0-efd473135b57' width='500'>
 
 ---
 
