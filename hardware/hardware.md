@@ -577,4 +577,91 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 ===
 
+==- Roku Streaming Stick 4K
+
+<img src='replace' width='500'>
+
+---
+
+<h3>Spezifikationen:</h3>
+
+**Prozessor:**  
+- ARM Cortex A55
+- 4 x 1.5GHz GHz
+
+**GPU:**  
+- Unbekannt
+
+**RAM:**  
+- 1 GB  
+
+**Speicher:**  
+- Kein (nur für Systemnutzung)
+
+**Betriebssystem:**  
+- Roku OS
+
+**Konnektivität:**
+- HDMI 2.0b mit HDCP 2.2
+- Dual-Band Wi-Fi 5 (802.11a/b/g/n/ac)
+- Mini USB (Wird für Strom und WiFi-Verstärker verwendet)
+- CEC
+
+---
+
+<h3>Video-Codecs:</h3>
+
+| Codecs       | Unterstützung  |
+| ------------ | -------------- |
+| H.264 (x264) | ✅             |
+| H.265 (x265) | ✅             |
+| MPEG-1/2     | ✅             |
+| MPEG-4       | ✅             |
+| VP8          | ✅             |
+| VP9          | ✅             |
+| VP9.2        | 🚫             |
+| AV1          | 🚫 (DASH only) |
+
+
+<h3>HDR-Codecs:</h3>
+
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | ✅            |
+| HLG             | ✅            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | 🚫            |
+| Dolby Vision P8 | 🚫            |
+
+
+<h3>Audio-Codecs:</h3> 
+
+| Codecs                      | Unterstützung        |
+| --------------------------- | -------------------- |
+| Dolby Digital (AC3)         | ✅                   |
+| Dolby Digital Plus (EAC3)   | ✅                   |
+| Dolby TrueHD & TrueHD Atmos | 🚫                   |
+| Dolby Atmos                 | 🚫                   |
+| Dolby Atmos (DD+)           | ✅ (Streaming Atmos) |
+| DTS                         | ✅                   |
+| DTS-X                       | 🚫                   |
+| DTS-HD                      | 🚫                   |
+| Multi-PCM 5.1 & 7.1         | ✅                   |
+
+---
+
+**Empfehlung für Plex Streaming?:**  
+
+👎 
+
+Der Roku Streaming Stick 4K eignet sich nicht für Plex-Streaming, höchstens für 1080p-Inhalte.  
+Für herkömmliche Streaming-Dienste ist es jedoch geeignet, und dafür ist es sicherlich auch gedacht.  
+Leider unterstützt der Stick nicht die gängigsten Video- und Audiocodecs, die für das Streaming in 4K auf Plex notwendig sind.  
+
+Mein Fazit:  
+Lieber ein paar Euro mehr in die Hand nehmen und zum Amazon Fire TV Stick 4K Max greifen.
+
+===
+
 ---
