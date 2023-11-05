@@ -20,11 +20,10 @@ icon: flame
 
 1. USB-Stick an den PC anschließen. 
 2. Starte das Flashtool `balenaEtcher`. 
-3. `Flash from file` drücken und die CoreELEC-Imagedatei auswählen.  
-    3.1. (z.B: CoreELEC-Amlogic-ne.aarch64-21.0-Omega_nightly_20231031-Generic.img.gz).
+3. `Flash from file` drücken und die CoreELEC-Imagedatei auswählen (z.B: CoreELEC-Amlogic-ne.aarch64-21.0-Omega_nightly_20231031-Generic.img.gz).
 4. Drücke `Select target` und wähle den USB-Stick aus.
 5. Drücke nun auf `Flash!`.
-    5.1. balenaEtcher führt automatisch einen Validierungsprozess mit einem `grünen Balken` durch.
+6. balenaEtcher führt automatisch einen Validierungsprozess mit einem `grünen Balken` durch.
 7. Der USB-Stick ist nun geflasht.
 8. Öffne die `COREELEC` Partition mit dem Windows Explorer.
 9. Kopiere die `remote.conf` in das Hauptverzeichnis.
