@@ -48,7 +48,7 @@ icon: flame
 
 1. Ihr müsst in das Neustart-Menü gehen.
 2. Nun drückt auf `Reboot to EMMC`.
-3. Nach ein paar Sekunden startet die Box mit dem Android TV System.
+3. Nach ein paar Sekunden startet die Box in das Android TV System.
 
 ===
 
