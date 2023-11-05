@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/sb-wiki">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752518593040">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752522960471">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -12,7 +12,7 @@
     <!-- Primary Meta Tags -->
     <title>CoreELEC f&#252;r die Dune HD Homatics R 4K Plus</title>
     <meta name="title" content="CoreELEC für die Dune HD Homatics R 4K Plus">
-    <meta name="description" content="...">
+    <meta name="description" content="Dies ist eine Anleitung für die Installation von Coreelec auf der Dune HD Homatics R 4K Plus.">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://u3known.github.io/sb-wiki/hardware/coreelec-dune-hd/">
@@ -21,22 +21,22 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://u3known.github.io/sb-wiki/hardware/coreelec-dune-hd/">
     <meta property="og:title" content="CoreELEC für die Dune HD Homatics R 4K Plus">
-    <meta property="og:description" content="...">
+    <meta property="og:description" content="Dies ist eine Anleitung für die Installation von Coreelec auf der Dune HD Homatics R 4K Plus.">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://u3known.github.io/sb-wiki/hardware/coreelec-dune-hd/">
     <meta property="twitter:title" content="CoreELEC für die Dune HD Homatics R 4K Plus">
-    <meta property="twitter:description" content="...">
+    <meta property="twitter:description" content="Dies ist eine Anleitung für die Installation von Coreelec auf der Dune HD Homatics R 4K Plus.">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.752518593040" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.752522960471" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.752518593040" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.752522960471" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.752518593040" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.752522960471" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -161,7 +161,108 @@
         <span>CoreELEC für die Dune HD Homatics R 4K Plus</span>
     </h1>
 </doc-anchor-target>
-<p>...</p>
+<p><em><strong>Dies ist eine Anleitung für die Installation von Coreelec auf der Dune HD Homatics R 4K Plus.</strong></em></p>
+<h3>Was wird benötigt</h3>
+<ul>
+<li>Android TV v5310 oder höher für funktionierendes Dolby Vision</li>
+<li>Dolby Vision muss in den Android-Einstellungen aktiviert sein.</li>
+<li>PC (Windows)</li>
+<li>USB 3.0 Stick (min. 16GB)</li>
+<li><a href="https://etcher.balena.io/#download-etcher">balenaEtcher - Portable</a></li>
+<li><a href="https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21">CoreELEC 21.0 - Generic Build</a></li>
+</ul>
+<h3>USB-Stick für CoreELEC vorbereiten</h3>
+<ol>
+<li>USB-Stick an den PC anschließen.</li>
+<li>Starte das Flashtool <code v-pre>balenaEtcher</code>.</li>
+<li><code v-pre>Flash from file</code> drücken und die CoreELEC-Imagedatei auswählen.<br />
+3.1. (z.B: CoreELEC-Amlogic-ne.aarch64-21.0-Omega_nightly_20231031-Generic.img.gz).</li>
+<li>Drücke <code v-pre>Select target</code> und wähle den USB-Stick aus.</li>
+<li>Drücke nun auf <code v-pre>Flash!</code>.
+5.1. balenaEtcher führt automatisch einen Validierungsprozess mit einem <code v-pre>grünen Balken</code> durch.</li>
+<li>Der USB-Stick ist nun geflasht.</li>
+<li>Öffne die <code v-pre>COREELEC</code> Partition mit dem Windows Explorer.</li>
+<li>Kopiere die <code v-pre>remote.conf</code> in das Hauptverzeichnis.</li>
+<li>Gehe nun in den Ordner <code v-pre>device_trees</code>.</li>
+<li>Kopiere die Datei <code v-pre>sc2_s905x4_sei_smb_280.dtb</code> in das Hauptverzeichnis.</li>
+<li>Im Hauptverzeichnis benennen wir die Datei <code v-pre>sc2_s905x4_sei_smb_280.dtb</code> in <code v-pre>dtb.img</code> um.</li>
+<li>Kontrolle: Die Dateien <code v-pre>dtb.img</code> und <code v-pre>remote.conf</code> sollten sich im Hauptverzeichnis befinden.</li>
+<li>Jetzt entfernen wir den USB-Stick vom Computer.</li>
+</ol>
+<h3>CoreELEC starten</h3>
+<ol>
+<li>Nun stecken wir den fertigen USB-Stick in den <code v-pre>USB 2.0</code> Slot der Dune HD Homatics R 4K Plus.</li>
+<li>Jetzt starten wir CoreELEC, indem wir die <code v-pre>Ein/Aus Taste</code> der Fernbedienung lange gedrückt halten.</li>
+<li>Jetzt klicken wir auf <code v-pre>Neustart</code>.</li>
+<li>Nun startet <code v-pre>CoreELEC</code> und beginnt mit der automatischen Installation.</li>
+<li>Wenn die Installation beendet ist, muss man durch den Einrichtungsprozess gehen.</li>
+</ol>
+<h3>Hilfestellungen</h3>
+<doc-panel id="wie-komme-ich-von-coreelec-zu-android-tv" collapsed>
+    <template #title>Wie komme ich von CoreELEC zu Android TV?</template>
+<ol>
+<li>Ihr müsst in das Neustart-Menü gehen.</li>
+<li>Nun drückt auf <code v-pre>Reboot to EMMC</code>.</li>
+<li>Nach ein paar Sekunden startet die Box mit dem Android TV System.</li>
+</ol>
+</doc-panel>
+<doc-panel id="wie-komme-ich-von-android-tv-zu-coreelec" collapsed>
+    <template #title>Wie komme ich von Android TV zu CoreELEC?</template>
+<ol>
+<li>Die <code v-pre>Ein/Aus Taste</code> der Fernbedienung länger gedrückt halten.</li>
+<li>Jetzt klicken wir auf <code v-pre>Neustart</code>.</li>
+<li>Nach ein paar Sekunden startet die Box neu im CoreELEC System.</li>
+</ol>
+</doc-panel>
+<doc-panel id="warum-wird-reboot-to-emmc-nicht-angezeigt" collapsed>
+    <template #title>Warum wird <code v-pre>Reboot to EMMC</code> nicht angezeigt?</template>
+<p>Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.
+Das kann man aber beheben indem man dieses <code v-pre>Addon</code> installiert.</p>
+<p>Einfach das <code v-pre>Addon</code> jedesmal ausführen wenn ihr das Android TV Betriebssystem starten wollt.</p>
+</doc-panel>
+<doc-panel id="warum-funktioniert-dolby-vision-nicht" collapsed>
+    <template #title>Warum funktioniert Dolby Vision nicht?</template>
+<p><strong>Android TV muss v5310 oder höher sein für ein funktionierendes Dolby Vision.</strong>
+<strong>Dolby Vision muss in den Android Einstellungen aktiviert sein.</strong></p>
+<ol>
+<li>In CoreELEC gehen wir auf Einstellungen -&gt; System -&gt; Display</li>
+<li>Wir ändern nun folgendes:</li>
+</ol>
+<ul>
+<li>Display Farbtiefe erzwingen: <code v-pre>12 bits</code>.</li>
+<li>Farbunterabtastung erzwingen: <code v-pre>4:2:2</code></li>
+</ul>
+<hr>
+<ol>
+<li>Wir gehen in CoreELEC auf Einstellungen -&gt; System -&gt; CoreELEC</li>
+<li>Nun ändern wir folgendes:</li>
+</ol>
+<ul>
+<li>Use Player Led: &#x27;On</li>
+</ul>
+</doc-panel>
+<doc-panel id="was-muss-ich-tun-um-alle-audio-codecs-in-passthough-abspielen-zu-können" collapsed>
+    <template #title>Was muss ich tun, um alle Audio Codecs in Passthough abspielen zu können?</template>
+<ol>
+<li>In CoreELEC gehen wir auf Settings -&gt; System -&gt; Audio Codecs</li>
+<li>Wir ändern nun folgendes:</li>
+</ol>
+<ul>
+<li>Audio-Ausgabegerät: <code v-pre>ALSA: AML-AUGESOUND, HDMI Multi Ch PCM</code></li>
+<li>Anzahl der Audiokanäle: <code v-pre>7.1</code></li>
+<li>Ausgabekonfiguration: <code v-pre>Beste Übereinstimmung</code></li>
+<li>Originallautstärke beim Downmix beibehalten: <code v-pre>Aus</code></li>
+<li>Stereo Upmix: &#x60;Aus</li>
+<li>Audiogerät aktiv halten: <code v-pre>1 Minute</code></li>
+<li>Durchschleifen erlauben: <code v-pre>Ein</code></li>
+<li>Digitales Ausgabegerät für Durchschleifen: <code v-pre>ALSA: AML-AUGESOUND, HDMI</code></li>
+<li>Dolby-Digital(AC3)-kompatibler Receiver: <code v-pre>Ein</code></li>
+<li>Dolby Digital Plus(E-AC3)-fähiger Receiver: <code v-pre>Ein</code></li>
+<li>DTS-fähiger Receiver: &#x60;Ein</li>
+<li>Dolby-TrueHD-fähiger Receiver: &#x60;Ein</li>
+<li>DTS-HD fähiger Receiver: <code v-pre>Ein</code></li>
+</ul>
+</doc-panel>
 <hr>
 
                                 
