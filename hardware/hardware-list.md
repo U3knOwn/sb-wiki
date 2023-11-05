@@ -1,5 +1,5 @@
 ---
-label: Hardware
+label: Hardwareliste
 order: -1
 description: Liste der empfohlenen Hardware
 ---
