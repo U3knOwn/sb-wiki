@@ -12,9 +12,9 @@ icon: flame
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
 - PC (Windows)
 - USB 3.0 Stick (min. 16GB)
-- [balenaEtcher - Portable](https://etcher.balena.io/#download-etcher)
-- [CoreELEC 21.0 - Generic Build](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21)
-- [remote.conf](https://raw.githubusercontent.com/U3knOwn/sb-wiki/main/dune/remote.conf)
+- [balenaEtcher - Portable](https://etcher.balena.io/#download-etcher) - (Download)
+- [CoreELEC 21.0 - Generic Build](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21) - (Download)
+- [remote.conf](https://raw.githubusercontent.com/U3knOwn/sb-wiki/main/dune/remote.conf) - (Download)
 
 <h3>USB-Stick für CoreELEC vorbereiten</h3>
 
