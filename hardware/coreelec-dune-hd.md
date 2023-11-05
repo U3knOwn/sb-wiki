@@ -36,7 +36,7 @@ icon: flame
 
 <h3>CoreELEC starten</h3>
 
-1. Nun stecken wir den fertigen USB-Stick in den `USB 2.0` Slot der Dune HD Homatics R 4K Plus.
+1. Nun stecken wir den fertigen USB-Stick in den `USB 3.0` Slot der Dune HD Homatics R 4K Plus.
 2. Jetzt starten wir CoreELEC, indem wir die `Ein/Aus Taste` der Fernbedienung lange gedrückt halten.
 3. Jetzt klicken wir auf `Neustart`.
 4. Nun startet `CoreELEC` und beginnt mit der automatischen Installation.
