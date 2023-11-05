@@ -20,7 +20,8 @@ icon: flame
 
 1. USB-Stick an den PC anschließen. 
 2. Starte das Flashtool `balenaEtcher`. 
-3. `Flash from file` drücken und die CoreELEC-Imagedatei auswählen (z.B: CoreELEC-Amlogic-ne.aarch64-21.0-Omega_nightly_20231031-Generic.img.gz).
+3. `Flash from file` drücken und die CoreELEC-Imagedatei auswählen.  
+(z.B: CoreELEC-Amlogic-ne.aarch64-21.0-Omega_nightly_20231031-Generic.img.gz).
 4. Drücke `Select target` und wähle den USB-Stick aus.
 5. Drücke nun auf `Flash!`.
 6. balenaEtcher führt automatisch einen Validierungsprozess mit einem `grünen Balken` durch.
@@ -31,7 +32,7 @@ icon: flame
 11. Kopiere die Datei `sc2_s905x4_sei_smb_280.dtb` in das Hauptverzeichnis.
 12. Im Hauptverzeichnis benennen wir die Datei `sc2_s905x4_sei_smb_280.dtb` in `dtb.img` um.
 13. Kontrolle: Die Dateien `dtb.img` und `remote.conf` sollten sich im Hauptverzeichnis befinden.
-14. Jetzt entfernen wir den USB-Stick vom Computer.
+15. Jetzt entfernen wir den USB-Stick vom Computer.
 
 <h3>CoreELEC starten</h3>
 
