@@ -6,8 +6,6 @@ icon: flame
 
 # CoreELEC für die Dune HD Homatics R 4K Plus
 
-***Dies ist eine Anleitung für die Installation von Coreelec auf der Dune HD Homatics R 4K Plus.***  
-
 <h3>Was wird benötigt</h3>
 
 - Android TV v5310 oder höher für funktionierendes Dolby Vision
@@ -105,6 +103,20 @@ Einfach das `Addon` jedesmal ausführen wenn ihr das Android TV Betriebssystem s
 - DTS-fähiger Receiver: `Ein
 - Dolby-TrueHD-fähiger Receiver: `Ein
 - DTS-HD fähiger Receiver: `Ein`
+
+===
+
+==- Welches Plex Addon soll ich am besten nutzen?
+
+Das Addon heißt `PlexMod`.  
+Der Vorteil dieses Addons ist, dass es regelmäßig aktualisiert wird.  
+Das offizielle `Plex` Addon wird nicht mehr aktualisiert und startet nicht mehr.
+
+Hier findet ihr `PlexMod`:  
+[PlexMod](https://forums.plex.tv/t/plexmod-for-kodi-18-19-20-21)
+
+Hier wird beschrieben, wie man `PlexMod` perfekt einrichtet:  
+[FAQ](https://u3known.github.io/sb-wiki/faq/)
 
 ===
 
