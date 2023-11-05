@@ -212,4 +212,22 @@ Nicht die Mediathek, sondern die Metadaten müssen neu eingelesen werden!
 
 ===
 
+==- Kann ich die Mediatheken mit Freunden oder Familie teilen?
+
+Ja, das ist möglich!
+
+**Vorraussetzung:**  
+Ihr habt eine `AppBox`.  
+
+Bei `Share` geht es nicht.
+
+1. [Plex Login](https://app.plex.tv/desktop/#!/login) öffnen.
+2. Meldet euch in Plex mit eurer `E-Mail-Adresse` und `Passwort` ein.
+3. [Plex Home](https://app.plex.tv/desktop/#!/settings/plex-home) öffnen.
+4. Auf `Plex-Benutzer einladen` klicken.
+5. Nun wird der Plex `Benutzername` oder die `E-Mail-Adresse` des Freundes oder des Familienmitglieds eingegeben.
+6. Jetzt `Bestätigen`.
+
+===
+
 ---
