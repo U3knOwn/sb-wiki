@@ -62,7 +62,7 @@ icon: flame
 
 ==- Warum wird `Reboot to EMMC` nicht angezeigt?
 
-Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.
+Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.  
 Dies beheben wir, indem wir das [Reboot to Android TV](https://github.com/U3knOwn/sb-wiki/raw/main/dune/script.reboottoandroidtv.zip) Addon installieren.
 
 Einfach das `Addon` jedesmal ausführen wenn ihr das Android TV Betriebssystem starten wollt. 
@@ -72,6 +72,7 @@ Einfach das `Addon` jedesmal ausführen wenn ihr das Android TV Betriebssystem s
 ==- Warum funktioniert Dolby Vision nicht?
 
 **Android TV muss v5310 oder höher sein für ein funktionierendes Dolby Vision.**  
+
 **Dolby Vision muss in den Android Einstellungen aktiviert sein.**
 
 1. In CoreELEC gehen wir auf Einstellungen -> System -> Display
