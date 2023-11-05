@@ -8,7 +8,7 @@ icon: flame
 
 <h3>Was wird benötigt</h3>
 
-- Android TV v5310 oder höher für funktionierendes Dolby Vision
+- Android TV `v5310 oder höher` für funktionierendes Dolby Vision
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
 - PC (Windows)
 - USB 3.0 Stick (min. 16GB)
@@ -31,7 +31,7 @@ icon: flame
 10. Gehe nun in den Ordner `device_trees`.
 11. Kopiere die Datei `sc2_s905x4_sei_smb_280.dtb` in das Hauptverzeichnis.
 12. Im Hauptverzeichnis benennen wir die Datei `sc2_s905x4_sei_smb_280.dtb` in `dtb.img` um.
-13. Kontrolle: Die Dateien `dtb.img` und `remote.conf` sollten sich im Hauptverzeichnis befinden.
+13. [!badge icon="warning" text="Kontrolle:"]Die Dateien `dtb.img` und `remote.conf` sollten sich im Hauptverzeichnis befinden.
 15. Jetzt entfernen wir den USB-Stick vom Computer.
 
 <h3>CoreELEC starten</h3>
