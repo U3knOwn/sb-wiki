@@ -117,7 +117,7 @@ Hier findet ihr `PlexMod`:
 [PlexMod](https://forums.plex.tv/t/plexmod-for-kodi-18-19-20-21)
 
 Hier wird beschrieben, wie man `PlexMod` perfekt einrichtet:  
-[FAQ](https://u3known.github.io/sb-wiki/faq/)
+[Kodi / CoreELEC Einstellungen](https://u3known.github.io/sb-wiki/appbox/plex-app-settings/)
 
 ===
 
