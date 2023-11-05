@@ -56,7 +56,7 @@ icon: flame
 
 1. Die `Ein/Aus Taste` der Fernbedienung länger gedrückt halten.
 2. Jetzt klicken wir auf `Neustart`.
-3. Nach ein paar Sekunden startet die Box neu in das CoreELEC System.
+3. Nach ein paar Sekunden startet die Box in das CoreELEC System.
 
 ===
 
