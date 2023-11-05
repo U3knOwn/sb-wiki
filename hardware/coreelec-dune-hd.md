@@ -14,6 +14,7 @@ icon: flame
 - USB 3.0 Stick (min. 16GB)
 - [balenaEtcher - Portable](https://etcher.balena.io/#download-etcher)
 - [CoreELEC 21.0 - Generic Build](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21)
+- [remote.conf](https://raw.githubusercontent.com/U3knOwn/sb-wiki/main/dune/remote.conf)
 
 <h3>USB-Stick für CoreELEC vorbereiten</h3>
 
@@ -62,7 +63,7 @@ icon: flame
 ==- Warum wird `Reboot to EMMC` nicht angezeigt?
 
 Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.
-Das kann man aber beheben indem man dieses `Addon` installiert.
+Dies beheben wir, indem wir das [Reboot to Android TV](https://github.com/U3knOwn/sb-wiki/raw/main/dune/script.reboottoandroidtv.zip) Addon installieren.
 
 Einfach das `Addon` jedesmal ausführen wenn ihr das Android TV Betriebssystem starten wollt. 
 
@@ -75,14 +76,14 @@ Einfach das `Addon` jedesmal ausführen wenn ihr das Android TV Betriebssystem s
 
 1. In CoreELEC gehen wir auf Einstellungen -> System -> Display
 2. Wir ändern nun folgendes:
-- Display Farbtiefe erzwingen: `12 bits`.
+- Display Farbtiefe erzwingen: `12 bits`
 - Farbunterabtastung erzwingen: `4:2:2`
 
 ---
 
 1. Wir gehen in CoreELEC auf Einstellungen -> System -> CoreELEC
 2. Nun ändern wir folgendes:
-- Use Player Led: 'On
+- Use Player Led: `Ein`
 
 ===
 
