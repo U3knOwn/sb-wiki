@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/sb-wiki">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752523477842">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752523779114">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.752523477842" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.752523779114" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.752523477842" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.752523779114" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.752523477842" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.752523779114" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -169,6 +169,7 @@
 <li>USB 3.0 Stick (min. 16GB)</li>
 <li><a href="https://etcher.balena.io/#download-etcher">balenaEtcher - Portable</a></li>
 <li><a href="https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21">CoreELEC 21.0 - Generic Build</a></li>
+<li><a href="https://raw.githubusercontent.com/U3knOwn/sb-wiki/main/dune/remote.conf">remote.conf</a></li>
 </ul>
 <h3>USB-Stick für CoreELEC vorbereiten</h3>
 <ol>
@@ -216,7 +217,7 @@
 <doc-panel id="warum-wird-reboot-to-emmc-nicht-angezeigt" collapsed>
     <template #title>Warum wird <code v-pre>Reboot to EMMC</code> nicht angezeigt?</template>
 <p>Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.
-Das kann man aber beheben indem man dieses <code v-pre>Addon</code> installiert.</p>
+Dies beheben wir, indem wir das <a href="https://github.com/U3knOwn/sb-wiki/raw/main/dune/script.reboottoandroidtv.zip">Reboot to Android TV</a> Addon installieren.</p>
 <p>Einfach das <code v-pre>Addon</code> jedesmal ausführen wenn ihr das Android TV Betriebssystem starten wollt.</p>
 </doc-panel>
 <doc-panel id="warum-funktioniert-dolby-vision-nicht" collapsed>
@@ -228,7 +229,7 @@ Das kann man aber beheben indem man dieses <code v-pre>Addon</code> installiert.
 <li>Wir ändern nun folgendes:</li>
 </ol>
 <ul>
-<li>Display Farbtiefe erzwingen: <code v-pre>12 bits</code>.</li>
+<li>Display Farbtiefe erzwingen: <code v-pre>12 bits</code></li>
 <li>Farbunterabtastung erzwingen: <code v-pre>4:2:2</code></li>
 </ul>
 <hr>
@@ -237,7 +238,7 @@ Das kann man aber beheben indem man dieses <code v-pre>Addon</code> installiert.
 <li>Nun ändern wir folgendes:</li>
 </ol>
 <ul>
-<li>Use Player Led: &#x27;On</li>
+<li>Use Player Led: <code v-pre>Ein</code></li>
 </ul>
 </doc-panel>
 <doc-panel id="was-muss-ich-tun-um-alle-audio-codecs-in-passthough-abspielen-zu-können" collapsed>
