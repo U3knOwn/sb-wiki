@@ -24,6 +24,7 @@ Wenn ihr dort nichts findet, dann benutzt bitte den `#Allgemein` Kanal und besch
 ===
 
 ==- Was ist denn eine AppBox?
+
 Der Betreiber verwendet einen `leistungsstarken Server`, auf dem nicht nur ein Plex Media Server, sondern mehrere Plex Media Server `virtualisiert` installiert sind.  
 Das bedeutet, dass sich auf diesem Server mehrere separate Plex Media Server befinden.  
 
@@ -47,6 +48,7 @@ Man kann die `Mediatheken` verwalten und vieles mehr...
 ===
 
 ==- Was ist denn ein Share?
+
 Der Betreiber teilt seine Inhalte mit dir.  
 Der Benutzer ist `nicht Besitzer des Servers` oder hat `Administratorrechte`.  
 Man kann keine Freunde oder Bekannte auf seinen Share einladen.  
@@ -64,6 +66,7 @@ Man kann die `Mediatheken` nicht verwalten und vieles mehr...
 ===
 
 ==- Warum bekomme ich täglich keine neuen Inhalte?
+
 Es ist wichtig, diese Schritte zu befolgen, damit täglich neue Medien auf der Startseite erscheinen.  
 
 [Claiming -> ab Punkt 7](https://u3known.github.io/sb-wiki/appbox/claiming/#verkn%C3%BCpfung-der-appbox-mit-plex)<br/>
