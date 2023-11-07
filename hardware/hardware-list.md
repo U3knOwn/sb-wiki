@@ -563,7 +563,6 @@ Für diejenigen, die keinen besonderen Wert darauf legen oder ein normales Audio
 
 ***Doch nun zum eigentlichen Thema...***  
 Wenn du Plex auf dem Apple TV 4K nutzen möchtest, gibt es einige Aspekte zu beachten.  
-Es ist ratsam, die App "Infuse" anstelle der originalen "Plex" App zu verwenden.  
 
 Der Apple TV 4K unterstützt viele wichtige Video-Codecs, jedoch fehlt die Unterstützung für AV1.  
 Das sollte für die meisten Inhalte kein großes Problem darstellen, da AV1 nicht weit verbreitet ist und in Plex keine Verwendung findet.  
