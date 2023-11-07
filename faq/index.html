@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/sb-wiki">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752645113229">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752684036840">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../favicon.ico" rel="icon">
-    <link href="../resources/css/retype.css?v=3.5.0.752645113229" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.752684036840" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.752645113229" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.752684036840" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.752645113229" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.752684036840" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -224,12 +224,21 @@ Wenn diese Einstellung nicht aktiviert ist, werden die Merklisten nicht gespeich
 </doc-panel>
 <doc-panel id="fehler-dieser-server-ist-nicht-leistungsfähig-genug-um-videos-konvertieren-zu-können" collapsed>
     <template #title>Fehler: Dieser Server ist nicht leistungsfähig genug, um Videos konvertieren zu können</template>
-<p>Es wird versucht, den ausgewählten Inhalt zu transcodieren, da eine <code v-pre>Inkompatibilität</code> mit der <code v-pre>Hardware</code> festgestellt wurde.</p>
-<p>Derzeit können nur <code v-pre>1080p-Inhalte</code> transcodiert werden.</p>
+<p>Es wird versucht, den ausgewählten Inhalt zu transkodieren, da eine <code v-pre>Inkompatibilität</code> mit der <code v-pre>Hardware</code> festgestellt wurde.</p>
+<p>Derzeit können nur <code v-pre>1080p-Inhalte</code> transkodiert werden.</p>
 <p>Bei <code v-pre>4K Inhalten</code> ist dies <code v-pre>nicht möglich</code>, da der Betreiber dies deaktiviert hat.<br />
 Der Grund dafür ist, dass der Server dafür sehr viel <code v-pre>Performance</code> benötigt.</p>
-<p>Optimal wäre es, wenn gar nicht transcodiert wird.</p>
-<p>Wenn zu viel transcodiert wird, sollte man sich nach einem neuen TV Stick/Box umsehen.</p>
+<p>Optimal wäre es, wenn gar nicht transkodiert wird.</p>
+<p>Wenn zu viel transkodiert wird, sollte man sich nach einem neuen TV Stick/Box umsehen.</p>
+</doc-panel>
+<doc-panel id="kann-ich-4k-inhalte-transkodieren" collapsed>
+    <template #title>Kann ich 4K-Inhalte Transkodieren?</template>
+<p>Nein!</p>
+<p>Derzeit können nur <code v-pre>1080p-Inhalte</code> transkodiert werden.</p>
+<p>Bei <code v-pre>4K Inhalten</code> ist dies <code v-pre>nicht möglich</code>, da der Betreiber dies deaktiviert hat.<br />
+Der Grund dafür ist, dass der Server dafür sehr viel <code v-pre>Performance</code> benötigt.</p>
+<p>Optimal wäre es, wenn gar nicht transkodiert wird.</p>
+<p>Wenn zu viel transkodiert wird, sollte man sich nach einem neuen TV Stick/Box umsehen.</p>
 </doc-panel>
 <doc-panel id="kann-ich-4k-inhalte-im-browser-abspielen" collapsed>
     <template #title>Kann ich 4K-Inhalte im Browser abspielen?</template>
