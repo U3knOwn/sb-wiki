@@ -13,8 +13,8 @@ description: Wiki für alles, was mit Plex zu tun hat und mehr!
 
 <h2>Dieses Wiki ist in mehrere Kategorien aufgeteilt:</h2>
 
-#### **🚀 Einrichtung der Plex AppBox/Share**
-Die Einrichtung der Plex AppBox/Share kann am Anfang kompliziert erscheinen, aber keine Sorge, wir haben Schritt-für-Schritt-Anleitungen und nützliche Tipps vorbereitet.  
+#### **🚀 Einrichtung der Plex AppBox / Share**
+Die Einrichtung der Plex AppBox / Share kann am Anfang kompliziert erscheinen, aber keine Sorge, wir haben Schritt-für-Schritt-Anleitungen und nützliche Tipps vorbereitet.  
 Egal, ob du ein Neuling oder ein erfahrener Nutzer bist, hier findest du alles, was du zum Einrichten der AppBox/Share und von Plex benötigst.
   
 #### **🗨️ Häufig gestellte Fragen (FAQ)**
