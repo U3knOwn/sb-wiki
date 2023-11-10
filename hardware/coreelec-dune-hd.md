@@ -72,7 +72,6 @@ Einfach das `Addon` jedesmal ausführen wenn ihr das Android TV Betriebssystem s
 ==- Warum funktioniert Dolby Vision nicht?
 
 **Android TV muss v5310 oder höher sein für ein funktionierendes Dolby Vision.**  
-
 **Dolby Vision muss in den Android Einstellungen aktiviert sein.**
 
 1. In CoreELEC gehen wir auf Einstellungen -> System -> Display
@@ -96,14 +95,14 @@ Einfach das `Addon` jedesmal ausführen wenn ihr das Android TV Betriebssystem s
 - Anzahl der Audiokanäle: `7.1`
 - Ausgabekonfiguration: `Beste Übereinstimmung`
 - Originallautstärke beim Downmix beibehalten: `Aus`
-- Stereo Upmix: `Aus
+- Stereo Upmix: `Aus`
 - Audiogerät aktiv halten: `1 Minute`
 - Durchschleifen erlauben: `Ein`
 - Digitales Ausgabegerät für Durchschleifen: `ALSA: AML-AUGESOUND, HDMI`
 - Dolby-Digital(AC3)-kompatibler Receiver: `Ein`
 - Dolby Digital Plus(E-AC3)-fähiger Receiver: `Ein`
-- DTS-fähiger Receiver: `Ein
-- Dolby-TrueHD-fähiger Receiver: `Ein
+- DTS-fähiger Receiver: `Ein`
+- Dolby-TrueHD-fähiger Receiver: `Ein`
 - DTS-HD fähiger Receiver: `Ein`
 
 ===
