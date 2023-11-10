@@ -51,6 +51,7 @@ icon: devices
 
 <h3>Video-Codecs:</h3>
 
+{.compact}
 | Codecs       | Unterstützung |
 | ------------ | ------------- |
 | H.264 (x264) | ✅            |
@@ -68,6 +69,7 @@ icon: devices
 
 <h3>HDR-Codecs:</h3>
 
+{.compact}
 | Codecs          | Unterstützung |
 | --------------- | ------------- |
 | HDR10           | ✅            |
@@ -84,6 +86,7 @@ icon: devices
 
 <h3>Audio-Codecs:</h3> 
 
+{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -162,6 +165,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 <h3>Video-Codecs:</h3>
 
+{.compact}
 | Codecs       | Unterstützung |
 | ------------ | ------------- |
 | H.264 (x264) | ✅            |
@@ -179,6 +183,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 <h3>HDR-Codecs:</h3>
 
+{.compact}
 | Codecs          | Unterstützung |
 | --------------- | ------------- |
 | HDR10           | ✅            |
@@ -195,6 +200,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 <h3>Audio-Codecs:</h3> 
 
+{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -270,6 +276,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 <h3>Video-Codecs:</h3>
 
+{.compact}
 | Codecs       | Unterstützung |
 | ------------ | ------------- |
 | H.264 (x264) | ✅            |
@@ -289,6 +296,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 <h3>HDR-Codecs:</h3>
 
+{.compact}
 | Codecs          | Unterstützung |
 | --------------- | ------------- |
 | HDR10           | ✅            |
@@ -306,6 +314,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 <h3>Audio-Codecs:</h3> 
 
+{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -371,6 +380,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 <h3>Video-Codecs:</h3>
 
+{.compact}
 | Codecs       | Unterstützung           |
 | ------------ | ----------------------- |
 | H.264 (x264) | ✅                      |
@@ -388,6 +398,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 <h3>HDR-Codecs:</h3>
 
+{.compact}
 | Codecs          | Unterstützung |
 | --------------- | ------------- |
 | HDR10           | ✅            |
@@ -404,6 +415,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 <h3>Audio-Codecs:</h3> 
 
+{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -476,6 +488,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 <h3>Video-Codecs:</h3>
 
+{.compact}
 | Codecs       | Unterstützung           |
 | ------------ | ----------------------- |
 | H.264 (x264) | ✅                      |
@@ -493,6 +506,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 <h3>HDR-Codecs:</h3>
 
+{.compact}
 | Codecs          | Unterstützung |
 | --------------- | ------------- |
 | HDR10           | ✅            |
@@ -509,6 +523,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 <h3>Audio-Codecs:</h3> 
 
+{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -575,6 +590,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 <h3>Video-Codecs:</h3>
 
+{.compact}
 | Codecs       | Unterstützung |
 | ------------ | ------------- |
 | H.264 (x264) | ✅            |
@@ -593,6 +609,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 <h3>HDR-Codecs:</h3>
 
+{.compact}
 | Codecs          | Unterstützung |
 | --------------- | ------------- |
 | HDR10           | ✅            |
@@ -609,6 +626,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 <h3>Audio-Codecs:</h3> 
 
+{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ⚠️²           |
@@ -685,6 +703,7 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 <h3>Video-Codecs:</h3>
 
+{.compact}
 | Codecs       | Unterstützung |
 | ------------ | ------------- |
 | H.264 (x264) | ✅            |
@@ -704,6 +723,7 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 <h3>HDR-Codecs:</h3>
 
+{.compact}
 | Codecs          | Unterstützung |
 | --------------- | ------------- |
 | HDR10           | ✅            |
@@ -720,6 +740,7 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 <h3>Audio-Codecs:</h3> 
 
+{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -759,8 +780,9 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 
 <h4>Video-Codecs:</h4> 
 
+{.compact}
 | Codecs       | Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
-| ------------ | ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
+| ------------ | :-----: | :--------: | :----: | :--------: | :------: | :---------: | :--: |
 | H.264 (x264) | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
 | H.265 (x265) | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
 | MPEG-1/2     | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
@@ -779,8 +801,9 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 
 <h4>HDR-Codecs:</h4> 
 
+{.compact}
 | Codecs          | Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
-| --------------- | ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
+| --------------- | :-----: | :--------: | :----: | :--------: | :------: | :---------: | :--: |
 | HDR10           | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
 | HDR10+          | ✅      | ✅        | 🚫     | ✅        | ✅       | ✅          | ✅   |
 | HLG             | ✅      | ✅        | 🚫     | ✅        | ✅       | ✅          | ✅   |
@@ -798,8 +821,9 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 
 <h4>Audio-Codecs:</h4> 
 
+{.compact}
 | Codecs                      | Dune HD   | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
-| --------------------------- | --------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
+| --------------------------- | :-------: | :--------: | :----: | :--------: | :------: | :---------: | :--: |
 | Dolby Digital (AC3)         | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️¹         | ✅   |
 | Dolby Digital Plus (EAC3)   | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️²         | ✅   |
 | Dolby TrueHD & TrueHD Atmos | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️²         | 🚫¹  |
@@ -829,7 +853,7 @@ Bitte lese hierzu auch das Fazit zu dem jeweiligen Gerät!
 
 {.compact}
 | Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
-| ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
+| :-----: | :--------: | :----: | :--------: | :------: | :---------: | :--: |
 | 👍      | 👍        | 👍     | 👍        | 👍       | 👍          | 👎   |
 
 ===
