@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/sb-wiki">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752932632809">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752932945102">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.752932632809" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.752932945102" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.752932632809" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.752932945102" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.752932632809" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.752932945102" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -632,7 +632,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 </div>
 <p><span class="docs-emoji">&#x2705;</span> = Unterstützung<br />
 <span class="docs-emoji">&#x1F6AB;</span> = Keine Unterstützung<br />
-<span class="docs-emoji">&#x1F6AB;</span>¹ = Keine Unterstützung und Kein HDR in YouTube</p>
+<span class="docs-emoji">&#x1F6AB;</span>¹ = Keine Unterstützung und kein HDR in YouTube</p>
 <h3>HDR-Codecs:</h3>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -722,7 +722,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 </tbody>
 </table>
 </div>
-<p><span class="docs-emoji">&#x2705;</span> = Unterstützung</p>
+<p><span class="docs-emoji">&#x2705;</span> = Passthrough</p>
 <hr>
 <p><strong>Empfehlung für Plex Streaming?:</strong></p>
 <p><span class="docs-emoji">&#x1F44D;</span></p>
@@ -814,6 +814,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.<
 </tbody>
 </table>
 </div>
+<p><span class="docs-emoji">&#x2705;</span> = Unterstützung</p>
 <h3>HDR-Codecs:</h3>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -842,7 +843,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.<
 </tr>
 <tr>
 <td>Dolby Vision P7</td>
-<td><span class="docs-emoji">&#x2705;</span> (Kodi 21 Beta1+)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
 </tr>
 <tr>
 <td>Dolby Vision P8</td>
@@ -851,6 +852,8 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.<
 </tbody>
 </table>
 </div>
+<p><span class="docs-emoji">&#x2705;</span> = Unterstützung<br />
+<span class="docs-emoji">&#x2705;</span>¹ = Unterstützung in Kodi 21 Beta1+</p>
 <h3>Audio-Codecs:</h3> 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -879,7 +882,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.<
 </tr>
 <tr>
 <td>Dolby Atmos (DD+ &amp; EAC3)</td>
-<td><span class="docs-emoji">&#x2705;</span> (Streaming Atmos)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
 </tr>
 <tr>
 <td>DTS</td>
@@ -887,11 +890,11 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.<
 </tr>
 <tr>
 <td>DTS-X</td>
-<td><span class="docs-emoji">&#x26A0;&#xFE0F;</span> (Nur als DTS Core)</td>
+<td><span class="docs-emoji">&#x26A0;&#xFE0F;</span></td>
 </tr>
 <tr>
 <td>DTS-HD</td>
-<td><span class="docs-emoji">&#x26A0;&#xFE0F;</span> (Nur als DTS Core)</td>
+<td><span class="docs-emoji">&#x26A0;&#xFE0F;</span></td>
 </tr>
 <tr>
 <td>Multi-PCM 5.1 &amp; 7.1</td>
@@ -900,6 +903,8 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.<
 </tbody>
 </table>
 </div>
+<p><span class="docs-emoji">&#x2705;</span> = Passthrough
+<span class="docs-emoji">&#x26A0;&#xFE0F;</span> = DTS Core (Lossy)</p>
 <hr>
 <p><strong>Empfehlung für Plex Streaming?:</strong></p>
 <p><span class="docs-emoji">&#x1F44D;</span></p>
@@ -997,6 +1002,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 </tbody>
 </table>
 </div>
+<p><span class="docs-emoji">&#x2705;</span> = Unterstützung</p>
 <h3>HDR-Codecs:</h3>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -1025,7 +1031,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 </tr>
 <tr>
 <td>Dolby Vision P7</td>
-<td><span class="docs-emoji">&#x2705;</span> (Kodi 21 Beta1+)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
 </tr>
 <tr>
 <td>Dolby Vision P8</td>
@@ -1034,6 +1040,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 </tbody>
 </table>
 </div>
+<p><span class="docs-emoji">&#x2705;</span> = Unterstützung<br />
+<span class="docs-emoji">&#x2705;</span>¹ = Unterstützung in Kodi 21 Beta1+</p>
 <h3>Audio-Codecs:</h3> 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -1062,7 +1070,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 </tr>
 <tr>
 <td>Dolby Atmos (DD+ &amp; EAC3)</td>
-<td><span class="docs-emoji">&#x2705;</span> (Streaming Atmos)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
 </tr>
 <tr>
 <td>DTS</td>
@@ -1070,11 +1078,11 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 </tr>
 <tr>
 <td>DTS-X</td>
-<td><span class="docs-emoji">&#x26A0;&#xFE0F;</span> (Nur als DTS Core)</td>
+<td><span class="docs-emoji">&#x26A0;&#xFE0F;</span></td>
 </tr>
 <tr>
 <td>DTS-HD</td>
-<td><span class="docs-emoji">&#x26A0;&#xFE0F;</span> (Nur als DTS Core)</td>
+<td><span class="docs-emoji">&#x26A0;&#xFE0F;</span></td>
 </tr>
 <tr>
 <td>Multi-PCM 5.1 &amp; 7.1</td>
@@ -1083,6 +1091,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 </tbody>
 </table>
 </div>
+<p><span class="docs-emoji">&#x2705;</span> = Passthrough
+<span class="docs-emoji">&#x26A0;&#xFE0F;</span> = DTS Core (Lossy)</p>
 <hr>
 <p><strong>Empfehlung für Plex Streaming?:</strong></p>
 <p><span class="docs-emoji">&#x1F44D;</span></p>
