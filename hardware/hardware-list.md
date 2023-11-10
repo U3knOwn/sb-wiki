@@ -88,13 +88,13 @@ icon: devices
 | Dolby Atmos                 | ✅            |
 | Dolby Atmos (DD+ & EAC3)    | ✅            |
 | DTS                         | ✅            |
-| DTS-X                       | ✅¹ ❘ ⚠️¹     |
-| DTS-HD                      | ✅¹ ❘ ⚠️¹     |
+| DTS-X                       | ✅¹ ❘ ⚠️      |
+| DTS-HD                      | ✅¹ ❘ ⚠️      |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
 ✅¹ = Passthrough in CoreELEC  
-⚠️¹ = PCM 7.1 in Android  
+⚠️ = PCM 7.1 (Verlustfrei) und keine 3D-Metadaten in Android  
 
 ---
 
@@ -195,13 +195,13 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 | Dolby Atmos                 | ✅            |
 | Dolby Atmos (DD+ & EAC3)    | ✅            |
 | DTS                         | ✅            |
-| DTS-X                       | ✅¹ ❘ ⚠️¹     |
-| DTS-HD                      | ✅¹ ❘ ⚠️¹     |
+| DTS-X                       | ✅¹ ❘ ⚠️      |
+| DTS-HD                      | ✅¹ ❘ ⚠️      |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
 ✅¹ = Passthrough in CoreELEC  
-⚠️¹ = PCM 7.1 in Android  
+⚠️ = PCM 7.1 (Verlustfrei) und keine 3D-Metadaten in Android  
 
 ---
 
@@ -402,7 +402,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
-⚠️ = Nur DTS Kern (Lossy)  
+⚠️ = Nur DTS Kern (Verlustbehaftet)    
 
 ---
 
@@ -504,7 +504,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
-⚠️ = Nur DTS Kern (Lossy)  
+⚠️ = Nur DTS Kern (Verlustbehaftet)  
 
 ---
 
@@ -600,9 +600,9 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
-⚠️¹ = PCM 7.1   
-⚠️² = PCM 5.1  
-🚫 = Keine 3D-Metadaten
+⚠️¹ = PCM 7.1 (Verlustfrei)  
+⚠️² = PCM 5.1 (Verlustfrei)  
+🚫 = Keine 3D-Metadaten  
 
 ---
 
@@ -787,12 +787,24 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 
 ✅ = Passthrough in Android  
 ✅¹ = Passthrough in CoreELEC  
-⚠️¹ = PCM 5.1  
-⚠️² = PCM 7.1  
-⚠️³ = DTS Core (Lossy)  
-⚠️⁴ = PCM 7.1 in Android  
+⚠️¹ = PCM 5.1 (Verlustfrei)  
+⚠️² = PCM 7.1 (Verlustfrei)  
+⚠️³ = DTS Core (Verlustbehaftet)  
+⚠️⁴ = PCM 7.1 (Verlustfrei) in Android  
 🚫¹ = Kein Passthrough und PCM  
-🚫² = Keine 3D-Metadaten
+🚫² = Keine 3D-Metadaten  
+
+---
+
+<h4>Plex Empfehlung:</h4> 
+
+| Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
+| ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
+| 👍      | 👍        | 👍     | 👍        | 👍       | 👍          | 👎   |
+
+!!!info Info  
+Bitte lese hierzu auch das Fazit zu dem jeweiligen Gerät!  
+!!!
 
 ===
 
