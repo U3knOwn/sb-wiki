@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/sb-wiki">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752936664161">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752936809091">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.752936664161" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.752936809091" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.752936664161" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.752936809091" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.752936664161" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.752936809091" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -200,6 +200,145 @@
 <li>Wenn die Installation beendet ist, muss man durch den Einrichtungsprozess gehen.</li>
 </ol>
 <h3>Hilfestellungen</h3>
+<doc-panel id="wie-ist-die-kompatibilität-aller-codecs" collapsed>
+    <template #title>Wie ist die Kompatibilität aller Codecs?</template>
+<h3>Video-Codecs:</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Codecs</th>
+<th>Unterstützung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>H.264 (x264)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>H.265 (x265)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>MPEG-1/2</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>MPEG-4</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>VP8</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>VP9</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>VP9.2</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>AV1</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><span class="docs-emoji">&#x2705;</span> = Unterstützung</p>
+<hr>
+<h3>HDR-Codecs:</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Codecs</th>
+<th>Unterstützung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HDR10</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>HDR10+</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>HLG</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>Dolby Vision P5</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>Dolby Vision P7</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>Dolby Vision P8</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><span class="docs-emoji">&#x2705;</span> = Unterstützung</p>
+<hr>
+<h3>Audio-Codecs:</h3> 
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Codecs</th>
+<th>Unterstützung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dolby Digital (AC3)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>Dolby Digital Plus (EAC3)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>Dolby TrueHD &amp; TrueHD Atmos</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>Dolby Atmos</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>Dolby Atmos (DD+ &amp; EAC3)</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>DTS</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>DTS-X</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>DTS-HD</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+<tr>
+<td>Multi-PCM 5.1 &amp; 7.1</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><span class="docs-emoji">&#x2705;</span> = Passthrough</p>
+</doc-panel>
 <doc-panel id="wie-komme-ich-von-coreelec-zu-android-tv" collapsed>
     <template #title>Wie komme ich von CoreELEC zu Android TV?</template>
 <ol>
