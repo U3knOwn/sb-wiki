@@ -798,13 +798,13 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 
 <h4>Plex Empfehlung:</h4> 
 
-| Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
-| ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
-| 👍      | 👍        | 👍     | 👍        | 👍       | 👍          | 👎   |
-
 !!!info Info  
 Bitte lese hierzu auch das Fazit zu dem jeweiligen Gerät!  
 !!!
+
+| Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
+| ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
+| 👍      | 👍        | 👍     | 👍        | 👍       | 👍          | 👎   |
 
 ===
 
