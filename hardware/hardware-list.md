@@ -827,6 +827,7 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 Bitte lese hierzu auch das Fazit zu dem jeweiligen Gerät!  
 !!!
 
+{.compact}
 | Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
 | ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
 | 👍      | 👍        | 👍     | 👍        | 👍       | 👍          | 👎   |
