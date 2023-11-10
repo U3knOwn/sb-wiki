@@ -16,6 +16,8 @@ icon: flame
 - [CoreELEC 21.0 - Generic Build](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21) - (Download)
 - [remote.conf](https://raw.githubusercontent.com/U3knOwn/sb-wiki/main/dune/remote.conf) - (Download)
 
+---
+
 <h3>USB-Stick für CoreELEC vorbereiten</h3>
 
 1. USB-Stick an den PC anschließen. 
@@ -34,6 +36,8 @@ icon: flame
 13. [!badge icon="warning" text="Kontrolle:"]Die Dateien `dtb.img` und `remote.conf` sollten sich im Hauptverzeichnis befinden.
 15. Jetzt entfernen wir den USB-Stick vom Computer.
 
+---
+
 <h3>CoreELEC starten</h3>
 
 1. Nun stecken wir den fertigen USB-Stick in den `USB 3.0` Slot der Dune HD Homatics R 4K Plus.
@@ -41,6 +45,8 @@ icon: flame
 3. Jetzt klicken wir auf `Neustart`.
 4. Nun startet `CoreELEC` und beginnt mit der automatischen Installation.
 5. Wenn die Installation beendet ist, muss man durch den Einrichtungsprozess gehen.
+
+---
 
 <h3>Hilfestellungen</h3>
 
