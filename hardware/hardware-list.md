@@ -380,11 +380,11 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 | HDR10+          | ✅            |
 | HLG             | ✅            |
 | Dolby Vision P5 | ✅            |
-| Dolby Vision P7 | ✅            |
+| Dolby Vision P7 | ✅¹           |
 | Dolby Vision P8 | ✅            |
 
 ✅ = Unterstützung  
-✅¹ = Unterstützung in Kodi 21 Beta1+
+✅¹ = Unterstützung in Kodi 21 Beta1+  
 
 
 <h3>Audio-Codecs:</h3> 
@@ -401,8 +401,8 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 | DTS-HD                      | ⚠️            |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
-✅ = Passthrough
-⚠️ = DTS Core (Lossy)
+✅ = Passthrough  
+⚠️ = Nur DTS Kern (Lossy)  
 
 ---
 
@@ -482,11 +482,11 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | HDR10+          | ✅            |
 | HLG             | ✅            |
 | Dolby Vision P5 | ✅            |
-| Dolby Vision P7 | ✅            |
+| Dolby Vision P7 | ✅¹           |
 | Dolby Vision P8 | ✅            |
 
 ✅ = Unterstützung  
-✅¹ = Unterstützung in Kodi 21 Beta1+
+✅¹ = Unterstützung in Kodi 21 Beta1+  
 
 
 <h3>Audio-Codecs:</h3> 
@@ -503,8 +503,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | DTS-HD                      | ⚠️            |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
-✅ = Passthrough
-⚠️ = DTS Core (Lossy)
+✅ = Passthrough  
+⚠️ = Nur DTS Kern (Lossy)  
 
 ---
 
@@ -568,6 +568,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | VP9.2        | ✅            |
 | AV1          | 🚫            |
 
+✅ = Unterstützung  
+🚫 = Keine Unterstützung  
 
 <h3>HDR-Codecs:</h3>
 
@@ -580,20 +582,27 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | Dolby Vision P7 | 🚫            |
 | Dolby Vision P8 | ✅            |
 
+✅ = Unterstützung  
+🚫 = Keine Unterstützung   
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                      | Unterstützung                                          |
-| --------------------------- | ------------------------------------------------------ |
-| Dolby Digital (AC3)         | ⚠️ (Multi PCM 5.1 / Kein Passthrough)                  |
-| Dolby Digital Plus (EAC3)   | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
-| Dolby TrueHD & TrueHD Atmos | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
-| Dolby Atmos                 | ⚠️ (Multi PCM 7.1 (keine 3D-Metadaten und Passthrough) |
-| Dolby Atmos (DD+)           | ✅ (Streaming Atmos)                                   |
-| DTS                         | ⚠️ (Multi PCM 5.1 / Kein Passthrough)                  |
-| DTS-X                       | ⚠️ (Multi PCM 7.1 (keine 3D-Metadaten und Passthrough) |
-| DTS-HD                      | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  |
-| Multi-PCM 5.1 & 7.1         | ✅                                                     |
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ⚠️²           |
+| Dolby Digital Plus (EAC3)   | ⚠️¹           |
+| Dolby TrueHD & TrueHD Atmos | ⚠️¹           |
+| Dolby Atmos                 | ⚠️¹ ❘ 🚫      |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ⚠️²           |
+| DTS-X                       | ⚠️¹ ❘ 🚫      |
+| DTS-HD                      | ⚠️¹           |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Passthrough  
+⚠️¹ = PCM 7.1   
+⚠️² = PCM 5.1  
+🚫 = Keine 3D-Metadaten
 
 ---
 
@@ -654,16 +663,20 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 <h3>Video-Codecs:</h3>
 
-| Codecs       | Unterstützung  |
-| ------------ | -------------- |
-| H.264 (x264) | ✅             |
-| H.265 (x265) | ✅             |
-| MPEG-1/2     | ✅             |
-| MPEG-4       | ✅             |
-| VP8          | ✅             |
-| VP9          | ✅             |
-| VP9.2        | 🚫             |
-| AV1          | 🚫 (DASH only) |
+| Codecs       | Unterstützung |
+| ------------ | ------------- |
+| H.264 (x264) | ✅            |
+| H.265 (x265) | ✅            |
+| MPEG-1/2     | ✅            |
+| MPEG-4       | ✅            |
+| VP8          | ✅            |
+| VP9          | ✅            |
+| VP9.2        | 🚫            |
+| AV1          | 🚫¹           |
+
+✅ = Unterstützung  
+🚫 = Keine Unterstützung  
+🚫¹ = Nur DASH  
 
 
 <h3>HDR-Codecs:</h3>
@@ -677,20 +690,25 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 | Dolby Vision P7 | 🚫            |
 | Dolby Vision P8 | 🚫            |
 
+✅ = Unterstützung  
+🚫 = Keine Unterstützung  
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                      | Unterstützung        |
-| --------------------------- | -------------------- |
-| Dolby Digital (AC3)         | ✅                   |
-| Dolby Digital Plus (EAC3)   | ✅                   |
-| Dolby TrueHD & TrueHD Atmos | 🚫                   |
-| Dolby Atmos                 | 🚫                   |
-| Dolby Atmos (DD+)           | ✅ (Streaming Atmos) |
-| DTS                         | ✅                   |
-| DTS-X                       | 🚫                   |
-| DTS-HD                      | 🚫                   |
-| Multi-PCM 5.1 & 7.1         | ✅                   |
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ✅            |
+| Dolby Digital Plus (EAC3)   | ✅            |
+| Dolby TrueHD & TrueHD Atmos | 🚫            |
+| Dolby Atmos                 | 🚫            |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ✅            |
+| DTS-X                       | 🚫            |
+| DTS-HD                      | 🚫            |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Passthrough  
+🚫 = Kein Passthrough und kein PCM  
 
 ---
 
@@ -730,7 +748,7 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 ✅ = Unterstützung  
 🚫 = Keine Unterstützung  
 🚫¹ = Keine Unterstützung und kein HDR in YouTube  
-🚫² = DASH only  
+🚫² = Nur DASH  
 
 ---
 
@@ -761,7 +779,7 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 | Dolby Digital Plus (EAC3)   | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️²         | ✅   |
 | Dolby TrueHD & TrueHD Atmos | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️²         | 🚫¹  |
 | Dolby Atmos                 | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️² ❘ 🚫²   | 🚫¹  |
-| Dolby Atmos (DD+)           | ✅        | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| Dolby Atmos (DD+ & EAC3)    | ✅        | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
 | DTS                         | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️¹         | ✅   |
 | DTS-X                       | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴ | ✅     | ⚠️³       | ⚠️³       | ⚠️² ❘ 🚫²   | 🚫¹  |
 | DTS-HD                      | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴ | ✅     | ⚠️³       | ⚠️³       | ⚠️²         | 🚫¹  |
@@ -773,10 +791,8 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 ⚠️² = PCM 7.1  
 ⚠️³ = DTS Core (Lossy)  
 ⚠️⁴ = PCM 7.1 in Android  
-🚫¹ = Kein Passthrough ❘ Kein PCM  
-🚫² = Kein 3D-Audio (Metadaten)
-
----
+🚫¹ = Kein Passthrough und PCM  
+🚫² = Keine 3D-Metadaten
 
 ===
 
