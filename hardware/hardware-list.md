@@ -670,7 +670,7 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 
 ==- Zusammenfassung
 
-<h3>Video-Codecs:</h3> 
+<h4>Video-Codecs:</h4> 
 
 | Codecs       | Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
 | ------------ | ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
@@ -690,7 +690,26 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 
 ---
 
-<h3>Audio-Codecs:</h3> 
+<h4>HDR-Codecs:</h4> 
+
+| Codecs          | Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
+| --------------- | ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
+| HDR10           | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| HDR10+          | ✅      | ✅        | 🚫     | ✅        | ✅       | ✅          | ✅   |
+| HLG             | ✅      | ✅        | 🚫     | ✅        | ✅       | ✅          | ✅   |
+| Dolby Vision P5 | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| Dolby Vision P7 | ✅¹     | ✅²       | ✅³    | ✅³       | ✅³      | 🚫          | 🚫   |
+| Dolby Vision P8 | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | 🚫   |
+
+✅ = Unterstützung  
+✅¹ = Unterstützung in Dune HD Media Center, CoreELEC oder Kodi 21 Beta1+  
+✅² = Unterstützung in CoreELEC oder Kodi 21 Beta1+  
+✅³ = Unterstützung in Kodi 21 Beta1+  
+🚫 = Keine Unterstützung  
+
+---
+
+<h4>Audio-Codecs:</h4> 
 
 | Codecs                      | Dune HD   | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
 | --------------------------- | --------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
