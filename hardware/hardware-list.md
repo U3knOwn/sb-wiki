@@ -666,4 +666,22 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 
 ===
 
+==- Zusammenfassung
+
+<h3>Audio-Codecs:</h3> 
+
+| Codecs                      | Dune HD Homatics Box R 4K Plus                   | Nokia Streaming Box 8010                         | Nvidia Shield Pro (2019) | Amazon Fire TV Stick 4K Max (Gen 2) | Amazon Fire TV Cube (Gen 3) | Apple TV 4K                                              | Roku Streaming Stick 4K |
+| --------------------------- | ------------------------------------------------ | ------------------------------------------------ | ------------------------ | ----------------------------------- | --------------------------- | -------------------------------------------------------- | ----------------------- |
+| Dolby Digital (AC3)         | ✅                                              | ✅                                               | ✅                       | ✅                                 | ✅                          | ⚠️ (Multi PCM 5.1 / Kein Passthrough)                  | ✅                      |
+| Dolby Digital Plus (EAC3)   | ✅                                              | ✅                                               | ✅                       | ✅                                 | ✅                          | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  | ✅                      |
+| Dolby TrueHD & TrueHD Atmos | ✅                                              | ✅                                               | ✅                       | ✅                                 | ✅                          | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  | 🚫                      |
+| Dolby Atmos                 | ✅                                              | ✅                                               | ✅                       | ✅                                 | ✅                          | ⚠️ (Multi PCM 7.1 (keine 3D-Metadaten und Passthrough) | 🚫                      |
+| Dolby Atmos (DD+)           | ✅ (Streaming Atmos)                            | ✅ (Streaming Atmos)                             | ✅ (Streaming Atmos)     | ✅ (Streaming Atmos)               | ✅ (Streaming Atmos)        | ✅ (Streaming Atmos)                                   | ✅ (Streaming Atmos)    |
+| DTS                         | ✅                                              | ✅                                               | ✅                       | ✅                                 | ✅                          | ⚠️ (Multi PCM 5.1 / Kein Passthrough)                  | ✅                      |
+| DTS-X                       | ✅ (CoreELEC Passthrough) / ⚠️ (Android PCM 7.1 | ✅ (CoreELEC Passthrough) / ⚠️ (Android PCM 7.1 | ✅                       | ⚠️ (Nur als DTS Core)              | ⚠️ (Nur als DTS Core)       | ⚠️ (Multi PCM 7.1 (keine 3D-Metadaten und Passthrough) | 🚫                      |
+| DTS-HD                      | ✅ (CoreELEC Passthrough) / ⚠️ (Android PCM 7.1 | ✅ (CoreELEC Passthrough) / ⚠️ (Android PCM 7.1 | ✅                       | ⚠️ (Nur als DTS Core)              | ⚠️ (Nur als DTS Core)       | ⚠️ (Multi PCM 7.1 / Kein Passthrough)                  | 🚫                      |
+| Multi-PCM 5.1 & 7.1         | ✅                                              | ✅                                               | ✅                       | ✅                                 | ✅                          | ✅                                                     | ✅                      |
+
+===
+
 ---
