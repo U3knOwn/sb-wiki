@@ -64,6 +64,8 @@ icon: devices
 
 ✅ = Unterstützung  
 
+---
+
 <h3>HDR-Codecs:</h3>
 
 | Codecs          | Unterstützung |
@@ -77,6 +79,8 @@ icon: devices
 
 ✅ = Unterstützung  
 ✅¹ = Unterstützung in Dune HD Media Center, CoreELEC oder Kodi 21 Beta1+  
+
+---
 
 <h3>Audio-Codecs:</h3> 
 
@@ -171,6 +175,8 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ✅ = Unterstützung  
 
+---
+
 <h3>HDR-Codecs:</h3>
 
 | Codecs          | Unterstützung |
@@ -184,6 +190,8 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ✅ = Unterstützung  
 ✅¹ = Unterstützung in CoreELEC oder Kodi 21 Beta1+  
+
+---
 
 <h3>Audio-Codecs:</h3> 
 
@@ -277,6 +285,8 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 🚫 = Keine Unterstützung  
 🚫¹ = Keine Unterstützung und kein HDR in YouTube  
 
+---
+
 <h3>HDR-Codecs:</h3>
 
 | Codecs          | Unterstützung |
@@ -291,6 +301,8 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 ✅ = Unterstützung  
 ✅¹ = Unterstützung in Kodi 21 Beta1+   
 🚫 = Keine Unterstützung  
+
+---
 
 <h3>Audio-Codecs:</h3> 
 
@@ -372,6 +384,8 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 ✅ = Unterstützung  
 
+---
+
 <h3>HDR-Codecs:</h3>
 
 | Codecs          | Unterstützung |
@@ -386,6 +400,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 ✅ = Unterstützung  
 ✅¹ = Unterstützung in Kodi 21 Beta1+  
 
+---
 
 <h3>Audio-Codecs:</h3> 
 
@@ -474,6 +489,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 ✅ = Unterstützung  
 
+---
+
 <h3>HDR-Codecs:</h3>
 
 | Codecs          | Unterstützung |
@@ -488,6 +505,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 ✅ = Unterstützung  
 ✅¹ = Unterstützung in Kodi 21 Beta1+  
 
+---
 
 <h3>Audio-Codecs:</h3> 
 
@@ -571,6 +589,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 ✅ = Unterstützung  
 🚫 = Keine Unterstützung  
 
+---
+
 <h3>HDR-Codecs:</h3>
 
 | Codecs          | Unterstützung |
@@ -584,6 +604,8 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 ✅ = Unterstützung  
 🚫 = Keine Unterstützung   
+
+---
 
 <h3>Audio-Codecs:</h3> 
 
@@ -678,6 +700,7 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 🚫 = Keine Unterstützung  
 🚫¹ = Nur DASH  
 
+---
 
 <h3>HDR-Codecs:</h3>
 
@@ -692,6 +715,8 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 ✅ = Unterstützung  
 🚫 = Keine Unterstützung  
+
+---
 
 <h3>Audio-Codecs:</h3> 
 
