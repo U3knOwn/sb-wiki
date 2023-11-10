@@ -8,7 +8,7 @@ icon: flame
 
 <h3>Was wird benötigt</h3>
 
-- Android TV `v5310 oder höher` für funktionierendes Dolby Vision
+- Android TV mit `v5310 oder höher` für funktionierendes Dolby Vision.
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
 - PC (Windows)
 - USB 3.0 Stick (min. 16GB)
