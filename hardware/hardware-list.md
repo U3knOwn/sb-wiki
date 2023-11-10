@@ -275,7 +275,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ✅ = Unterstützung  
 🚫 = Keine Unterstützung  
-🚫¹ = Keine Unterstützung und Kein HDR in YouTube 
+🚫¹ = Keine Unterstützung und kein HDR in YouTube  
 
 <h3>HDR-Codecs:</h3>
 
@@ -306,7 +306,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 | DTS-HD                      | ✅            |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
-✅ = Unterstützung  
+✅ = Passthrough  
 
 ---
 
@@ -370,31 +370,39 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 | VP9.2        | ✅                      |
 | AV1          | ✅                      |
 
+✅ = Unterstützung  
+
 <h3>HDR-Codecs:</h3>
 
-| Codecs          | Unterstützung       |
-| --------------- | ------------------- |
-| HDR10           | ✅                  |
-| HDR10+          | ✅                  |
-| HLG             | ✅                  |
-| Dolby Vision P5 | ✅                  |
-| Dolby Vision P7 | ✅ (Kodi 21 Beta1+) |
-| Dolby Vision P8 | ✅                  |
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | ✅            |
+| HLG             | ✅            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | ✅            |
+| Dolby Vision P8 | ✅            |
+
+✅ = Unterstützung  
+✅¹ = Unterstützung in Kodi 21 Beta1+
 
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                      | Unterstützung         |
-| --------------------------- | --------------------- |
-| Dolby Digital (AC3)         | ✅                    |
-| Dolby Digital Plus (EAC3)   | ✅                    |
-| Dolby TrueHD & TrueHD Atmos | ✅                    |
-| Dolby Atmos                 | ✅                    |
-| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)  |
-| DTS                         | ✅                    |
-| DTS-X                       | ⚠️ (Nur als DTS Core) |
-| DTS-HD                      | ⚠️ (Nur als DTS Core) |
-| Multi-PCM 5.1 & 7.1         | ✅                    |
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ✅            |
+| Dolby Digital Plus (EAC3)   | ✅            |
+| Dolby TrueHD & TrueHD Atmos | ✅            |
+| Dolby Atmos                 | ✅            |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ✅            |
+| DTS-X                       | ⚠️            |
+| DTS-HD                      | ⚠️            |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Passthrough
+⚠️ = DTS Core (Lossy)
 
 ---
 
@@ -464,31 +472,39 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | VP9.2        | ✅                      |
 | AV1          | ✅                      |
 
+✅ = Unterstützung  
+
 <h3>HDR-Codecs:</h3>
 
-| Codecs          | Unterstützung       |
-| --------------- | ------------------- |
-| HDR10           | ✅                  |
-| HDR10+          | ✅                  |
-| HLG             | ✅                  |
-| Dolby Vision P5 | ✅                  |
-| Dolby Vision P7 | ✅ (Kodi 21 Beta1+) |
-| Dolby Vision P8 | ✅                  |
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | ✅            |
+| HLG             | ✅            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | ✅            |
+| Dolby Vision P8 | ✅            |
+
+✅ = Unterstützung  
+✅¹ = Unterstützung in Kodi 21 Beta1+
 
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                      | Unterstützung         |
-| --------------------------- | --------------------- |
-| Dolby Digital (AC3)         | ✅                    |
-| Dolby Digital Plus (EAC3)   | ✅                    |
-| Dolby TrueHD & TrueHD Atmos | ✅                    |
-| Dolby Atmos                 | ✅                    |
-| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)  |
-| DTS                         | ✅                    |
-| DTS-X                       | ⚠️ (Nur als DTS Core) |
-| DTS-HD                      | ⚠️ (Nur als DTS Core) |
-| Multi-PCM 5.1 & 7.1         | ✅                    |
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ✅            |
+| Dolby Digital Plus (EAC3)   | ✅            |
+| Dolby TrueHD & TrueHD Atmos | ✅            |
+| Dolby Atmos                 | ✅            |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ✅            |
+| DTS-X                       | ⚠️            |
+| DTS-HD                      | ⚠️            |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Passthrough
+⚠️ = DTS Core (Lossy)
 
 ---
 
