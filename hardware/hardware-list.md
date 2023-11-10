@@ -62,30 +62,39 @@ icon: devices
 | VP9.2        | ✅            |
 | AV1          | ✅            |
 
+✅ = Unterstützung  
+
 <h3>HDR-Codecs:</h3>
 
-| Codecs          | Unterstützung                                           |
-| --------------- | ------------------------------------------------------- |
-| HDR10           | ✅                                                      |
-| HDR10+          | ✅                                                      |
-| HLG             | ✅                                                      |
-| Dolby Vision P5 | ✅                                                      |
-| Dolby Vision P7 | ✅ (Dune HD Media Center, CoreELEC oder Kodi 21 Beta1+) |
-| Dolby Vision P8 | ✅                                                      |
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | ✅            |
+| HLG             | ✅            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | ✅¹           |
+| Dolby Vision P8 | ✅            |
+
+✅ = Unterstützung  
+✅¹ = Unterstützung in Dune HD Media Center, CoreELEC oder Kodi 21 Beta1+  
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                      | Unterstützung                                       |
-| --------------------------- | --------------------------------------------------- |
-| Dolby Digital (AC3)         | ✅                                                  |
-| Dolby Digital Plus (EAC3)   | ✅                                                  |
-| Dolby TrueHD & TrueHD Atmos | ✅                                                  |
-| Dolby Atmos                 | ✅                                                  |
-| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)                                |
-| DTS                         | ✅                                                  |
-| DTS-X                       | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
-| DTS-HD                      | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
-| Multi-PCM 5.1 & 7.1         | ✅                                                  |
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ✅            |
+| Dolby Digital Plus (EAC3)   | ✅            |
+| Dolby TrueHD & TrueHD Atmos | ✅            |
+| Dolby Atmos                 | ✅            |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ✅            |
+| DTS-X                       | ✅¹ ❘ ⚠️¹     |
+| DTS-HD                      | ✅¹ ❘ ⚠️¹     |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Passthrough  
+✅¹ = Passthrough in CoreELEC  
+⚠️¹ = PCM 7.1 in Android  
 
 ---
 
@@ -160,30 +169,39 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 | VP9.2        | ✅            |
 | AV1          | ✅            |
 
+✅ = Unterstützung  
+
 <h3>HDR-Codecs:</h3>
 
-| Codecs          | Unterstützung                                          |
-| --------------- | ------------------------------------------------------ |
-| HDR10           | ✅                                                     |
-| HDR10+          | ✅                                                     |
-| HLG             | ✅                                                     |
-| Dolby Vision P5 | ✅                                                     |
-| Dolby Vision P7 | ✅ (CoreELEC oder Kodi 21 Beta1+) |
-| Dolby Vision P8 | ✅                                                     |
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | ✅            |
+| HLG             | ✅            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | ✅¹           |
+| Dolby Vision P8 | ✅            |
+
+✅ = Unterstützung  
+✅¹ = Unterstützung in CoreELEC oder Kodi 21 Beta1+  
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                      | Unterstützung                                       |
-| --------------------------- | --------------------------------------------------- |
-| Dolby Digital (AC3)         | ✅                                                  |
-| Dolby Digital Plus (EAC3)   | ✅                                                  |
-| Dolby TrueHD & TrueHD Atmos | ✅                                                  |
-| Dolby Atmos                 | ✅                                                  |
-| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos)                                |
-| DTS                         | ✅                                                  |
-| DTS-X                       | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
-| DTS-HD                      | ⚠️ (Android in PCM 7.1 und CoreELEC in Passthrough) |
-| Multi-PCM 5.1 & 7.1         | ✅                                                  |
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ✅            |
+| Dolby Digital Plus (EAC3)   | ✅            |
+| Dolby TrueHD & TrueHD Atmos | ✅            |
+| Dolby Atmos                 | ✅            |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ✅            |
+| DTS-X                       | ✅¹ ❘ ⚠️¹     |
+| DTS-HD                      | ✅¹ ❘ ⚠️¹     |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Passthrough  
+✅¹ = Passthrough in CoreELEC  
+⚠️¹ = PCM 7.1 in Android  
 
 ---
 
@@ -244,41 +262,51 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 <h3>Video-Codecs:</h3>
 
-| Codecs       | Unterstützung           |
-| ------------ | ----------------------- |
-| H.264 (x264) | ✅                      |
-| H.265 (x265) | ✅                      |
-| MPEG-1/2     | ✅                      |
-| MPEG-4       | ✅                      |
-| VP8          | ✅                      |
-| VP9          | ✅                      |
-| VP9.2        | 🚫 (Für HDR in YouTube) |
-| AV1          | 🚫                      |
+| Codecs       | Unterstützung |
+| ------------ | ------------- |
+| H.264 (x264) | ✅            |
+| H.265 (x265) | ✅            |
+| MPEG-1/2     | ✅            |
+| MPEG-4       | ✅            |
+| VP8          | ✅            |
+| VP9          | ✅            |
+| VP9.2        | 🚫¹           |
+| AV1          | 🚫            |
+
+✅ = Unterstützung  
+🚫 = Keine Unterstützung  
+🚫¹ = Keine Unterstützung und Kein HDR in YouTube 
 
 <h3>HDR-Codecs:</h3>
 
-| Codecs          | Unterstützung       |
-| --------------- | ------------------- |
-| HDR10           | ✅                  |
-| HDR10+          | 🚫                  |
-| HLG             | 🚫                  |
-| Dolby Vision P5 | ✅                  |
-| Dolby Vision P7 | ✅ (Kodi 21 Beta1+) |
-| Dolby Vision P8 | ✅                  |
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | 🚫            |
+| HLG             | 🚫            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | ✅¹           |
+| Dolby Vision P8 | ✅            |
+
+✅ = Unterstützung  
+✅¹ = Unterstützung in Kodi 21 Beta1+   
+🚫 = Keine Unterstützung  
 
 <h3>Audio-Codecs:</h3> 
 
-| Codecs                      | Unterstützung        |
-| --------------------------- | -------------------- |
-| Dolby Digital (AC3)         | ✅                   |
-| Dolby Digital Plus (EAC3)   | ✅                   |
-| Dolby TrueHD & TrueHD Atmos | ✅                   |
-| Dolby Atmos                 | ✅                   |
-| Dolby Atmos (DD+ & EAC3)    | ✅ (Streaming Atmos) |
-| DTS                         | ✅                   |
-| DTS-X                       | ✅                   |
-| DTS-HD                      | ✅                   |
-| Multi-PCM 5.1 & 7.1         | ✅                   |
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ✅            |
+| Dolby Digital Plus (EAC3)   | ✅            |
+| Dolby TrueHD & TrueHD Atmos | ✅            |
+| Dolby Atmos                 | ✅            |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ✅            |
+| DTS-X                       | ✅            |
+| DTS-HD                      | ✅            |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Unterstützung  
 
 ---
 
