@@ -683,10 +683,10 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 | VP9.2        | ✅      | ✅        | 🚫¹    | ✅        | ✅       | ✅          | 🚫   |
 | AV1          | ✅      | ✅        | 🚫     | ✅        | ✅       | 🚫          | 🚫²  |
 
-✅ = Unterstützung 
-🚫 = Keine Unterstützung 
-🚫¹ = Keine Unterstützung und kein HDR in YouTube
-🚫² = DASH only
+✅ = Unterstützung  
+🚫 = Keine Unterstützung  
+🚫¹ = Keine Unterstützung und kein HDR in YouTube  
+🚫² = DASH only  
 
 ---
 
