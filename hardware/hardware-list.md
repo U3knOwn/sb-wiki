@@ -669,11 +669,31 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 ---
 
 ==- Zusammenfassung
-  
+
+<h3>Video-Codecs:</h3> 
+
+| Codecs       | Dune HD | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
+| ------------ | ------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
+| H.264 (x264) | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| H.265 (x265) | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| MPEG-1/2     | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| MPEG-4       | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| VP8          | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| VP9          | ✅      | ✅        | ✅     | ✅        | ✅       | ✅          | ✅   |
+| VP9.2        | ✅      | ✅        | 🚫¹    | ✅        | ✅       | ✅          | 🚫   |
+| AV1          | ✅      | ✅        | 🚫     | ✅        | ✅       | 🚫          | 🚫²  |
+
+✅ = Unterstützung 
+🚫 = Keine Unterstützung 
+🚫¹ = Keine Unterstützung und kein HDR in YouTube
+🚫² = DASH only
+
+---
+
 <h3>Audio-Codecs:</h3> 
 
 | Codecs                      | Dune HD   | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | Apple TV 4K | Roku |
-| --------------------------- | --------- | ---------- | ------ | ---------- | -------- | ----------- |----- |
+| --------------------------- | --------- | ---------- | ------ | ---------- | -------- | ----------- | ---- |
 | Dolby Digital (AC3)         | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️¹         | ✅   |
 | Dolby Digital Plus (EAC3)   | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️²         | ✅   |
 | Dolby TrueHD & TrueHD Atmos | ✅        | ✅        | ✅     | ✅        | ✅       | ⚠️²         | 🚫¹  |
