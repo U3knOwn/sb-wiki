@@ -44,6 +44,61 @@ icon: flame
 
 <h3>Hilfestellungen</h3>
 
+==- Wie ist die Kompatibilität aller Codecs?
+
+<h3>Video-Codecs:</h3>
+
+{.compact}
+| Codecs       | Unterstützung |
+| ------------ | ------------- |
+| H.264 (x264) | ✅            |
+| H.265 (x265) | ✅            |
+| MPEG-1/2     | ✅            |
+| MPEG-4       | ✅            |
+| VP8          | ✅            |
+| VP9          | ✅            |
+| VP9.2        | ✅            |
+| AV1          | ✅            |
+
+✅ = Unterstützung  
+
+---
+
+<h3>HDR-Codecs:</h3>
+
+{.compact}
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | ✅            |
+| HLG             | ✅            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | ✅            |
+| Dolby Vision P8 | ✅            |
+
+✅ = Unterstützung  
+
+---
+
+<h3>Audio-Codecs:</h3> 
+
+{.compact}
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ✅            |
+| Dolby Digital Plus (EAC3)   | ✅            |
+| Dolby TrueHD & TrueHD Atmos | ✅            |
+| Dolby Atmos                 | ✅            |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ✅            |
+| DTS-X                       | ✅            |
+| DTS-HD                      | ✅            |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Passthrough  
+
+===
+
 ==- Wie komme ich von CoreELEC zu Android TV?
 
 1. Ihr müsst in das Neustart-Menü gehen.
