@@ -12,7 +12,7 @@ icon: devices
 
 ==- Dune HD Homatics Box R 4K Plus
 
-<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/df0b7e9a-fdc8-402e-a055-e9b464a8fc61' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/87362aa9-85ff-47f4-a67a-e6ae99268f70' width='500'>
 
 ---
 
@@ -110,7 +110,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ==- Nokia Streaming Box 8010
 
-<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/20e9203e-66c2-4449-8569-78a98f00104d' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/f4ca4c86-e410-4cc1-9231-77e533a94910' width='500'>
 
 ---
 
@@ -208,7 +208,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ==- Nvidia Shield TV Pro (2019)
 
-<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/4daa5941-d722-4708-a41b-a3e662b879d6' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/138dee15-38e4-4977-8f6f-b9bdead44c86' width='500'>
 
 ---
 
@@ -296,7 +296,7 @@ Sie bringt trotz etwas älterer Technik alle Audio-Codecs mit, die man braucht.
 
 ==- Amazon Fire TV Stick 4K Max (2. Gen)
 
-<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/3e5edb88-666e-4a7b-b428-28b1e854196d' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/75f996b7-8993-45e5-ab76-3a4e8bd3920b' width='500'>
 
 ---
 
@@ -384,7 +384,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 ==- Amazon Fire TV Cube (3. Gen)
 
-<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/97752924-8d5e-42bf-af11-62b859613c46' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/aa762c3c-eb1b-47a6-965a-9e2b0f366aee' width='500'>
 
 ---
 
@@ -478,7 +478,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 ==- Apple TV 4K (3. Gen)
 
-<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/cab37ff2-3b48-4dd2-b276-f4225a2d93ce' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/fe2a1b76-3bf0-4df7-9974-6b43ea0bf3cc' width='500'>
 
 ---
 
@@ -578,7 +578,7 @@ Das Problem liegt darin, dass die 3D-Metadaten durch die Umwandlung in PCM verlo
 
 ==- Roku Streaming Stick 4K
 
-<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/296ad9a8-5dcc-4f48-8bf0-efd473135b57' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/a76aa950-fb9c-47a9-b239-7fa7a9b0b73e' width='500'>
 
 ---
 
