@@ -12,6 +12,9 @@ icon: flame
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
 - PC (Windows)
 - USB 3.0 Stick (min. 16GB)
+
+- [!file balenaEtcher](https://github.com/balena-io/etcher/releases)
+
 - [balenaEtcher - Portable](https://etcher.balena.io/#download-etcher) - (Download)
 - [CoreELEC 21.0 - Generic Build](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21) - (Download)  
 - [!file remote](/static/remote.conf)
