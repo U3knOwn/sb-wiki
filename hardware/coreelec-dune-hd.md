@@ -11,8 +11,8 @@ icon: flame
 - Android TV mit `v5310 oder höher` für funktionierendes Dolby Vision.
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
 - USB 3.0 Stick (min. 16GB)  
-[!file balenaEtcher](https://github.com/balena-io/etcher/releases/latest)  
-[!file CoreELEC 21](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21)  
+[!file balenaEtcher](https://github.com/balena-io/etcher/releases/latest)
+[!file CoreELEC 21](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21)
 [!file remote](/static/remote.conf)
 
 ---
