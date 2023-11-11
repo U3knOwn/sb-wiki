@@ -131,7 +131,7 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 ==- Warum wird `Reboot to EMMC` nicht angezeigt?
 
 Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.  
-Dies beheben wir, indem wir das `Reboot to Android TV` Addon installieren.  
+Dies beheben wir, indem wir das `Neustart in Android TV` Addon installieren.  
 [!file Addon](/static/reboottoandroidtv.zip)  
 
 Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem starten wollt. 
