@@ -10,23 +10,23 @@ icon: flame
 
 - Android TV mit `v5310 oder höher` für funktionierendes Dolby Vision.
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
-- PC (Windows)
+- PC (Windows, Linux oder macOS)
 - USB 3.0 Stick (min. 16GB)
-
 - [!file balenaEtcher](https://github.com/balena-io/etcher/releases)
-
-- [balenaEtcher - Portable](https://etcher.balena.io/#download-etcher) - (Download)
-- [CoreELEC 21.0 - Generic Build](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21) - (Download)  
+- [!file CoreELEC 21](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21)
 - [!file remote](/static/remote.conf)
 
 ---
 
 <h3>USB-Stick für CoreELEC vorbereiten</h3>
 
+!!!info Info  
+Es wird das Image mit dem Namen `Generic.img.gz` am Ende der Datei benötigt.  
+!!!
+
 1. USB-Stick an den PC anschließen. 
 2. Starte das Flashtool `balenaEtcher`. 
-3. `Flash from file` drücken und die CoreELEC-Imagedatei auswählen.  
-(z.B: CoreELEC-Amlogic-ne.aarch64-21.0-Omega_nightly_20231031-Generic.img.gz).
+3. `Flash from file` drücken und die CoreELEC-Imagedatei auswählen.
 4. Drücke `Select target` und wähle den USB-Stick aus.
 5. Drücke nun auf `Flash!`.
 6. balenaEtcher führt automatisch einen Validierungsprozess mit einem `grünen Balken` durch.
@@ -36,8 +36,8 @@ icon: flame
 10. Gehe nun in den Ordner `device_trees`.
 11. Kopiere die Datei `sc2_s905x4_sei_smb_280.dtb` in das Hauptverzeichnis.
 12. Im Hauptverzeichnis benennen wir die Datei `sc2_s905x4_sei_smb_280.dtb` in `dtb.img` um.
-13. [!badge icon="warning" text="Kontrolle:"]Die Dateien `dtb.img` und `remote.conf` sollten sich im Hauptverzeichnis befinden.
-15. Jetzt entfernen wir den USB-Stick vom Computer.
+13. [!badge icon="warning" text="Kontrolle:"] Die Dateien `dtb.img` und `remote.conf` sollten sich im Hauptverzeichnis befinden.
+14. Jetzt entfernen wir den USB-Stick vom Computer.
 
 ---
 
@@ -127,7 +127,7 @@ icon: flame
 ==- Warum wird `Reboot to EMMC` nicht angezeigt?
 
 Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.  
-Dies beheben wir, indem wir das `Reboot to Android TV` Addon installieren.
+Dies beheben wir, indem wir das `Reboot to Android TV` Addon installieren.  
 [!file Addon](/static/reboottoandroidtv.zip)  
 
 Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem starten wollt. 
