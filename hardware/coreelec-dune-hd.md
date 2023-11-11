@@ -6,22 +6,27 @@ icon: flame
 
 # CoreELEC für die Dune HD Homatics R 4K Plus
 
-<h3>Was wird benötigt</h3>
+<h3>Was muss beachtet werden?</h3>
 
 - Android TV mit `v5310 oder höher` für funktionierendes Dolby Vision.
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
-- USB 3.0 Stick (min. 16GB)  
+- USB 3.0 Stick mit mindestens 16GB Speicher.
+
+---
+
+<h3>Downloads:</h3>
+
+!!!info Info  
+Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!  
+!!!
+
 [!file balenaEtcher](https://github.com/balena-io/etcher/releases/latest)
 [!file CoreELEC 21](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21)
 [!file remote](/static/remote.conf)
 
 ---
 
-<h3>USB-Stick für CoreELEC vorbereiten</h3>
-
-!!!info Info  
-Es wird das Image mit dem Namen `Generic.img.gz` am Ende der Datei benötigt.  
-!!!
+<h3>USB-Stick für CoreELEC vorbereiten:</h3>
 
 1. USB-Stick an den PC anschließen. 
 2. Starte das Flashtool `balenaEtcher`. 
@@ -40,7 +45,7 @@ Es wird das Image mit dem Namen `Generic.img.gz` am Ende der Datei benötigt.
 
 ---
 
-<h3>CoreELEC starten</h3>
+<h3>CoreELEC starten:</h3>
 
 1. Nun stecken wir den fertigen USB-Stick in den `USB 3.0` Slot der Dune HD Homatics R 4K Plus.
 2. Jetzt starten wir CoreELEC, indem wir die `Ein/Aus Taste` der Fernbedienung lange gedrückt halten.
@@ -50,7 +55,7 @@ Es wird das Image mit dem Namen `Generic.img.gz` am Ende der Datei benötigt.
 
 ---
 
-<h3>Hilfestellungen</h3>
+<h3>Hilfestellungen:</h3>
 
 ==- Wie ist die Kompatibilität aller Codecs?
 
