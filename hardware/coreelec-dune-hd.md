@@ -115,16 +115,16 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 ==- Wie komme ich von CoreELEC zu Android TV?
 
 1. Ihr müsst in das Neustart-Menü gehen.
-2. Nun drückt auf `Reboot to EMMC`.
-3. Nach ein paar Sekunden startet die Box in das Android TV System.
+2. `Reboot to EMMC` auswählen.
+3. Nach ein paar Sekunden startet die Box neu, in das Android TV System.
 
 ===
 
 ==- Wie komme ich von Android TV zu CoreELEC?
 
 1. Die `Ein/Aus Taste` der Fernbedienung länger gedrückt halten.
-2. Jetzt klicken wir auf `Neustart`.
-3. Nach ein paar Sekunden startet die Box in das CoreELEC System.
+2. `Neustart` auswählen.
+3. Nach ein paar Sekunden startet die Box neu, in das CoreELEC System.
 
 ===
 
