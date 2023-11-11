@@ -13,8 +13,8 @@ icon: flame
 - PC (Windows)
 - USB 3.0 Stick (min. 16GB)
 - [balenaEtcher - Portable](https://etcher.balena.io/#download-etcher) - (Download)
-- [CoreELEC 21.0 - Generic Build](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21) - (Download)
-- [remote.conf](https://raw.githubusercontent.com/U3knOwn/sb-wiki/main/dune/remote.conf) - (Download)
+- [CoreELEC 21.0 - Generic Build](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21) - (Download)  
+- [!file remote.conf](/static/remote.conf)
 
 ---
 
@@ -124,7 +124,9 @@ icon: flame
 ==- Warum wird `Reboot to EMMC` nicht angezeigt?
 
 Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.  
-Dies beheben wir, indem wir das [Reboot to Android TV](https://github.com/U3knOwn/sb-wiki/raw/main/dune/script.reboottoandroidtv.zip) Addon installieren.
+Dies beheben wir, indem wir das `Reboot to Android TV`  
+[!file Addon](/static/script.reboottoandroidtv.zip)  
+Addon installieren.
 
 Einfach das `Addon` jedesmal ausführen wenn ihr das Android TV Betriebssystem starten wollt. 
 
