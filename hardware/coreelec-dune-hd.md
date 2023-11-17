@@ -115,7 +115,7 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 ==- Wie komme ich von CoreELEC zu Android TV?
 
 1. Ihr müsst in das Neustart-Menü gehen.
-2. `Reboot to EMMC` auswählen.
+2. `Reboot from eMMC/NAND` auswählen.
 3. Nach ein paar Sekunden startet die Box neu, in das Android TV System.
 
 ===
@@ -128,7 +128,7 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 ===
 
-==- Warum wird `Reboot to EMMC` nicht angezeigt?
+==- Warum wird `Reboot from eMMC/NAND` nicht angezeigt?
 
 Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.  
 Dies beheben wir, indem wir das `Neustart in Android TV` Addon installieren.  
