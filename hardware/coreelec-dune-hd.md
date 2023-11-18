@@ -165,9 +165,10 @@ Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem 
 - Ausgabekonfiguration: `Beste Übereinstimmung`
 - Originallautstärke beim Downmix beibehalten: `Aus`
 - Stereo Upmix: `Aus`
-- Audiogerät aktiv halten: `1 Minute`
-- Durchschleifen erlauben: `Ein`
-- Digitales Ausgabegerät für Durchschleifen: `ALSA: AML-AUGESOUND, HDMI`
+- Audiogerät aktiv halten: `Immer`
+- Unhörbares Signal ausgeben: `Ein`
+- Passthrough erlauben: `Ein`
+- Digitales Ausgabegerät für Passthrough: `ALSA: AML-AUGESOUND, HDMI`
 - Dolby-Digital(AC3)-kompatibler Receiver: `Ein`
 - Dolby Digital Plus(E-AC3)-fähiger Receiver: `Ein`
 - DTS-fähiger Receiver: `Ein`
