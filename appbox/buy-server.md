@@ -13,7 +13,7 @@ icon: credit-card
 5. Wählt den gewünschten Abrechnungszeitraum und klickt auf `Weiter`.
 6. Erstelle dein Kundenkonto oder logge dich in dein bestehendes Konto ein.
 7. Wähle die gewünschte Zahlungsart und akzeptiere die `Allgemeinen Geschäftsbedingungen`.
-8. Gehe zur Kasse und bezahle die Rechnung per `PayPal`, `Kreditkarte`, `Cryptos`, `Paysafecard` oder `Amazon-Gutschein`.
+8. Gehe zur Kasse und bezahle die Rechnung per `PayPal`, `Kreditkarte`, `Cryptos`, `Paysafecard` oder `Wunschgutschein`.
 9. Nach kurzer Bearbeitungszeit erhältst du separate `Log-in-Daten per E-Mail`!
 
 ---
