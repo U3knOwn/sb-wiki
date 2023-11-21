@@ -35,7 +35,7 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 5. Drücke nun auf `Flash!`.
 6. balenaEtcher führt automatisch einen Validierungsprozess mit einem `grünen Balken` durch.
 7. Der USB-Stick ist nun geflasht.
-8. Öffne die `COREELEC` Partition mit dem Windows Explorer.
+8. Öffne die `COREELEC` Partition mit dem Explorer.
 9. Kopiere die `remote.conf` in das Hauptverzeichnis.
 10. Gehe nun in den Ordner `device_trees`.
 11. Kopiere die Datei `sc2_s905x4_sei_smb_280.dtb` in das Hauptverzeichnis.
