@@ -46,6 +46,7 @@ icon: devices
 - LED am Gehäuse
 - 1x USB 3.0-Anschluss (Typ A)
 - 1x USB 2.0-Anschluss (Typ A)
+- 1x USB-C für DVB-C/T/T2/S/S2
 
 ---
 
@@ -159,6 +160,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 - LED am Gehäuse
 - 1x USB 3.0-Anschluss (Typ A)
 - 1x USB 2.0-Anschluss (Typ A)
+- 1x USB-C für DVB-C/T/T2/S/S2
 
 ---
 
@@ -273,6 +275,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 - AV-Ausgang
 - 1x USB 3.0-Anschluss (Typ A)
 - 1x USB 2.0-Anschluss (Typ A)
+- 1x USB-C für DVB-C/T/T2/S/S2
 
 ---
 
