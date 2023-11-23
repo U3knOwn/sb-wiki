@@ -11,7 +11,6 @@ icon: flame
 - Android TV mit `v5310 oder höher` für funktionierendes Dolby Vision.
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
 - USB 3.0 Stick mit mindestens 16GB Speicher.
-- [!badge icon="warning" text="Nokia 8010:"] Den Schritt mit der remote.conf kann ignoriert werden da kein IR-Empfänger verbaut ist.
 
 ---
 

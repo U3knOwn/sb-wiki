@@ -124,6 +124,119 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ===
 
+==- Homatics Box R 4K Plus
+
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/87362aa9-85ff-47f4-a67a-e6ae99268f70' width='500'>
+
+---
+
+<h3>Spezifikationen:</h3>
+
+**Prozessor:**  
+- Amlogic S905X4-K
+- 4x 2.0GHz  
+
+**GPU:**  
+- Mali-G31 MP2
+- 850 MHz
+
+**RAM:**  
+- 4 GB  
+
+**Speicher:**  
+- 32 GB  
+
+**Betriebssystem:**  
+- Android TV 11.0  
+
+**Konnektivität:**
+- HDMI 2.1 mit HDCP 2.2
+- Gigabit-Ethernet
+- Dual-Band Wi-Fi 6 (802.11a/b/g/n/ac/ax)
+- Bluetooth 5.0 + LE
+- CEC
+- S/PDIF (Output)
+- LED am Gehäuse
+- 1x USB 3.0-Anschluss (Typ A)
+- 1x USB 2.0-Anschluss (Typ A)
+
+---
+
+<h3>Video-Codecs:</h3>
+
+{.compact}
+| Codecs       | Unterstützung |
+| ------------ | ------------- |
+| H.264 (x264) | ✅            |
+| H.265 (x265) | ✅            |
+| MPEG-1/2     | ✅            |
+| MPEG-4       | ✅            |
+| VP8          | ✅            |
+| VP9          | ✅            |
+| VP9.2        | ✅            |
+| AV1          | ✅            |
+
+✅ = Unterstützung  
+
+---
+
+<h3>HDR-Codecs:</h3>
+
+{.compact}
+| Codecs          | Unterstützung |
+| --------------- | ------------- |
+| HDR10           | ✅            |
+| HDR10+          | ✅            |
+| HLG             | ✅            |
+| Dolby Vision P5 | ✅            |
+| Dolby Vision P7 | ✅¹           |
+| Dolby Vision P8 | ✅            |
+
+✅ = Unterstützung  
+✅¹ = Unterstützung in CoreELEC oder Kodi 21 Beta1+  
+
+---
+
+<h3>Audio-Codecs:</h3> 
+
+{.compact}
+| Codecs                      | Unterstützung |
+| --------------------------- | ------------- |
+| Dolby Digital (AC3)         | ✅            |
+| Dolby Digital Plus (EAC3)   | ✅            |
+| Dolby TrueHD & TrueHD Atmos | ✅            |
+| Dolby Atmos                 | ✅            |
+| Dolby Atmos (DD+ & EAC3)    | ✅            |
+| DTS                         | ✅            |
+| DTS-X                       | ✅¹ ❘ ⚠️      |
+| DTS-HD                      | ✅¹ ❘ ⚠️      |
+| Multi-PCM 5.1 & 7.1         | ✅            |
+
+✅ = Passthrough  
+✅¹ = Passthrough in CoreELEC  
+⚠️ = PCM 7.1 (Verlustfrei) und keine 3D-Metadaten in Android  
+
+---
+
+**Empfehlung für Plex Streaming?:**  
+
+👍  
+
+Die Homatics Box R 4K Plus ist eine hervorragende Wahl für das Streaming mit Plex.  
+Sie eignet sich auch bestens für herkömmliche Streaminganbieter, CoreELEC und Kodi.  
+Unter Android ist zu beachten, dass DTS HD und DTS X in PCM 7.1 ausgegeben werden, was natürlich verlustfrei ist.  
+Einziger Nachteil bei DTS X ist, dass die Höheninformationen verloren gehen, was die Objektqualität nur minimal beeinflusst.  
+
+Möchtest du das volle Potenzial der Homatics Box R 4K Plus ausschöpfen, empfehle ich dir dringend, CoreELEC in Betracht zu ziehen.  
+CoreELEC ist ein Linux-basiertes Betriebssystem, auf dem Kodi läuft und über einen USB-Stick gestartet werden kann.  
+Der Vorteil von CoreELEC liegt darin, dass Kodi speziell für dieses Gerät angepasst wurde und somit reibungslos läuft.  
+
+Unter CoreELEC kann die Homatics Box R 4K Plus ihr volles Potenzial entfalten, da sie mit allen Codecs, sei es Video- oder Audio-Codecs, umgehen kann.  
+Alles wird hier im Passthrough-Modus ausgegeben.  
+Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wert.
+
+===
+
 ==- Nokia Streaming Box 8010
 
 <img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/f4ca4c86-e410-4cc1-9231-77e533a94910' width='500'>
