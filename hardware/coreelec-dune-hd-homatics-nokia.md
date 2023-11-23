@@ -1,16 +1,17 @@
 ---
-label: CoreELEC für die Dune HD Homatics R 4K Plus
+label: CoreELEC für Dune HD Homatics R 4K Plus / Homatics R 4K Plus / Nokia 8010
 order: -2
 icon: flame
 ---
 
-# CoreELEC für die Dune HD Homatics R 4K Plus
+# CoreELEC für Dune HD Homatics R 4K Plus / Homatics R 4K Plus / Nokia 8010
 
 <h3>Was muss beachtet werden?</h3>
 
 - Android TV mit `v5310 oder höher` für funktionierendes Dolby Vision.
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
 - USB 3.0 Stick mit mindestens 16GB Speicher.
+- [!badge icon="warning" text="Nokia 8010:"] Den Schritt mit der remote.conf kann ignoriert werden da kein IR-Empfänger verbaut ist.
 
 ---
 
@@ -47,7 +48,7 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 <h3>CoreELEC starten:</h3>
 
-1. Nun stecken wir den fertigen USB-Stick in den `USB 3.0` Slot der Dune HD Homatics R 4K Plus.
+1. Nun stecken wir den fertigen USB-Stick in den `USB 3.0` Slot in die Dune HD Homatics R 4K Plus / Homatics R 4K Plus oder Nokia 8010
 2. Jetzt starten wir CoreELEC, indem wir die `Ein/Aus Taste` der Fernbedienung lange gedrückt halten.
 3. Jetzt klicken wir auf `Neustart`.
 4. Nun startet `CoreELEC` und beginnt mit der automatischen Installation.
