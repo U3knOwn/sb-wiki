@@ -761,7 +761,7 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 
 **Empfehlung für Plex Streaming?:**  
 
-👍 
+👍👎 
 
 ***Vorrab:***  
 Aufgrund einiger Einschränkungen kann ich den Apple TV 4K für diejenigen, die audiophile Anforderungen haben, nur bedingt empfehlen.  
@@ -967,7 +967,7 @@ Bitte lese hierzu auch das Fazit zu dem jeweiligen Gerät!
 {.compact}
 | Dune HD | Homatics | Nokia 8010 | Nvidia | FTV 4K Max | FTV Cube | ATV 4K | Roku |
 | :-----: | :------: | :--------: | :----: | :--------: | :------: | :----: | :--: |
-| 👍      | 👍      | 👍         | 👍     | 👍        | 👍       | 👍     | 👎  |
+| 👍      | 👍      | 👍         | 👍     | 👍        | 👍       | 👍👎  | 👎   |
 
 ===
 
