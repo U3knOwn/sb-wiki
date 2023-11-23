@@ -648,12 +648,13 @@ Ich empfehle dir, während der Prime Days ein Auge auf die Angebote zu werfen, d
 | Dolby Atmos                 | ✅            |
 | Dolby Atmos (DD+ & EAC3)    | ✅            |
 | DTS                         | ✅            |
-| DTS-X                       | ⚠️            |
-| DTS-HD                      | ⚠️            |
+| DTS-X                       | ✅¹ ❘ ⚠️       |
+| DTS-HD                      | ✅¹ ❘ ⚠️       |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
-⚠️ = Nur DTS Kern (Verlustbehaftet)  
+✅¹ = Passthrough in Kodi 21+  
+⚠️ = Nur DTS Kern (Verlustbehaftet) - (Außer Kodi 21+)  
 
 ---
 
@@ -946,15 +947,16 @@ Lieber ein paar Euro mehr in die Hand nehmen und zum nächst günstigeren Amazon
 | Dolby Atmos                 | ✅        | ✅        | ✅         | ✅     | ✅        | ✅         | ⚠️² ❘ 🚫² | 🚫¹  |
 | Dolby Atmos (DD+ & EAC3)    | ✅        | ✅        | ✅         | ✅     | ✅        | ✅         | ✅        | ✅   |
 | DTS                         | ✅        | ✅        | ✅         | ✅     | ✅        | ✅         | ⚠️¹       | ✅   |
-| DTS-X                       | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴   | ✅     | ⚠️³       | ⚠️³        | ⚠️² ❘ 🚫² | 🚫¹  |
-| DTS-HD                      | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴   | ✅     | ⚠️³       | ⚠️³        | ⚠️²       | 🚫¹  |
+| DTS-X                       | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴   | ✅     | ⚠️³       | ✅² ❘ ⚠️³    | ⚠️² ❘ 🚫² | 🚫¹  |
+| DTS-HD                      | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴ | ✅¹ ❘ ⚠️⁴   | ✅     | ⚠️³       | ✅² ❘ ⚠️³    | ⚠️²       | 🚫¹  |
 | Multi-PCM 5.1 & 7.1         | ✅        | ✅        | ✅         | ✅     | ✅        | ✅         | ✅        | ✅   |
 
 ✅ = Passthrough in Android  
 ✅¹ = Passthrough in CoreELEC  
+✅² = Passthrough in Kodi 21+  
 ⚠️¹ = PCM 5.1 (Verlustfrei)  
 ⚠️² = PCM 7.1 (Verlustfrei)  
-⚠️³ = DTS Core (Verlustbehaftet)  
+⚠️³ = DTS Core (Verlustbehaftet) - (Außer Kodi 21+)  
 ⚠️⁴ = PCM 7.1 (Verlustfrei) in Android  
 🚫¹ = Kein Passthrough und PCM  
 🚫² = Keine 3D-Metadaten  
