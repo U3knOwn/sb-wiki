@@ -126,7 +126,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ==- Homatics Box R 4K Plus
 
-<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/87362aa9-85ff-47f4-a67a-e6ae99268f70' width='500'>
+<img src='https://github.com/U3knOwn/sb-wiki/assets/148533561/9585ac65-e9ff-48d1-8689-f48c601bf8a5' width='500'>
 
 ---
 
