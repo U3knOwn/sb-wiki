@@ -10,6 +10,7 @@ icon: flame
 
 - Android TV mit `v5310 oder höher` für funktionierendes Dolby Vision.
 - Dolby Vision muss in den Android-Einstellungen aktiviert sein.
+- USB-Debugging muss in den Entwickleroptionen aktiviert sein.
 - USB 3.0 Stick mit mindestens 16GB Speicher.
 
 ---
