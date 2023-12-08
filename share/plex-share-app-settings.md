@@ -1,6 +1,6 @@
 ---
 label: Einstellungen der Plex App
-order: -2
+order: -3
 icon: devices
 ---
 
