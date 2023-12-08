@@ -64,6 +64,7 @@ Discover zeigt dir die aktuell beliebtesten Filme & Serien und was am häufigste
 - Discover Medienquelle: `Deaktiviert für verwaltete Nutzer`
 - Zeige auch „Anderswo anschauen“ Suchergebnisse: `Deaktiviert`
 - Zeige Verfügbarkeit auf anderen Streamingdiensten auf Detailseiten: `Deaktiviert`
+- Zeige Aktivität von Freunden auf Detailseiten: `Deaktiviert`
 
 ---  
 
