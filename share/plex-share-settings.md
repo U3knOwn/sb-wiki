@@ -80,7 +80,7 @@ Wenn du keine Empfehlungen von anderen Streaming-Diensten erhalten möchtest, da
 2. Streaming-Dienste nach wahl `aktivieren` oder `deaktivieren`.
 3. Änderungen speichern anklicken.
 
-**Dies sind die Streaming-Anbieter die ich z.B ausgwählt habe:**  
+**Dies sind die Streaming-Anbieter, die ich ausgewählt habe:**  
 Amazon Prime Video, Apple TV+, Discovery+, Disney+, Home of Horror, Joyn Plus, Netflix, Paramount+, RTL+ und WOW
   
 ---
