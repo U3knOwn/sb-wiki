@@ -247,4 +247,18 @@ Ihr habt eine `AppBox`.
 
 ===
 
+==- Wie installiere ich ein Plex Media Server Update?
+
+Wenn ein Update angeboten wird, wird es in `plex.tv` unter `Einstellungen -> Allgemein` angezeigt.
+
+Um das Update zu installieren, gehe dazu in das Dashboard und starte den Server neu.
+
+1. Logge dich mit den per `Email erhaltenen Daten` ein.
+2. Klicke nun den bestellten Server, als Beispiel: `Server #1245`
+3. Jetzt auf `Restart` klicken.
+
+Nach dem Neustart sollte das Update installiert sein.
+
+===
+
 ---
