@@ -4,10 +4,10 @@ order: -5
 icon: tools
 ---
 
-# Analytics und E-Mails deaktivieren
+# Analytics, E-Mails und Aktivitäten deaktivieren
 
 !!!danger Achtung
-Es wird empfohlen, diese Schritte durchzuführen, auch wenn das Thema als optional deklariert wurde.<br>
+Es wird empfohlen, diese Schritte durchzuführen.<br>
 !!!
 
 ==- Analytics deaktivieren:
