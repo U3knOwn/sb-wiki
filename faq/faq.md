@@ -253,7 +253,7 @@ Wenn ein Update angeboten wird, wird es in `plex.tv` unter `Einstellungen -> All
 
 Um das Update zu installieren, gehe dazu in das Dashboard und starte den Server neu.
 
-1. Logge dich mit den per `Email erhaltenen Daten` in `Knonos` ein.
+1. Logge dich mit den per `Email erhaltenen Daten` in `Kronos` ein.
 2. Klicke nun auf den Server, als Beispiel: `Server #1245`
 3. Jetzt auf `Restart` klicken.
 
