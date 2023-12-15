@@ -133,7 +133,8 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.  
 Dies beheben wir, indem wir das `Neustart in Android TV` Addon installieren.  
-[!file Addon](/static/reboottoandroidtv.zip)  
+[!file Addon - Deutsch](/static/reboottoandroidtv.zip)  
+[!file Addon - English](/static/reboottoandroidtv_eng.zip)  
 
 Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem starten wollt. 
 
