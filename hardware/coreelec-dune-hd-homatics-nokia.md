@@ -129,7 +129,7 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 ===
 
-==- Warum kann ich nicht von Android TV zu CoreELEC neustarten?
+==- Warum kann ich nicht von Android TV in CoreELEC neustarten?
 
 1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
 2. Schalte USB-Debugging in den Entwickler-Optionen ein.
