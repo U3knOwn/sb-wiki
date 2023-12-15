@@ -129,11 +129,19 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 ===
 
+==- Warum kann ich nicht von Android TV zu CoreELEC neustarten?
+
+1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
+2. Schalte USB-Debugging in den Entwickler-Optionen ein.
+3. Das Neustarten in CoreELEC sollte nun funktionieren.
+
+===
+
 ==- Warum wird `Reboot from eMMC/NAND` nicht angezeigt?
 
 Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.  
 Dies beheben wir, indem wir das `Neustart in Android TV` Addon installieren.  
-[!file Addon - Deutsch](/static/reboottoandroidtv.zip)  
+[!file Addon - Deutsch](/static/reboottoandroidtv.zip)
 [!file Addon - English](/static/reboottoandroidtv_eng.zip)  
 
 Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem starten wollt. 
