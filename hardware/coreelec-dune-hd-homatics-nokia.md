@@ -123,17 +123,45 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 ==- Wie komme ich von Android TV zu CoreELEC?
 
+Es gibt 2 Wege in CoreELEC zu kommen.
+
+---
+
+Weg 1:
 1. Die `Ein/Aus Taste` der Fernbedienung länger gedrückt halten.
 2. `Neustart` auswählen.
 3. Nach ein paar Sekunden startet die Box neu, in das CoreELEC System.
+
+---
+
+Weg 2:
+1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
+2. Schalte USB-Debugging in den Entwickler-Optionen ein.
+3. Installiere diese APK.
+[!file Reboot to CoreELEC](/static/Reboot_to_CoreELEC_1.0.apk)
+4. Starte die App und lasse das Dialog mit USB-Debugging zu.
 
 ===
 
 ==- Warum kann ich nicht von Android TV in CoreELEC neustarten?
 
+Es gibt 2 Wege in CoreELEC zu kommen.
+
+---
+
+Weg 1:
 1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
 2. Schalte USB-Debugging in den Entwickler-Optionen ein.
-3. Das Neustarten in CoreELEC sollte nun funktionieren.
+3. Das Neustarten in CoreELEC sollte nun über einen Neustart der Box funktionieren.
+
+---
+
+Weg 2:
+1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
+2. Schalte USB-Debugging in den Entwickler-Optionen ein.
+3. Installiere diese APK.
+[!file Reboot to CoreELEC](/static/Reboot_to_CoreELEC_1.0.apk)
+4. Starte die App und lasse das Dialog mit USB-Debugging zu.
 
 ===
 
