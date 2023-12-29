@@ -138,7 +138,7 @@ Weg 2:
 1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
 2. Schalte USB-Debugging in den Entwickler-Optionen ein.
 3. Installiere diese APK.
-[!file Reboot to CoreELEC](/static/Reboot_to_CoreELEC_1.0.apk)
+[!file Reboot to CoreELEC](/static/Reboot_to_CoreELEC_2.0.apk)
 4. Starte die App und lasse das Dialog mit USB-Debugging zu.
 
 ===
@@ -160,7 +160,7 @@ Weg 2:
 1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
 2. Schalte USB-Debugging in den Entwickler-Optionen ein.
 3. Installiere diese APK.
-[!file Reboot to CoreELEC](/static/Reboot_to_CoreELEC_1.0.apk)
+[!file Reboot to CoreELEC](/static/Reboot_to_CoreELEC_2.0.apk)
 4. Starte die App und lasse das Dialog mit USB-Debugging zu.
 
 ===
