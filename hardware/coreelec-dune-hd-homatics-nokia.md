@@ -23,7 +23,7 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 [!file balenaEtcher](https://github.com/balena-io/etcher/releases/latest)
 [!file CoreELEC 21](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21)
-[!file remote - only for Dune HD](/static/remote.conf)
+[!file remote - Nur für die Dune HD](/static/remote.conf)
 
 ---
 
