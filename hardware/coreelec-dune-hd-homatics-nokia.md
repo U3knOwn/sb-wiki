@@ -181,10 +181,10 @@ Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem 
 **Android TV muss v5310 oder höher sein für ein funktionierendes Dolby Vision.**  
 **Dolby Vision muss in den Android Einstellungen aktiviert sein.**
 
-1. In CoreELEC gehen wir auf Einstellungen -> System -> Display
+1. In CoreELEC gehen wir auf Einstellungen -> System -> Anzeige
 2. Wir ändern nun folgendes:
-- Display Farbtiefe erzwingen: `12 bits`
-- Farbunterabtastung erzwingen: `4:2:2`
+- Force display colour depth: `12 bits`
+- Force colour subsampling: `4:2:2`
 
 ---
 
