@@ -23,7 +23,7 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 [!file balenaEtcher](https://github.com/balena-io/etcher/releases/latest)
 [!file CoreELEC 21](https://relkai.coreelec.org/?dir=Amlogic-ne/ce-21)
-[!file remote - Nur für die Dune HD](/static/remote.conf)
+[!file remote - Nur für Dune HD](/static/remote.conf)
 
 ---
 
@@ -49,8 +49,8 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 <h3>CoreELEC starten:</h3>
 
 !!!info Info
-Für das erste starten in CoreELEC benötigen wir die App `Neustart zu CoreELEC` und aktiviertes `USB-Debugging`.  
-Die App benötigt man auch dann wenn man ein Android-Update durchgeführt hat.
+Für den ersten Start in CoreELEC benötigt man die App `Neustart zu CoreELEC` und aktiviertes `USB-Debugging`.  
+Die App wird auch nach einem Android-Update benötigt.
 !!!
 
 [!file Neustart zu CoreELEC](/static/Reboot_to_CoreELEC_2.0.apk)
@@ -58,13 +58,13 @@ Die App benötigt man auch dann wenn man ein Android-Update durchgeführt hat.
 ---
 
 1. Wir stecken den fertigen USB-Stick in den `USB 3.0` Slot der Dune HD Homatics R 4K Plus / Homatics R 4K Plus oder Nokia 8010.
-2. Jetzt installieren und starten wir die App `Neustart zu CoreELEC` und wählen `Erster Neustart zu CoreELEC` aus.
+2. Jetzt installieren und starten wir die App `Neustart zu CoreELEC`, und wählen `Erster Neustart zu CoreELEC` aus.
 3. Jetzt startet die Box in das CoreELEC Betriebsystem.
 4. Wenn die Installation beendet ist, muss man durch den Einrichtungsprozess gehen.
 
 ---
 
-Nachdem dem ersten starten in CoreELEC mit der App reicht es danach aus, diesen Weg zu nehmen um in CoreELEC neuzustarten.
+Nach dem ersten Start in CoreELEC mit der App genügt es, diesen Weg zu gehen, um in CoreELEC neu zu starten.
 1. Die `Ein/Aus Taste` der Fernbedienung länger gedrückt halten.
 2. `Neustart` auswählen.
 3. Nach ein paar Sekunden startet die Box in das CoreELEC System neu.
