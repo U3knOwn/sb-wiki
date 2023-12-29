@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/sb-wiki">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.757202036916">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.757202649914">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -32,11 +32,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.ico" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.757202036916" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.757202649914" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.757202036916" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.757202649914" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.757202036916" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.757202649914" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -228,7 +228,9 @@
 </div>
 </p>
 <hr>
-<h3>USB-Stick für CoreELEC vorbereiten:</h3>
+<h3>Installation:</h3>
+<doc-panel id="usb-stick-für-coreelec-vorbereiten-h3" collapsed>
+    <template #title>USB-Stick für CoreELEC vorbereiten:</h3></template>
 <ol>
 <li>USB-Stick an den PC anschließen.</li>
 <li>Starte das Flashtool <code v-pre>balenaEtcher</code>.</li>
@@ -247,8 +249,9 @@
 </span> Die Dateien <code v-pre>dtb.img</code> und <code v-pre>remote.conf</code> sollten sich im Hauptverzeichnis befinden.</li>
 <li>Jetzt entfernen wir den USB-Stick vom Computer.</li>
 </ol>
-<hr>
-<h3>CoreELEC starten:</h3>
+</doc-panel>
+<doc-panel id="coreelec-starten" collapsed>
+    <template #title>CoreELEC starten:</template>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-300"></div>
     <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
@@ -290,15 +293,9 @@ Die App wird auch nach einem Android-Update benötigt.</p>
 <li>Jetzt startet die Box in das CoreELEC Betriebsystem.</li>
 <li>Wenn die Installation beendet ist, muss man durch den Einrichtungsprozess gehen.</li>
 </ol>
-<hr>
-<p>Nach dem ersten Start in CoreELEC mit der App genügt es, diesen Weg zu gehen, um in CoreELEC neu zu starten.</p>
-<ol>
-<li>Die <code v-pre>Ein/Aus Taste</code> der Fernbedienung länger gedrückt halten.</li>
-<li><code v-pre>Neustart</code> auswählen.</li>
-<li>Nach ein paar Sekunden startet die Box in das CoreELEC System neu.</li>
-</ol>
-<hr>
-<h3>CoreELEC einrichten:</h3>
+</doc-panel>
+<doc-panel id="coreelec-einrichten" collapsed>
+    <template #title>CoreELEC einrichten:</template>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-300"></div>
     <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
@@ -355,15 +352,23 @@ Bei Wiedergabeproblemen sollten diese Einstellungen ebenfalls vorgenommen werden
 <li>Dolby-TrueHD-fähiger Receiver: <code v-pre>Ein</code></li>
 <li>DTS-HD fähiger Receiver: <code v-pre>Ein</code></li>
 </ul>
+</doc-panel>
+<doc-panel id="wechsel-zwischen-beiden-systemen" collapsed>
+    <template #title>Wechsel zwischen beiden Systemen:</template>
+<p><strong>Android TV:</strong></p>
+<ol>
+<li>Die <code v-pre>Ein/Aus Taste</code> der Fernbedienung länger gedrückt halten.</li>
+<li><code v-pre>Neustart</code> auswählen.</li>
+<li>Nach ein paar Sekunden startet die Box in das CoreELEC System neu.</li>
+</ol>
 <hr>
-<h3>Hilfestellungen:</h3>
-<doc-panel id="wie-komme-ich-von-coreelec-zu-android-tv" collapsed>
-    <template #title>Wie komme ich von CoreELEC zu Android TV?</template>
+<p><strong>CoreELEC:</strong></p>
 <ol>
 <li>Ihr müsst in das Neustart-Menü gehen.</li>
 <li><code v-pre>Reboot from eMMC/NAND</code> auswählen.</li>
 <li>Nach ein paar Sekunden startet die Box neu, in das Android TV System.</li>
 </ol>
+<hr>
 <p>Falls euch <code v-pre>Reboot from eMMC/NAND</code> im Neustart-Menü nicht angezeigt wird, liegt es wahrscheinlich daran, dass man einen anderen Skin verwendet.<br />
 Dies beheben wir, indem wir das <code v-pre>Neustart in Android TV</code> Addon installieren.</p>
 <p>
@@ -396,6 +401,8 @@ Dies beheben wir, indem wir das <code v-pre>Neustart in Android TV</code> Addon 
 </p>
 <p>Einfach das <code v-pre>Addon</code> jedesmal ausführen, wenn ihr das Android TV Betriebssystem starten wollt.</p>
 </doc-panel>
+<hr>
+<h3>Nützliches:</h3>
 <doc-panel id="welches-plex-addon-soll-ich-am-besten-nutzen" collapsed>
     <template #title>Welches Plex Addon soll ich am besten nutzen?</template>
 <p>Das Addon heißt <code v-pre>PlexMod</code>.<br />
