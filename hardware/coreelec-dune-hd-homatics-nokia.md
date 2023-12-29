@@ -27,7 +27,9 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 ---
 
-<h3>USB-Stick für CoreELEC vorbereiten:</h3>
+<h3>Installation:</h3>
+
+==- USB-Stick für CoreELEC vorbereiten:</h3>
 
 1. USB-Stick an den PC anschließen. 
 2. Starte das Flashtool `balenaEtcher`. 
@@ -44,9 +46,9 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 13. [!badge icon="warning" text="Kontrolle:"] Die Dateien `dtb.img` und `remote.conf` sollten sich im Hauptverzeichnis befinden.
 14. Jetzt entfernen wir den USB-Stick vom Computer.
 
----
+===
 
-<h3>CoreELEC starten:</h3>
+==- CoreELEC starten:
 
 !!!info Info
 Für den ersten Start in CoreELEC benötigt man die App `Neustart zu CoreELEC` und aktiviertes `USB-Debugging`.  
@@ -62,16 +64,9 @@ Die App wird auch nach einem Android-Update benötigt.
 3. Jetzt startet die Box in das CoreELEC Betriebsystem.
 4. Wenn die Installation beendet ist, muss man durch den Einrichtungsprozess gehen.
 
----
+===
 
-Nach dem ersten Start in CoreELEC mit der App genügt es, diesen Weg zu gehen, um in CoreELEC neu zu starten.
-1. Die `Ein/Aus Taste` der Fernbedienung länger gedrückt halten.
-2. `Neustart` auswählen.
-3. Nach ein paar Sekunden startet die Box in das CoreELEC System neu.
-
----
-
-<h3>CoreELEC einrichten:</h3>
+==- CoreELEC einrichten:
 
 !!!info Info
 Diese Einstellungen sollten vorgenommen werden, wenn ein A/V-Receiver, eine Soundbar oder Dolby Vision verwendet wird.  
@@ -109,15 +104,23 @@ Bei Wiedergabeproblemen sollten diese Einstellungen ebenfalls vorgenommen werden
 - Dolby-TrueHD-fähiger Receiver: `Ein`
 - DTS-HD fähiger Receiver: `Ein`
 
+===
+
+==- Wechsel zwischen beiden Systemen:
+
+**Android TV:**
+1. Die `Ein/Aus Taste` der Fernbedienung länger gedrückt halten.
+2. `Neustart` auswählen.
+3. Nach ein paar Sekunden startet die Box in das CoreELEC System neu.
+
 ---
 
-<h3>Hilfestellungen:</h3>
-
-==- Wie komme ich von CoreELEC zu Android TV?
-
+**CoreELEC:**
 1. Ihr müsst in das Neustart-Menü gehen.
 2. `Reboot from eMMC/NAND` auswählen.
 3. Nach ein paar Sekunden startet die Box neu, in das Android TV System.
+
+---
 
 Falls euch `Reboot from eMMC/NAND` im Neustart-Menü nicht angezeigt wird, liegt es wahrscheinlich daran, dass man einen anderen Skin verwendet.  
 Dies beheben wir, indem wir das `Neustart in Android TV` Addon installieren.  
@@ -128,6 +131,10 @@ Dies beheben wir, indem wir das `Neustart in Android TV` Addon installieren.
 Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem starten wollt. 
 
 ===
+
+---
+
+<h3>Nützliches:</h3>
 
 ==- Welches Plex Addon soll ich am besten nutzen?
 
