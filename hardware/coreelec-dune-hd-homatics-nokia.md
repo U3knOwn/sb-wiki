@@ -183,6 +183,8 @@ Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem 
 
 1. In CoreELEC gehen wir auf Einstellungen -> System -> Anzeige
 2. Wir ändern nun folgendes:
+- Auflösung: `3840x2160p`
+- Bildwiederholrate: `60.00`
 - Force display colour depth: `12 bits`
 - Force colour subsampling: `4:2:2`
 
