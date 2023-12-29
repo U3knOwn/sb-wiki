@@ -48,15 +48,100 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 
 <h3>CoreELEC starten:</h3>
 
-1. Nun stecken wir den fertigen USB-Stick in den `USB 3.0` Slot in die Dune HD Homatics R 4K Plus / Homatics R 4K Plus oder Nokia 8010
-2. Jetzt starten wir CoreELEC, indem wir die `Ein/Aus Taste` der Fernbedienung lange gedrückt halten.
-3. Jetzt klicken wir auf `Neustart`.
-4. Nun startet `CoreELEC` und beginnt mit der automatischen Installation.
-5. Wenn die Installation beendet ist, muss man durch den Einrichtungsprozess gehen.
+!!!info Info
+Für das erste starten in CoreELEC benötigen wir die App `Neustart zu CoreELEC` und aktiviertes `USB-Debugging`.  
+Die App benötigt man auch dann wenn man ein Android-Update durchgeführt hat.
+!!!
+
+[!file Neustart zu CoreELEC](/static/Reboot_to_CoreELEC_2.0.apk)
+
+---
+
+1. Wir stecken den fertigen USB-Stick in den `USB 3.0` Slot der Dune HD Homatics R 4K Plus / Homatics R 4K Plus oder Nokia 8010.
+2. Jetzt installieren und starten wir die App `Neustart zu CoreELEC` und wählen `Erster Neustart zu CoreELEC` aus.
+3. Jetzt startet die Box in das CoreELEC Betriebsystem.
+4. Wenn die Installation beendet ist, muss man durch den Einrichtungsprozess gehen.
+
+---
+
+Nachdem dem ersten starten in CoreELEC mit der App reicht es danach aus, diesen Weg zu nehmen um in CoreELEC neuzustarten.
+1. Die `Ein/Aus Taste` der Fernbedienung länger gedrückt halten.
+2. `Neustart` auswählen.
+3. Nach ein paar Sekunden startet die Box in das CoreELEC System neu.
+
+---
+
+<h3>CoreELEC einrichten:</h3>
+
+!!!info Info
+Diese Einstellungen sollten vorgenommen werden, wenn ein A/V-Receiver, eine Soundbar oder Dolby Vision verwendet wird.  
+Bei Wiedergabeproblemen sollten diese Einstellungen ebenfalls vorgenommen werden.
+!!!
+
+---
+
+1. In CoreELEC gehen wir in die Einstellungen auf System auf den Reiter: `Anzeige`
+- Auflösung: `3840x2160p`
+- Bildwiederholrate: `60.00`
+- Force display colour depth: `12 bits`
+- Force colour subsampling: `4:2:2`
+
+---
+
+2. Jetzt gehen wir auf den Reiter: `CoreELEC`
+- Use Player Led: `Ein`
+
+---
+
+3. Jetzt gehen wir auf den Reiter: `Audio`
+- Audio-Ausgabegerät: `ALSA: AML-AUGESOUND, HDMI Multi Ch PCM`
+- Anzahl der Audiokanäle: `7.1`
+- Ausgabekonfiguration: `Beste Übereinstimmung`
+- Originallautstärke beim Downmix beibehalten: `Aus`
+- Stereo Upmix: `Aus`
+- Audiogerät aktiv halten: `Immer`
+- Unhörbares Signal ausgeben: `Ein`
+- Passthrough erlauben: `Ein`
+- Digitales Ausgabegerät für Passthrough: `ALSA: AML-AUGESOUND, HDMI`
+- Dolby-Digital(AC3)-kompatibler Receiver: `Ein`
+- Dolby Digital Plus(E-AC3)-fähiger Receiver: `Ein`
+- DTS-fähiger Receiver: `Ein`
+- Dolby-TrueHD-fähiger Receiver: `Ein`
+- DTS-HD fähiger Receiver: `Ein`
 
 ---
 
 <h3>Hilfestellungen:</h3>
+
+==- Wie komme ich von CoreELEC zu Android TV?
+
+1. Ihr müsst in das Neustart-Menü gehen.
+2. `Reboot from eMMC/NAND` auswählen.
+3. Nach ein paar Sekunden startet die Box neu, in das Android TV System.
+
+Falls euch `Reboot from eMMC/NAND` im Neustart-Menü nicht angezeigt wird, liegt es wahrscheinlich daran, dass man einen anderen Skin verwendet.  
+Dies beheben wir, indem wir das `Neustart in Android TV` Addon installieren.  
+
+[!file Addon - Deutsch](/static/reboottoandroidtv.zip)
+[!file Addon - English](/static/reboottoandroidtv_eng.zip)  
+
+Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem starten wollt. 
+
+===
+
+==- Welches Plex Addon soll ich am besten nutzen?
+
+Das Addon heißt `PlexMod`.  
+Der Vorteil dieses Addons ist, dass es regelmäßig aktualisiert wird.  
+Das offizielle `Plex` Addon wird nicht mehr aktualisiert und startet nicht mehr.
+
+Hier findet ihr `PlexMod`:  
+[PlexMod](https://forums.plex.tv/t/plexmod-for-kodi-18-19-20-21)
+
+Hier wird beschrieben, wie man `PlexMod` perfekt einrichtet:  
+[Kodi / CoreELEC Einstellungen](https://u3known.github.io/sb-wiki/appbox/plex-app-settings/)
+
+===
 
 ==- Wie ist die Kompatibilität aller Codecs?
 
@@ -110,124 +195,6 @@ Die CoreELEC-Imagedatei mit der Endung `Generic.img.gz` ist erforderlich!
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
-
-===
-
-==- Wie komme ich von CoreELEC zu Android TV?
-
-1. Ihr müsst in das Neustart-Menü gehen.
-2. `Reboot from eMMC/NAND` auswählen.
-3. Nach ein paar Sekunden startet die Box neu, in das Android TV System.
-
-===
-
-==- Wie komme ich von Android TV zu CoreELEC?
-
-Es gibt 2 Wege in CoreELEC zu kommen.
-
----
-
-Weg 1:
-1. Die `Ein/Aus Taste` der Fernbedienung länger gedrückt halten.
-2. `Neustart` auswählen.
-3. Nach ein paar Sekunden startet die Box neu, in das CoreELEC System.
-
----
-
-Weg 2:
-1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
-2. Schalte USB-Debugging in den Entwickler-Optionen ein.
-3. Installiere diese APK.
-[!file Reboot to CoreELEC](/static/Reboot_to_CoreELEC_2.0.apk)
-4. Starte die App und lasse das Dialog mit USB-Debugging zu.
-
-===
-
-==- Warum kann ich nicht von Android TV in CoreELEC neustarten?
-
-Es gibt 2 Wege in CoreELEC zu kommen.
-
----
-
-Weg 1:
-1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
-2. Schalte USB-Debugging in den Entwickler-Optionen ein.
-3. Das Neustarten in CoreELEC sollte nun über einen Neustart der Box funktionieren.
-
----
-
-Weg 2:
-1. Gehe in die Einstellungen und aktiviere die Entwickler-Optionen.
-2. Schalte USB-Debugging in den Entwickler-Optionen ein.
-3. Installiere diese APK.
-[!file Reboot to CoreELEC](/static/Reboot_to_CoreELEC_2.0.apk)
-4. Starte die App und lasse das Dialog mit USB-Debugging zu.
-
-===
-
-==- Warum wird `Reboot from eMMC/NAND` nicht angezeigt?
-
-Das liegt wahrscheinlich daran, dass man einen anderen Skin verwendet.  
-Dies beheben wir, indem wir das `Neustart in Android TV` Addon installieren.  
-[!file Addon - Deutsch](/static/reboottoandroidtv.zip)
-[!file Addon - English](/static/reboottoandroidtv_eng.zip)  
-
-Einfach das `Addon` jedesmal ausführen, wenn ihr das Android TV Betriebssystem starten wollt. 
-
-===
-
-==- Warum funktioniert Dolby Vision nicht?
-
-**Android TV muss v5310 oder höher sein für ein funktionierendes Dolby Vision.**  
-**Dolby Vision muss in den Android Einstellungen aktiviert sein.**
-
-1. In CoreELEC gehen wir auf Einstellungen -> System -> Anzeige
-2. Wir ändern nun folgendes:
-- Auflösung: `3840x2160p`
-- Bildwiederholrate: `60.00`
-- Force display colour depth: `12 bits`
-- Force colour subsampling: `4:2:2`
-
----
-
-1. Wir gehen in CoreELEC auf Einstellungen -> System -> CoreELEC
-2. Nun ändern wir folgendes:
-- Use Player Led: `Ein`
-
-===
-
-==- Was muss ich tun, um alle Audio Codecs in Passthough abspielen zu können?
-
-1. In CoreELEC gehen wir auf Settings -> System -> Audio Codecs
-2. Wir ändern nun folgendes:
-- Audio-Ausgabegerät: `ALSA: AML-AUGESOUND, HDMI Multi Ch PCM`
-- Anzahl der Audiokanäle: `7.1`
-- Ausgabekonfiguration: `Beste Übereinstimmung`
-- Originallautstärke beim Downmix beibehalten: `Aus`
-- Stereo Upmix: `Aus`
-- Audiogerät aktiv halten: `Immer`
-- Unhörbares Signal ausgeben: `Ein`
-- Passthrough erlauben: `Ein`
-- Digitales Ausgabegerät für Passthrough: `ALSA: AML-AUGESOUND, HDMI`
-- Dolby-Digital(AC3)-kompatibler Receiver: `Ein`
-- Dolby Digital Plus(E-AC3)-fähiger Receiver: `Ein`
-- DTS-fähiger Receiver: `Ein`
-- Dolby-TrueHD-fähiger Receiver: `Ein`
-- DTS-HD fähiger Receiver: `Ein`
-
-===
-
-==- Welches Plex Addon soll ich am besten nutzen?
-
-Das Addon heißt `PlexMod`.  
-Der Vorteil dieses Addons ist, dass es regelmäßig aktualisiert wird.  
-Das offizielle `Plex` Addon wird nicht mehr aktualisiert und startet nicht mehr.
-
-Hier findet ihr `PlexMod`:  
-[PlexMod](https://forums.plex.tv/t/plexmod-for-kodi-18-19-20-21)
-
-Hier wird beschrieben, wie man `PlexMod` perfekt einrichtet:  
-[Kodi / CoreELEC Einstellungen](https://u3known.github.io/sb-wiki/appbox/plex-app-settings/)
 
 ===
 
