@@ -270,7 +270,7 @@ Dies ist nur durch einen "Trick" möglich, indem der Quellcode der Seite bearbei
 2. Meldet euch in Plex mit eurer `E-Mail-Adresse` und `Passwort` ein.
 3. [Plex Online Medienquellen](https://app.plex.tv/desktop/#!/settings/online-media-sources) öffnen.
 4. Bei `Discover Medienquellen` auf Bearbeiten klicken.
-5. Klicke in der Dropdown-Liste mit der rechten Maustaste auf "Untersuchen".
+5. Klicke in der Dropdown-Liste mit der rechten Maustaste auf `Untersuchen`.
 6. Suche nach der ID: `includeDiscoverSource`.
 
 ``` Ändere folgenden Wert von:
