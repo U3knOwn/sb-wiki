@@ -202,8 +202,8 @@ Im `Streamboy Discord` unter:
 
 ==- Kann ich Filme oder Serien für den Urlaub herunterladen?
 
-Ja, das ist möglich!
-Bitte beachte, dass dies unter Fair-Use erfolgen muss, da es die Serverleistung beeinträchtigt.
+Ja, das ist möglich!  
+Bitte beachte, dass dies unter Fair-Use erfolgen muss, da es die Serverleistung für andere Nutzer beeinträchtigt.
 
 **Vorraussetzung:**  
 Ihr habt eine `AppBox`.  
