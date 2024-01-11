@@ -262,7 +262,7 @@ Nach dem Neustart sollte das Update installiert sein.
 
 ===
 
-==- Wie lasse ich den Discover Reiter für einen weiteren Benutzer anzeigen?
+==- Wie lasse ich den Discover Reiter für weitere Benutzer anzeigen?
 
 Dies ist nur durch einen "Trick" möglich, indem der Quellcode der Seite bearbeitet wird.
 
