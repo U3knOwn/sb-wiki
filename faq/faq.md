@@ -262,4 +262,29 @@ Nach dem Neustart sollte das Update installiert sein.
 
 ===
 
+==- Wie lasse ich den Discover Reiter für einen weiteren Benutzer anzeigen?
+
+Dies ist nur durch einen "Trick" möglich, indem der Quellcode der Seite bearbeitet wird.
+
+
+    Modify the value of an option,
+    for example: <option value="opt_out_managed">Disabled for Managed Users</option>
+    with this value: <option value="opt_in">Enabled</option>
+
+1. [Plex Login](https://app.plex.tv/desktop/#!/login) öffnen.
+2. Meldet euch in Plex mit eurer `E-Mail-Adresse` und `Passwort` ein.
+3. [Plex Online Medienquellen](https://app.plex.tv/desktop/#!/settings/online-media-sources) öffnen.
+4. Bei `Discover Medienquellen` auf Bearbeiten klicken.
+5. Klicke in der Dropdown-Liste mit der rechten Maustaste auf "Untersuchen".
+6. Suche nach der ID `includeDiscoverSource`.
+
+- Ändere den Wert von:
+**<option value="opt_out_managed">Disabled for Managed Users</option>**
+auf:
+**<option value="opt_in">Enabled</option>**
+
+7. Jetzt auf `Speichern` klicken.
+
+===
+
 ---
