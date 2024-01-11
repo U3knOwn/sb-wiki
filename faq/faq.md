@@ -191,11 +191,12 @@ Ja, das ist möglich!
 Im `Streamboy Discord` unter:  
 
 - ***#film-wünsche***
-  - Befehl: `/wunsch film titel:John Wick`
-  - Alternativ Befehl: `/wunsch movie-tmdb id:tt2911666`<br/><br/>
+  - Befehl: `/request movie titel:John Wick`
+  - Alternativ Befehl: `/request movie-tmdb id:tt2911666`<br/><br/>
   
 - ***#serien-wünsche***
-  - Befehl: `/wunsch new-category titel:Prison Break`
+  - Befehl: `/request tv titel:Prison Break`
+  - Alternativ Befehl: `/request tv-tvdb id:360115`
 
 ===
 
