@@ -174,6 +174,7 @@ Der `Plex Pass` bietet nur sehr wenige Vorteile bei der Nutzung von Streamboy.
 Welche Vorteile habe ich bei der Nutzung von Streamboy in Kombination mit dem Plex Pass?
 - `Mehr Designs` stehen zur Auswahl.
 - Du kannst `Trailer` sehen.
+- Es entfällt die `einmalige Gebühr` für `mobile Geräte`.
 
 ===
 
