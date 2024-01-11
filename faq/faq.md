@@ -271,11 +271,13 @@ Dies ist nur durch einen "Trick" möglich, indem der Quellcode der Seite bearbei
 3. [Plex Online Medienquellen](https://app.plex.tv/desktop/#!/settings/online-media-sources) öffnen.
 4. Bei `Discover Medienquellen` auf Bearbeiten klicken.
 5. Klicke in der Dropdown-Liste mit der rechten Maustaste auf "Untersuchen".
-6. Suche nach der ID `includeDiscoverSource`.
+6. Suche nach der ID: `includeDiscoverSource`.
 
-``` Ändere den Wert von
+``` Ändere folgenden Wert von:
 <option value="opt_out_managed">Disabled for Managed Users</option>
-zu:
+
+auf:
+
 <option value="opt_in">Enabled</option>
 ```
 
