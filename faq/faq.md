@@ -293,7 +293,7 @@ Bitte beachte, dass dadurch der Server neu verbunden (geclaimt) werden muss und 
 
 1. [Plex Login](https://app.plex.tv/desktop/#!/login) öffnen.
 2. Meldet euch in Plex mit eurer `E-Mail-Adresse` und `Passwort` ein.
-3. [Zugelassene Geräte](https://app.plex.tv/desktop/#!/settings/devices/all) öffnen.
+3. [Zugelassene Geräte](https://app.plex.tv/desktop/#!/settings/devices/pms) öffnen.
 4. `Plex Media Server` suchen und rechts auf das `X` klicken.
 5. Mit der Schaltfläche `Entfernen` bestätigen.
 
