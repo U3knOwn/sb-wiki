@@ -73,8 +73,8 @@ Es ist wichtig, diese Schritte zu befolgen, damit täglich neue Medien auf der S
 [Einstellungen -> Geplante Aufgaben](https://u3known.github.io/sb-wiki/appbox/plex-settings/#geplante-aufgaben)<br/>
 [Verwalten -> Mediatheken](https://u3known.github.io/sb-wiki/appbox/plex-settings/#verwalten---mediatheken)<br/>
 
-Nach diesen Schritten ist nur noch ein Neustart des Servers erforderlich.  
-Nach dem Neustart wird die Mediathek automatisch alle 24 Stunden gescannt.  
+Nach diesen Schritten ist lediglich ein Neustart des Servers erforderlich.  
+Nach dem Neustart wird die Mediathek automatisch alle 6 Stunden gescannt.    
 
 ===
 
