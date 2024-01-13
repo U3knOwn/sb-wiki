@@ -231,7 +231,7 @@ Dies ist sehr wichtig, da sonst keine neuen Inhalte mehr erscheinen.<br/>
 !!!info Info
 Jetzt wird die Mediathek eingelesen, was sehr wichtig ist, da sonst einige Medien nicht abgespielt werden können.<br/>
 Es kann sein, dass man nicht findet, was man sucht, oder dass man Fehlermeldungen bekommt, wenn man etwas abspielen will.<br/>
-Normalerweise müsst ihr das nur einmal machen, da die Mediathek jeden Tag automatisch eingelesen wird.<br/>
+Normalerweise müsst ihr das nur einmal machen, da die Mediathek jeden Tag automatisch alle 6 Stunden eingelesen wird.<br/>
 !!!
 
 2. `Mediathek-Dateien einlesen` anklicken.
