@@ -55,7 +55,7 @@ Für den ersten Start in CoreELEC benötigt man die App `Neustart zu CoreELEC` u
 Die App wird auch nach einem Android-Update benötigt.
 !!!
 
-[!file Neustart zu CoreELEC](/static/Reboot_to_CoreELEC_2.0.apk)
+[!file Neustart zu CoreELEC](/static/Reboot_to_CoreELEC_3.0.apk)
 
 ---
 
