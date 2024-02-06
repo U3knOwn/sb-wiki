@@ -143,7 +143,7 @@ Der Vorteil dieses Addons ist, dass es regelmäßig aktualisiert wird.
 Das offizielle `Plex` Addon wird nicht mehr aktualisiert und startet nicht mehr.
 
 Hier findet ihr `PlexMod`:  
-[PlexMod](https://forums.plex.tv/t/plexmod-for-kodi-18-19-20-21)
+[PlexMod](https://forums.plex.tv/t/pm4k-plexmod-for-kodi-18-19-20-21)
 
 Hier wird beschrieben, wie man `PlexMod` perfekt einrichtet:  
 [Kodi / CoreELEC Einstellungen](https://u3known.github.io/sb-wiki/appbox/plex-app-settings/)
