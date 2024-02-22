@@ -96,7 +96,9 @@ icon: devices
 - Untertitel einbrennen: `Automatisch`
 - Untertitel download aktivieren: `Aus`
 
-### Kodi-Addon Einstellungen für `PlexMod`
+---
+
+**Kodi-Addon Einstellungen für `PlexMod`**
 
 **Benutzeroberfläche:**
 - Dynamische Hintergrundbilder aktivieren: `Ein`
