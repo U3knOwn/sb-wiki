@@ -33,7 +33,7 @@ icon: devices
 - 32 GB  
 
 **Betriebssystem:**  
-- Android TV 11.0  
+- Android TV 12.0  
 
 **Konnektivität:**
 - HDMI 2.1 mit HDCP 2.2
@@ -96,13 +96,11 @@ icon: devices
 | Dolby Atmos                 | ✅            |
 | Dolby Atmos (DD+ & EAC3)    | ✅            |
 | DTS                         | ✅            |
-| DTS-X                       | ✅¹ ❘ ⚠️      |
-| DTS-HD                      | ✅¹ ❘ ⚠️      |
+| DTS-X                       | ✅            |
+| DTS-HD                      | ✅            |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
-✅¹ = Passthrough in CoreELEC  
-⚠️ = PCM 7.1 (Verlustfrei) und keine 3D-Metadaten in Android  
 
 ---
 
@@ -112,8 +110,6 @@ icon: devices
 
 Die Dune HD Homatics Box R 4K Plus ist eine hervorragende Wahl für das Streaming mit Plex.  
 Sie eignet sich auch bestens für herkömmliche Streaminganbieter, CoreELEC und Kodi.  
-Unter Android ist zu beachten, dass DTS HD und DTS X in PCM 7.1 ausgegeben werden, was natürlich verlustfrei ist.  
-Einziger Nachteil bei DTS X ist, dass die Höheninformationen verloren gehen, was die Objektqualität nur minimal beeinflusst.  
 
 Möchtest du das volle Potenzial der Dune HD Homatics Box R 4K Plus ausschöpfen, empfehle ich dir dringend, CoreELEC in Betracht zu ziehen.  
 CoreELEC ist ein Linux-basiertes Betriebssystem, auf dem Kodi läuft und über einen USB-Stick gestartet werden kann.  
