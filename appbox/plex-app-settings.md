@@ -39,6 +39,12 @@ icon: devices
   
 **Einstellungen -> Ton**
 - Streaming-Qualität über Internet: `Original`
+
+**Einstellungen -> Erweitert**
+- Durchschleifen: `HDMI`
+- Wiederholraten umschalten: `Ein`
+- Auflösung-Umschaltung: `Ein`
+- Pause bei Wiederholraten-Umschaltung: `Keine`
 ===
 
 ==- Apple
