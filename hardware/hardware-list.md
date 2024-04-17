@@ -115,8 +115,6 @@ Möchtest du das volle Potenzial der Dune HD Homatics Box R 4K Plus ausschöpfen
 CoreELEC ist ein Linux-basiertes Betriebssystem, auf dem Kodi läuft und über einen USB-Stick gestartet werden kann.  
 Der Vorteil von CoreELEC liegt darin, dass Kodi speziell für dieses Gerät angepasst wurde und somit reibungslos läuft.  
 
-Unter CoreELEC kann die Dune HD Homatics Box R 4K Plus ihr volles Potenzial entfalten, da sie mit allen Codecs, sei es Video- oder Audio-Codecs, umgehen kann.  
-Alles wird hier im Passthrough-Modus ausgegeben.  
 Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wert.
 
 ===
@@ -144,7 +142,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 - 32 GB  
 
 **Betriebssystem:**  
-- Android TV 11.0  
+- Android TV 12.0  
 
 **Konnektivität:**
 - HDMI 2.1 mit HDCP 2.2
@@ -195,9 +193,9 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ---
 
+{.compact}
 <h3>Audio-Codecs:</h3> 
 
-{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -206,13 +204,11 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 | Dolby Atmos                 | ✅            |
 | Dolby Atmos (DD+ & EAC3)    | ✅            |
 | DTS                         | ✅            |
-| DTS-X                       | ✅¹ ❘ ⚠️      |
-| DTS-HD                      | ✅¹ ❘ ⚠️      |
+| DTS-X                       | ✅            |
+| DTS-HD                      | ✅            |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
-✅¹ = Passthrough in CoreELEC  
-⚠️ = PCM 7.1 (Verlustfrei) und keine 3D-Metadaten in Android  
 
 ---
 
@@ -222,15 +218,11 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 Die Homatics Box R 4K Plus ist eine hervorragende Wahl für das Streaming mit Plex.  
 Sie eignet sich auch bestens für herkömmliche Streaminganbieter, CoreELEC und Kodi.  
-Unter Android ist zu beachten, dass DTS HD und DTS X in PCM 7.1 ausgegeben werden, was natürlich verlustfrei ist.  
-Einziger Nachteil bei DTS X ist, dass die Höheninformationen verloren gehen, was die Objektqualität nur minimal beeinflusst.  
 
 Möchtest du das volle Potenzial der Homatics Box R 4K Plus ausschöpfen, empfehle ich dir dringend, CoreELEC in Betracht zu ziehen.  
 CoreELEC ist ein Linux-basiertes Betriebssystem, auf dem Kodi läuft und über einen USB-Stick gestartet werden kann.  
 Der Vorteil von CoreELEC liegt darin, dass Kodi speziell für dieses Gerät angepasst wurde und somit reibungslos läuft.  
 
-Unter CoreELEC kann die Homatics Box R 4K Plus ihr volles Potenzial entfalten, da sie mit allen Codecs, sei es Video- oder Audio-Codecs, umgehen kann.  
-Alles wird hier im Passthrough-Modus ausgegeben.  
 Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wert.
 
 ===
@@ -258,7 +250,7 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 - 32 GB  
 
 **Betriebssystem:**  
-- Android TV 11.0  
+- Android TV 12.0  
 
 **Konnektivität:**
 - HDMI 2.1 mit HDCP 2.2
@@ -313,6 +305,9 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 <h3>Audio-Codecs:</h3> 
 
 {.compact}
+| Cod{.compact}
+<h3>Audio-Codecs:</h3> 
+
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -321,13 +316,11 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 | Dolby Atmos                 | ✅            |
 | Dolby Atmos (DD+ & EAC3)    | ✅            |
 | DTS                         | ✅            |
-| DTS-X                       | ✅¹ ❘ ⚠️      |
-| DTS-HD                      | ✅¹ ❘ ⚠️      |
+| DTS-X                       | ✅            |
+| DTS-HD                      | ✅            |
 | Multi-PCM 5.1 & 7.1         | ✅            |
 
 ✅ = Passthrough  
-✅¹ = Passthrough in CoreELEC  
-⚠️ = PCM 7.1 (Verlustfrei) und keine 3D-Metadaten in Android  
 
 ---
 
@@ -337,15 +330,11 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 Die Nokia Streaming Box 8010 ist eine hervorragende Wahl für das Streaming mit Plex.  
 Sie eignet sich auch bestens für herkömmliche Streaminganbieter, CoreELEC und Kodi.  
-Unter Android ist zu beachten, dass DTS HD und DTS X in PCM 7.1 ausgegeben werden, was natürlich verlustfrei ist.  
-Einziger Nachteil bei DTS X ist, dass die Höheninformationen verloren gehen, was die Objektqualität nur minimal beeinflusst.  
 
 Möchtest du das volle Potenzial der Nokia Streaming Box 8010 ausschöpfen, empfehle ich dir dringend, CoreELEC in Betracht zu ziehen.  
 CoreELEC ist ein Linux-basiertes Betriebssystem, auf dem Kodi läuft und über einen USB-Stick gestartet werden kann.  
 Der Vorteil von CoreELEC liegt darin, dass Kodi speziell für dieses Gerät angepasst wurde und somit reibungslos läuft.  
 
-Unter CoreELEC kann die Nokia Streaming Box 8010 ihr volles Potenzial entfalten, da sie mit allen Codecs, sei es Video- oder Audio-Codecs, umgehen kann.  
-Alles wird hier im Passthrough-Modus ausgegeben.  
 Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wert.
 
 ===
