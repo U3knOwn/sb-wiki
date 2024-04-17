@@ -193,9 +193,9 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 
 ---
 
-{.compact}
 <h3>Audio-Codecs:</h3> 
 
+{.compact}
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
@@ -305,9 +305,6 @@ Die Kombination von CoreELEC und dem PlexMod-Addon ist definitiv einen Blick wer
 <h3>Audio-Codecs:</h3> 
 
 {.compact}
-| Cod{.compact}
-<h3>Audio-Codecs:</h3> 
-
 | Codecs                      | Unterstützung |
 | --------------------------- | ------------- |
 | Dolby Digital (AC3)         | ✅            |
